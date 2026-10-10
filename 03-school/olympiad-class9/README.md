@@ -74,7 +74,6 @@ Each chapter bank should grow to **20–30 questions**:
 4. Keep question paper and key in separate sections/files for realistic practice.
 5. Update the tracker only after the chapter’s question bank and key have been checked.
 
-
 ## Question-bank files currently stored
 - `IMO-part-01-number-algebra-coordinate.md` — 4 chapters × 10 questions.
 - `IMO-part-02-equations-geometry-sequences.md` — 5 chapters × 10 questions.
@@ -86,7 +85,6 @@ Each chapter bank should grow to **20–30 questions**:
 
 The first-round banks contain **330 original MCQs** (10 per section). Two challenge-round files add **165 more MCQs** (5 extra per section), for **495 original MCQs across 18 IMO and 15 NSO/ISO sections**, with answer keys. This is Version 2 of the text bank; answer keys are being audited and corrected as needed. Files are Markdown, readable/editable directly in GitHub and convertible to print-ready PDFs.
 
-
 ## Additional challenge rounds
 - [`IMO-challenge-round-02-all-chapters.md`](IMO-challenge-round-02-all-chapters.md) — 90 questions, 5 extra for each of 18 IMO sections.
 - [`NSO-challenge-round-02-all-chapters.md`](NSO-challenge-round-02-all-chapters.md) — 75 questions, 5 extra for each of 15 NSO/ISO sections.
@@ -94,6 +92,6 @@ The first-round banks contain **330 original MCQs** (10 per section). Two challe
 **Practice guidance:** aim for accuracy before speed. Do each section closed-book, mark uncertain items, review the key, then retry missed questions the next day. These are original practice questions, not official SOF questions, and practice cannot guarantee full marks.
 
 - [`chapter-mastery-tracker.md`](chapter-mastery-tracker.md) — score tracker, mistake log and mastery checklist.
-
 - [`IMO-last-minute-formula-sheet.md`](IMO-last-minute-formula-sheet.md) — formulas and key properties across all 18 IMO sections.
 - [`NSO-last-minute-concept-sheet.md`](NSO-last-minute-concept-sheet.md) — formulas and key concepts across all 15 NSO/ISO sections.
+- [`IMO-NSO-exam-strategy-error-log-final-booster.md`](IMO-NSO-exam-strategy-error-log-final-booster.md) — three-pass exam method, subject checklists, common traps, reusable mistake log, seven-day booster and readiness tracker.
