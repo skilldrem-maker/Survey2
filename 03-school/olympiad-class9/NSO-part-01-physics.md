@@ -58,10 +58,6 @@ Try without notes. Use SI units. Answer key is at the end.
 ## Answer key and short reasoning
 
 **Motion:** 1 B (150/10); 2 C (round trip); 3 C (v=0+2×5); 4 B; 5 A; 6 A ((5−20)/3); 7 A; 8 C (2000/300); 9 B; 10 B (equal-distance average = 2uv/(u+v)=40).
-**Force:** 1 B; 2 B (F=ma); 3 B; 4 B; 5 C; 6 C (a=5 m/s², v=15 m/s); 7 C (F=mΔv/Δt); 8 B; 9 B; 10 B (conserve momentum: 8/(8)=1? Check: initial momentum 2×4=8, total mass 8 kg, velocity=1 m/s; correct answer **C**, not B).
+**Force:** 1 B; 2 B (F=ma); 3 B; 4 B; 5 C; 6 C (a=5 m/s², v=15 m/s); 7 C (F=mΔv/Δt); 8 B; 9 B; 10 C (initial momentum 8 kg·m/s; total mass 8 kg, so v=1 m/s).
 **Gravitation:** 1 B; 2 B; 3 B; 4 C; 5 C; 6 B; 7 B; 8 B; 9 B; 10 A.
 **Work and Energy:** 1 A; 2 B; 3 C; 4 C; 5 C; 6 A; 7 C; 8 A; 9 C; 10 A.
-
-## Key audit notes
-- Force Q10: correct answer is **C (1 m/s)**, from conservation of momentum.
-- Recheck all calculations and option letters before using this as a timed test.
