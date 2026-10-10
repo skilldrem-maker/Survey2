@@ -47,7 +47,7 @@ Class 9 • Original practice • 10 questions per chapter
 7. All roses are flowers. Some flowers fade quickly. Which must be true? A all roses fade quickly B some roses fade quickly C all roses are flowers D no flowers are roses
 8. If today is Tuesday, what day is 10 days later? A Thursday B Friday C Saturday D Sunday
 9. A number is multiplied by 3 and then 5 is added to give 26. Number: A 5 B 6 C 7 D 8
-10. In a class, every student studies Math or Science or both. 18 study Math, 15 Science, 7 both. Total students: A 26 B 33 C 40 D 40? 
+10. In a class, every student studies Math or Science or both. 18 study Math, 15 Science, 7 both. Total students: A 26 B 33 C 40 D 25 
 
 ## Answer key
 **Surface area/volume:** 1 C, 2 C, 3 C, 4 B, 5 B, 6 D, 7 B, 8 D, 9 C, 10 B.
