@@ -53,7 +53,7 @@ Suggested timing: 25–35 minutes for one section; use this as a second practice
 
 ## 8. Sequences and Progressions
 1. 7th term of AP 4, 9, 14, … is: A) 29 B) 34 C) 39 D) 44
-2. Sum of first 8 terms of AP 2,5,8,… is: A) 84 B) 88 C) 92 D) 96
+2. Sum of first 8 terms of AP 2,5,8,… is: A) 84 B) 88 C) 92 D) 100
 3. If a_n=3n−2, a_9=: A) 23 B) 24 C) 25 D) 27
 4. Next term 1, 4, 9, 16, 25, … is: A) 30 B) 32 C) 36 D) 49
 5. An AP has a=10 and d=−3. Fourth term: A) 1 B) 3 C) 4 D) 7
@@ -130,13 +130,13 @@ Suggested timing: 25–35 minutes for one section; use this as a second practice
 
 ## Answer key
 **1 Number Systems:** 1 B (5√3−2√3=3√3); 2 C; 3 B; 4 B; 5 B.
-**2 Polynomials:** 1 B; 2 A (4+2k−6=0 gives k=1? Correct value is k=1, option B); 3 C; 4 D; 5 B.
-**3 Identities:** 1 B; 2 C; 3 A; 4 B; 5 C.
+**2 Polynomials:** 1 B; 2 B (4+2k−6=0 gives k=1); 3 C; 4 D; 5 B.
+**3 Identities:** 1 B; 2 A (8²−2×12=40); 3 A; 4 B; 5 C.
 **4 Coordinates:** 1 B; 2 B; 3 C; 4 C; 5 B.
 **5 Linear equations:** 1 A; 2 B; 3 C; 4 B; 5 C.
 **6 Euclid:** 1 A; 2 B; 3 C; 4 A; 5 A.
-**7 Lines and angles:** 1 C; 2 B; 3 A; 4 C; 5 B.
-**8 Sequences:** 1 B; 2 A; 3 A; 4 C; 5 A.
+**7 Lines and angles:** 1 C; 2 B; 3 A; 4 C; 5 C.
+**8 Sequences:** 1 B; 2 D (sum=8/2×(4+21)=100); 3 C; 4 C; 5 A.
 **9 Triangles:** 1 A; 2 A; 3 C; 4 C; 5 C.
 **10 Quadrilaterals:** 1 B; 2 B; 3 B; 4 A; 5 A.
 **11 Areas:** 1 B; 2 C; 3 A; 4 C; 5 C.
