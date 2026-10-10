@@ -57,7 +57,7 @@ Try each chapter in 10–15 minutes. Choose one answer per question. Answer key 
 
 ## Answer key and reasoning
 
-**Number Systems:** 1 C (18 is not a perfect square); 2 B (difference of squares = 5−2); 3 A (3.1²=9.61 and 3.4²=11.56, so 3.1 is between √10 and √11? No: √10≈3.162, so none of these choices except the intended value should be corrected. **Correction:** replace Q3 option A with **3.2**; answer A. 4 B (x²=5+2√6 and 1/x²=5−2√6, sum 10); 5 C; 6 B (multiply by conjugate); 7 C; 8 B (0.\overline{27}=27/99=3/11); 9 A (5√2−2√2); 10 B (p²=2).
+**Number Systems:** 1 C (18 is not a perfect square); 2 B (difference of squares = 5−2); 3 A (√10≈3.162 and √11≈3.317, so 3.2 lies between them). 4 B (x²=5+2√6 and 1/x²=5−2√6, sum 10); 5 C; 6 B (multiply by conjugate); 7 C; 8 B (0.\overline{27}=27/99=3/11); 9 A (5√2−2√2); 10 B (p²=2).
 **Polynomials:** 1 C; 2 A (4−8+1=−3); 3 B (9+3k−12=0 gives k=1); 4 C (p(−1)=−1+2+1+4=6); 5 D; 6 B (−2+1+5=4); 7 B; 8 D (4−2k+6=0 gives k=5); 9 B; 10 B (sum of roots = 5).
 **Algebraic Identities:** 1 B; 2 A; 3 C; 4 A (81−28=53); 5 B; 6 A; 7 C (x²+y²=(x−y)²+2xy=25+12=37); 8 B; 9 A ((50−1)(50+1)=2500−1); 10 B (square both sides: x²+2+1/x²=16).
 **Coordinate Geometry:** 1 B; 2 C; 3 A; 4 B; 5 C; 6 D; 7 C; 8 C; 9 A; 10 B.
