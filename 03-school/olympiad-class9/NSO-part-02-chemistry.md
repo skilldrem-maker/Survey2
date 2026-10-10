@@ -1,4 +1,4 @@
-# NSO/ISO Practice Bank — Part 2: Chemistry
+# NSO/ISO Practice Bank — Part 2: Sound, Matter and Chemistry
 Class 9 • Original practice • 10 questions per chapter
 
 ## 5. Sound
