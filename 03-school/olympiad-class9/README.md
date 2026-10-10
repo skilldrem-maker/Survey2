@@ -73,3 +73,15 @@ Each chapter bank should grow to **20–30 questions**:
 3. Recalculate numerical answer keys and check option letters before release.
 4. Keep question paper and key in separate sections/files for realistic practice.
 5. Update the tracker only after the chapter’s question bank and key have been checked.
+
+
+## Question-bank files currently stored
+- `IMO-part-01-number-algebra-coordinate.md` — 4 chapters × 10 questions.
+- `IMO-part-02-equations-geometry-sequences.md` — 5 chapters × 10 questions.
+- `IMO-part-03-plane-geometry-mensuration.md` — 5 chapters × 10 questions.
+- `IMO-part-04-volume-statistics-probability-reasoning.md` — 4 chapters × 10 questions.
+- `NSO-part-01-physics.md` — 4 chapters × 10 questions.
+- `NSO-part-02-chemistry.md` — 5 chapters × 10 questions (includes Sound, which is a physics topic).
+- `NSO-part-03-biology-reasoning.md` — 6 chapters × 10 questions.
+
+These seven banks currently contain **330 original MCQs across the 18 IMO sections and 15 NSO/ISO sections**, with answer keys. This is Version 1; more advanced/HOTS rounds and full worked explanations can be added after the first-pass key audit. Files are Markdown, so they can be read and edited directly in GitHub and converted to print-ready PDFs later.
