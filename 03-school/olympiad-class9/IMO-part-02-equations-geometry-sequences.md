@@ -10,7 +10,7 @@
 5. The point where 2x+y=6 meets the y-axis is: A) (3,0) B) (0,6) C) (0,3) D) (6,0)
 6. If (a,2) lies on x−3y=−5, a equals: A) −11 B) −1 C) 1 D) 11
 7. A taxi charges ₹40 fixed plus ₹12 per km. If total fare is ₹100 for x km, equation is: A) 40x+12=100 B) 12x+40=100 C) 52x=100 D) 12x−40=100
-8. Which equation has (2,−1) as a solution? A) x+y=0 B) 2x+y=1 C) x−y=1 D) 3x+y=4
+8. Which equation has (2,−1) as a solution? A) x+y=1 B) 2x+y=1 C) x−y=1 D) 3x+y=4
 9. If y=0 in 5x+2y=20, x is: A) 2 B) 4 C) 5 D) 10
 10. The graph of a linear equation in two variables is generally: A) a straight line B) a circle C) a parabola D) a single point
 
@@ -67,10 +67,8 @@
 10. If two triangles have all three corresponding sides equal, they are congruent by: A) ASA B) SAS C) SSS D) RHS
 
 ## Answer key — Part 2
-**Linear equations:** 1 B (4+3=7); 2 B; 3 A (6−2=4); 4 C; 5 B; 6 A (a−6=−5 gives a=1, so correct answer **C**); 7 B; 8 A (2−1=1, wait A says x+y=0 yes 2+(−1)=1 not 0; B gives 4−1=3 not 1; C gives 2−(−1)=3 not 1; D gives 6−1=5 not 4; **replace Q8 option A with x+y=1, answer A**); 9 B; 10 A.
+**Linear equations:** 1 B; 2 B; 3 A; 4 C; 5 B; 6 C; 7 B; 8 A; 9 B; 10 A.
 **Euclid:** 1 B; 2 B; 3 A; 4 B; 5 A; 6 A; 7 A; 8 B; 9 A; 10 C.
-**Lines and angles:** 1 B; 2 B; 3 B; 4 A; 5 B; 6 B; 7 B; 8 C (4x=2x+30 => x=15, so answer **B**); 9 C (x−(90−x)=25 => x=57.5); 10 C.
-**Sequences:** 1 C; 2 A; 3 C; 4 A (7+5×−2=−3, so correct answer **B**); 5 B; 6 C; 7 B (a+12=18, a=6); 8 C; 9 C (differences 4,6,8,10, next 12 ->42); 10 B (2+6+10+14+18=50, so correct answer **C**).
-**Triangles:** 1 C (9x=180, x=20, largest 80); 2 C; 3 A; 4 B; 5 B; 6 B; 7 B; 8 B (base angles 52°, A=76°, so correct answer **C**); 9 C; 10 C.
-
-**Audit before timed use:** Apply the corrections explicitly noted in the key: Linear Q6 answer C; Q8 change option A to x+y=1; Lines Q8 answer B; Sequences Q4 answer B and Q10 answer C; Triangles Q8 answer C. These corrections are included here so the bank remains transparent while being checked.
+**Lines and angles:** 1 B; 2 B; 3 B; 4 A; 5 B; 6 B; 7 B; 8 B; 9 C; 10 C.
+**Sequences:** 1 C; 2 A; 3 C; 4 B; 5 B; 6 C; 7 B; 8 C; 9 C; 10 C.
+**Triangles:** 1 C; 2 C; 3 A; 4 B; 5 B; 6 B; 7 B; 8 C; 9 C; 10 C.
