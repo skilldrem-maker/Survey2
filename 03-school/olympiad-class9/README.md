@@ -84,4 +84,11 @@ Each chapter bank should grow to **20–30 questions**:
 - `NSO-part-02-chemistry.md` — 5 chapters × 10 questions (includes Sound, which is a physics topic).
 - `NSO-part-03-biology-reasoning.md` — 6 chapters × 10 questions.
 
-These seven banks currently contain **330 original MCQs across the 18 IMO sections and 15 NSO/ISO sections**, with answer keys. This is Version 1; more advanced/HOTS rounds and full worked explanations can be added after the first-pass key audit. Files are Markdown, so they can be read and edited directly in GitHub and converted to print-ready PDFs later.
+The first-round banks contain **330 original MCQs** (10 per section). Two challenge-round files add **165 more MCQs** (5 extra per section), for **495 original MCQs across 18 IMO and 15 NSO/ISO sections**, with answer keys. This is Version 2 of the text bank; answer keys are being audited and corrected as needed. Files are Markdown, readable/editable directly in GitHub and convertible to print-ready PDFs.
+
+
+## Additional challenge rounds
+- [`IMO-challenge-round-02-all-chapters.md`](IMO-challenge-round-02-all-chapters.md) — 90 questions, 5 extra for each of 18 IMO sections.
+- [`NSO-challenge-round-02-all-chapters.md`](NSO-challenge-round-02-all-chapters.md) — 75 questions, 5 extra for each of 15 NSO/ISO sections.
+
+**Practice guidance:** aim for accuracy before speed. Do each section closed-book, mark uncertain items, review the key, then retry missed questions the next day. These are original practice questions, not official SOF questions, and practice cannot guarantee full marks.
