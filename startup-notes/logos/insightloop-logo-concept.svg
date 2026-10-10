@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">InsightLoop logo concept</title>
+  <desc id="desc">Two connected blue and teal arcs form a loop above the InsightLoop wordmark on a dark navy background.</desc>
+  <defs>
+    <linearGradient id="loopGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="28" fill="#101827"/>
+  <g transform="translate(600 205)" fill="none" stroke="url(#loopGradient)" stroke-width="22" stroke-linecap="round">
+    <path d="M-70 0 C-70 -68 10 -90 54 -42 C92 0 50 56 0 56 C-46 56 -74 24 -70 0"/>
+    <path d="M70 0 C70 68 -10 90 -54 42 C-92 0 -50 -56 0 -56 C46 -56 74 -24 70 0"/>
+  </g>
+  <text x="600" y="390" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" text-anchor="middle" fill="#FFFFFF">InsightLoop</text>
+  <text x="600" y="455" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="2" text-anchor="middle" fill="#67E8F9">EVERY OPINION. A BETTER INSIGHT.</text>
+  <text x="600" y="570" font-family="Inter, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#94A3B8">Logo concept • presentation use</text>
+</svg>
