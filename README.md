@@ -19,3 +19,8 @@ Survey2 is the storage hub. ChatGPT acts as the Key Supervisor and can coordinat
 ## Current control document
 
 See [`SUPERVISOR.md`](SUPERVISOR.md) for the supervisor role and operating principles.
+
+
+## Class 9 Olympiad preparation
+
+- **IMO + NSO/ISO question banks, answer keys, official source links, and 12-day revision plan:** [`03-school/olympiad-class9/README.md`](03-school/olympiad-class9/README.md)
