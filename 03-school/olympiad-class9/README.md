@@ -92,3 +92,5 @@ The first-round banks contain **330 original MCQs** (10 per section). Two challe
 - [`NSO-challenge-round-02-all-chapters.md`](NSO-challenge-round-02-all-chapters.md) — 75 questions, 5 extra for each of 15 NSO/ISO sections.
 
 **Practice guidance:** aim for accuracy before speed. Do each section closed-book, mark uncertain items, review the key, then retry missed questions the next day. These are original practice questions, not official SOF questions, and practice cannot guarantee full marks.
+
+- [`chapter-mastery-tracker.md`](chapter-mastery-tracker.md) — score tracker, mistake log and mastery checklist.
