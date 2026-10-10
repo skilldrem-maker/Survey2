@@ -7,7 +7,7 @@ Try each chapter in 10–15 minutes. Choose one answer per question. Answer key 
 
 1. Which is irrational? A) 0.125 B) \(\sqrt{81}\) C) \(\sqrt{18}\) D) \(7/11\)
 2. Simplify \((\sqrt5+\sqrt2)(\sqrt5-\sqrt2)\). A) 7 B) 3 C) \(\sqrt3\) D) 10
-3. Which lies between \(\sqrt{10}\) and \(\sqrt{11}\)? A) 3.1 B) 3.4 C) 3.5 D) 3.6
+3. Which lies between \(\sqrt{10}\) and \(\sqrt{11}\)? A) 3.2 B) 3.4 C) 3.5 D) 3.6
 4. If \(x=\sqrt3+\sqrt2\), find \(x^2+1/x^2\). A) 8 B) 10 C) 12 D) 14
 5. The decimal expansion of a rational number is always: A) terminating only B) non-terminating only C) terminating or recurring D) non-recurring
 6. Rationalise \(1/(\sqrt7-\sqrt5)\). A) \((\sqrt7-\sqrt5)/2\) B) \((\sqrt7+\sqrt5)/2\) C) \(\sqrt{35}/2\) D) 2
