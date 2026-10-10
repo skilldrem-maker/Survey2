@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Veltrix name concept</title>
+  <desc id="desc">A geometric electric-blue V emblem and the VELTRIX wordmark on a dark navy background. This is a presentation concept, not a registered brand.</desc>
+  <defs>
+    <linearGradient id="vGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#70E1FF"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="28" fill="#080D1A"/>
+  <path d="M475 95 L555 95 L600 225 L645 95 L725 95 L630 310 L570 310 Z" fill="url(#vGradient)"/>
+  <text x="600" y="405" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="8" text-anchor="middle" fill="#FFFFFF">VELTRIX</text>
+  <text x="600" y="470" font-family="Inter, Arial, sans-serif" font-size="27" letter-spacing="2" text-anchor="middle" fill="#70D9FF">ENGINEERED FOR TOMORROW.</text>
+  <text x="600" y="570" font-family="Inter, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#94A3B8">Name concept only • not a company launch</text>
+</svg>
