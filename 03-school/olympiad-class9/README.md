@@ -94,3 +94,6 @@ The first-round banks contain **330 original MCQs** (10 per section). Two challe
 **Practice guidance:** aim for accuracy before speed. Do each section closed-book, mark uncertain items, review the key, then retry missed questions the next day. These are original practice questions, not official SOF questions, and practice cannot guarantee full marks.
 
 - [`chapter-mastery-tracker.md`](chapter-mastery-tracker.md) — score tracker, mistake log and mastery checklist.
+
+- [`IMO-last-minute-formula-sheet.md`](IMO-last-minute-formula-sheet.md) — formulas and key properties across all 18 IMO sections.
+- [`NSO-last-minute-concept-sheet.md`](NSO-last-minute-concept-sheet.md) — formulas and key concepts across all 15 NSO/ISO sections.
