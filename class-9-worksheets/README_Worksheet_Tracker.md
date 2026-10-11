@@ -27,6 +27,11 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [IMO Mathematics — Triangles](IMO_Maths_Triangles_Set01.md)
 - [IMO Mathematics — Quadrilaterals](IMO_Maths_Quadrilaterals_Set01.md)
 - [IMO Mathematics — Circles](IMO_Maths_Circles_Set01.md)
+- [IMO Mathematics — Logical Reasoning](IMO_Maths_Logical_Reasoning_Set01.md)
+- [IMO Mathematics — Everyday Mathematics](IMO_Maths_Everyday_Mathematics_Set01.md)
+- [NSO Science — Atoms and Molecules](NSO_Science_Atoms_and_Molecules_Set01.md)
+- [NSO Science — Improvement in Food Resources](NSO_Science_Improvement_in_Food_Resources_Set01.md)
+- [NSO Science — Scientific Reasoning](NSO_Science_Scientific_Reasoning_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -42,13 +47,13 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [x] [Surface Areas and Volumes](IMO_Maths_Surface_Areas_and_Volumes_Set01.md)
 - [x] [Statistics](IMO_Maths_Statistics_Set01.md)
 - [x] [Probability](IMO_Maths_Probability_Set01.md)
-- [ ] Logical Reasoning
-- [ ] Everyday Mathematics / Achievers-style mixed practice
+- [x] [Logical Reasoning](IMO_Maths_Logical_Reasoning_Set01.md)
+- [x] [Everyday Mathematics / Achievers-style mixed practice](IMO_Maths_Everyday_Mathematics_Set01.md)
 
 ## NSO Science lesson tracker
 - [x] Matter in Our Surroundings
 - [x] [Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
-- [ ] Atoms and Molecules
+- [x] [Atoms and Molecules](NSO_Science_Atoms_and_Molecules_Set01.md)
 - [x] [Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
 - [x] [The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
 - [x] [Tissues](NSO_Science_Tissues_Set01.md)
@@ -58,8 +63,8 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [x] [Gravitation](NSO_Science_Gravitation_Set01.md)
 - [x] [Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
 - [x] [Sound](NSO_Science_Sound_Set01.md)
-- [ ] Improvement in Food Resources
-- [ ] Scientific reasoning, experiments, graphs, and Achievers-style mixed practice
+- [x] [Improvement in Food Resources](NSO_Science_Improvement_in_Food_Resources_Set01.md)
+- [x] [Scientific reasoning, experiments, graphs, and Achievers-style mixed practice](NSO_Science_Scientific_Reasoning_Set01.md)
 
 ## Quality checklist for every worksheet
 - 100 numbered, original four-option MCQs
@@ -80,4 +85,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the twenty-four linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the twenty-nine linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
