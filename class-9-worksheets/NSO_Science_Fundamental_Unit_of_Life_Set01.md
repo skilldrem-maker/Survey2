@@ -85,9 +85,29 @@
 78. The chromosomes are made mainly of DNA and A) proteins   B) cell wall   C) chloroplast   D) nucleus
 79. Which structure helps maintain cell shape in plants? A) chloroplast   B) nucleus   C) ribosome   D) cell wall
 80. The organelle that contains digestive enzymes is the A) cell wall   B) chloroplast   C) lysosome   D) nucleus
+81. Which structure regulates what enters and leaves the cell? A) cell wall   B) nucleus   C) cell membrane   D) vacuole
+82. Which structure is usually the largest organelle in a mature plant cell? A) ribosome   B) lysosome   C) centriole   D) central vacuole
+83. Which cell part contains chromosomes? A) nucleus   B) cell wall   C) Golgi apparatus   D) vacuole
+84. Which organelle is the main site of aerobic respiration? A) chloroplast   B) mitochondrion   C) ribosome   D) lysosome
+85. Which organelle makes proteins? A) vacuole   B) cell wall   C) ribosome   D) centriole
+86. Which structure is absent in typical animal cells but present in plant cells? A) cell membrane   B) cytoplasm   C) mitochondrion   D) cell wall
+87. Which process explains water entering a plant cell through its membrane? A) osmosis   B) photosynthesis   C) respiration   D) transpiration
+88. Which scientist proposed that plants are made of cells? A) Robert Hooke   B) Matthias Schleiden   C) Charles Darwin   D) Gregor Mendel
+89. Which scientist proposed that animals are made of cells? A) Robert Brown   B) Louis Pasteur   C) Theodor Schwann   D) J. J. Thomson
+90. Who discovered the nucleus in cells? A) Robert Hooke   B) Antonie van Leeuwenhoek   C) Rudolf Virchow   D) Robert Brown
+91. Which structure provides a plant cell with extra mechanical support? A) cell wall   B) ribosome   C) nucleolus   D) Golgi apparatus
+92. Which organelle helps transport materials inside a cell? A) chloroplast   B) endoplasmic reticulum   C) nucleus   D) cell wall
+93. Which structure is responsible for photosynthesis? A) mitochondrion   B) lysosome   C) chloroplast   D) ribosome
+94. What is the basic unit of heredity? A) tissue   B) organelle   C) vacuole   D) gene
+95. Which statement about prokaryotic cells is correct? A) They lack a membrane-bound nucleus   B) They always have chloroplasts   C) They have no genetic material   D) They are always multicellular
+96. Which process allows particles to spread from high to low concentration? A) osmosis only   B) diffusion   C) cell division   D) photosynthesis
+97. Which part of the cell helps package and dispatch materials? A) ribosome   B) cell wall   C) Golgi apparatus   D) chromosome
+98. What is the term for the loss of water from a plant cell causing the membrane to pull from the wall? A) turgidity   B) diffusion   C) fertilisation   D) plasmolysis
+99. Which level of organisation comes directly after cell in a multicellular organism? A) tissue   B) organ system   C) organism   D) organ
+100. Which organelle contains enzymes that digest wastes and worn-out parts? A) chloroplast   B) lysosome   C) nucleolus   D) cell wall
 
 ### Answer Key
-1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C
+1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 C · 82 D · 83 A · 84 B · 85 C · 86 D · 87 A · 88 B · 89 C · 90 D · 91 A · 92 B · 93 C · 94 D · 95 A · 96 B · 97 C · 98 D · 99 A · 100 B
 
 ### Review
 Score: ____ / 100  
