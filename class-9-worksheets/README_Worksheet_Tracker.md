@@ -14,6 +14,7 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [NSO Science — Force and Laws of Motion](NSO_Science_Force_and_Laws_of_Motion_Set01.md)
 - [NSO Science — Gravitation](NSO_Science_Gravitation_Set01.md)
 - [NSO Science — Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
+- [NSO Science — Sound](NSO_Science_Sound_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -44,7 +45,7 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [x] [Force and Laws of Motion](NSO_Science_Force_and_Laws_of_Motion_Set01.md)
 - [x] [Gravitation](NSO_Science_Gravitation_Set01.md)
 - [x] [Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
-- [ ] Sound
+- [x] [Sound](NSO_Science_Sound_Set01.md)
 - [ ] Improvement in Food Resources
 - [ ] Scientific reasoning, experiments, graphs, and Achievers-style mixed practice
 
@@ -67,4 +68,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the eleven linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the twelve linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
