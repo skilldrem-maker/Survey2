@@ -85,9 +85,29 @@
 78. The formula of aluminium oxide is: A) mass is always lost   B) Al₂O₃   C) elements are in any ratio   D) anion
 79. A positively charged ion is called a: A) cation   B) mass is always lost   C) elements are in any ratio   D) anion
 80. A negatively charged ion is called an: A) mass is always lost   B) elements are in any ratio   C) cation   D) anion
+81. The relative atomic mass of oxygen is commonly taken as: A) 8   B) 16   C) 12   D) 32
+82. The valency of oxygen in water is: A) 2   B) 1   C) 3   D) 4
+83. The valency of aluminium is: A) 1   B) 2   C) 4   D) 3
+84. The chemical formula of carbon monoxide is: A) CO2   B) C2O   C) CO   D) C2O3
+85. The chemical formula of calcium oxide is: A) Ca2O   B) CaO   C) CaO2   D) Ca2O3
+86. The chemical formula of sodium carbonate is: A) Na2CO3   B) NaCO3   C) NaCO2   D) Na3CO2
+87. The chemical formula of magnesium chloride is: A) MgCl   B) Mg2Cl   C) Mg2Cl3   D) MgCl2
+88. A molecule of oxygen contains how many oxygen atoms? A) 1   B) 3   C) 2   D) 4
+89. The atomicity of ozone (O3) is: A) 1   B) 3   C) 2   D) 4
+90. Which is a monoatomic noble gas? A) Helium   B) Oxygen   C) Nitrogen   D) Hydrogen
+91. The formula unit of sodium chloride represents Na:Cl in what ratio? A) 1:2   B) 2:1   C) 2:2   D) 1:1
+92. The molar mass of water is: A) 16 g/mol   B) 17 g/mol   C) 18 g/mol   D) 20 g/mol
+93. The number of atoms in one molecule of H2SO4 is: A) 5   B) 7   C) 6   D) 8
+94. The number of elements in CaCO3 is: A) 3   B) 2   C) 4   D) 5
+95. Which is a polyatomic ion? A) Na+   B) Cl-   C) Mg2+   D) SO4 2-
+96. The charge on a calcium ion is: A) +1   B) +3   C) +2   D) 0
+97. Which symbol is written with a capital letter followed by a lowercase letter? A) CO   B) Co   C) cO   D) co
+98. A chemical formula indicates the kinds and relative numbers of: A) atoms in a substance   B) only colours   C) only physical states   D) only sample sizes
+99. The formula of aluminium chloride is: A) AlCl   B) Al2Cl   C) AlCl2   D) AlCl3
+100. The formula of calcium nitrate is: A) CaNO3   B) Ca2NO3   C) Ca(NO3)2   D) Ca(NO2)2
 
 ### Answer Key
-1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D
+1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
 
 ### Review
 Score: ____ / 100  
