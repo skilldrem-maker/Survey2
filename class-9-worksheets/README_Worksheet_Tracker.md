@@ -85,4 +85,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the twenty-nine linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: all 29 tracked lessons now have a saved worksheet with 100 numbered questions and an answer key. Question counts and key-entry counts were checked against the saved files. A full manual review of every scientific fact, calculation, distractor, and answer-key alignment is still recommended before treating these as exam-final materials.
