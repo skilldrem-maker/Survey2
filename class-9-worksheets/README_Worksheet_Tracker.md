@@ -19,6 +19,8 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [NSO Science — Diversity in Living Organisms](NSO_Science_Diversity_in_Living_Organisms_Set01.md)
 - [IMO Mathematics — Statistics](IMO_Maths_Statistics_Set01.md)
 - [IMO Mathematics — Probability](IMO_Maths_Probability_Set01.md)
+- [IMO Mathematics — Heron's Formula](IMO_Maths_Herons_Formula_Set01.md)
+- [IMO Mathematics — Surface Areas and Volumes](IMO_Maths_Surface_Areas_and_Volumes_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -30,8 +32,8 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [ ] Triangles
 - [ ] Quadrilaterals
 - [ ] Circles
-- [ ] Heron's Formula
-- [ ] Surface Areas and Volumes
+- [x] [Heron's Formula](IMO_Maths_Herons_Formula_Set01.md)
+- [x] [Surface Areas and Volumes](IMO_Maths_Surface_Areas_and_Volumes_Set01.md)
 - [x] [Statistics](IMO_Maths_Statistics_Set01.md)
 - [x] [Probability](IMO_Maths_Probability_Set01.md)
 - [ ] Logical Reasoning
@@ -72,4 +74,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the sixteen linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the eighteen linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
