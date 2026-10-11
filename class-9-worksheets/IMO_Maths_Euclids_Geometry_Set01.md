@@ -84,9 +84,29 @@
 78. The fixed distance defining a circle is its: A) equal in length   B) 12   C) radius   D) point
 79. An angle is formed by two rays with a common: A) equal in length   B) 12   C) point   D) endpoint
 80. The common endpoint of two rays is called the: A) vertex   B) equal in length   C) 12   D) point
+81. The term 'collinear' means points lying on the same A) circle   B) straight line   C) plane only   D) angle
+82. The term 'coplanar' means points lying in the same A) straight line   B) circle   C) plane   D) ray
+83. A point is considered to have A) one dimension   B) two dimensions   C) three dimensions   D) zero dimensions
+84. A solid has length, breadth and A) height   B) radius   C) angle   D) slope
+85. Two distinct lines in a plane either intersect or are A) perpendicular only   B) parallel   C) curved   D) identical always
+86. If two angles are both right angles, they are A) supplementary only   B) acute   C) equal   D) unequal
+87. If x = y, then 3x = A) x + 3   B) y - 3   C) x/3   D) 3y
+88. If AB = CD, adding 2 cm to each gives A) AB + 2 = CD + 2   B) AB = CD + 2   C) AB + 2 = CD   D) AB - 2 = CD
+89. A result that follows directly from a theorem is a A) axiom   B) corollary   C) definition   D) postulate
+90. A precise explanation of the meaning of a term is a A) theorem   B) corollary   C) definition   D) conjecture
+91. The set of points equally distant from a centre forms a A) line   B) triangle   C) rectangle   D) circle
+92. The distance from the centre to the circle is the A) radius   B) diameter   C) chord   D) tangent
+93. A chord passing through the centre is a A) radius   B) diameter   C) tangent   D) arc
+94. The endpoints of a line segment are A) one point   B) no points   C) two points   D) three points
+95. An angle is measured in A) centimetres   B) square units   C) kilograms   D) degrees
+96. The fifth postulate is sometimes associated with the uniqueness of a line through a point that is A) parallel to a given line   B) perpendicular to every line   C) equal to a circle   D) a segment
+97. A proof begins with given facts and uses logical A) guessing   B) reasoning   C) measurement only   D) drawing only
+98. A diagram can help understand a geometry problem but does not replace a A) point   B) line   C) proof   D) plane
+99. Euclidean geometry studies figures on a flat A) sphere only   B) curved surface only   C) cone   D) plane
+100. A statement accepted without proof in a mathematical system is a A) starting assumption   B) calculation   C) measurement   D) diagram
 
 ### Answer Key
-1 B · 2 C · 3 D · 4 A · 5 B · 6 C · 7 D · 8 A · 9 B · 10 C · 11 D · 12 A · 13 B · 14 C · 15 D · 16 A · 17 B · 18 C · 19 D · 20 A · 21 B · 22 C · 23 D · 24 A · 25 B · 26 C · 27 D · 28 A · 29 B · 30 C · 31 D · 32 A · 33 B · 34 C · 35 D · 36 A · 37 B · 38 C · 39 D · 40 A · 41 B · 42 C · 43 D · 44 A · 45 B · 46 C · 47 D · 48 A · 49 B · 50 C · 51 D · 52 A · 53 B · 54 C · 55 D · 56 A · 57 B · 58 C · 59 D · 60 A · 61 B · 62 C · 63 D · 64 A · 65 B · 66 C · 67 D · 68 A · 69 B · 70 C · 71 D · 72 A · 73 B · 74 C · 75 D · 76 A · 77 B · 78 C · 79 D · 80 A
+1 B · 2 C · 3 D · 4 A · 5 B · 6 C · 7 D · 8 A · 9 B · 10 C · 11 D · 12 A · 13 B · 14 C · 15 D · 16 A · 17 B · 18 C · 19 D · 20 A · 21 B · 22 C · 23 D · 24 A · 25 B · 26 C · 27 D · 28 A · 29 B · 30 C · 31 D · 32 A · 33 B · 34 C · 35 D · 36 A · 37 B · 38 C · 39 D · 40 A · 41 B · 42 C · 43 D · 44 A · 45 B · 46 C · 47 D · 48 A · 49 B · 50 C · 51 D · 52 A · 53 B · 54 C · 55 D · 56 A · 57 B · 58 C · 59 D · 60 A · 61 B · 62 C · 63 D · 64 A · 65 B · 66 C · 67 D · 68 A · 69 B · 70 C · 71 D · 72 A · 73 B · 74 C · 75 D · 76 A · 77 B · 78 C · 79 D · 80 A · 81 B · 82 C · 83 D · 84 A · 85 B · 86 C · 87 D · 88 A · 89 B · 90 C · 91 D · 92 A · 93 B · 94 C · 95 D · 96 A · 97 B · 98 C · 99 D · 100 A
 
 ### Review
 Score: ____ / 100
