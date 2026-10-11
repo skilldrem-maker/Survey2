@@ -9,6 +9,7 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [NSO Science — Matter in Our Surroundings](NSO_Science_Matter_Surroundings_Set01.md)
 - [NSO Science — Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
 - [NSO Science — Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
+- [NSO Science — The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -32,7 +33,7 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [x] [Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
 - [ ] Atoms and Molecules
 - [x] [Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
-- [ ] The Fundamental Unit of Life
+- [x] [The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
 - [ ] Tissues
 - [ ] Diversity in Living Organisms
 - [ ] Motion
@@ -62,4 +63,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the six linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the seven linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
