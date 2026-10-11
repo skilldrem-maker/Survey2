@@ -84,9 +84,29 @@
 78. An isosceles triangle has two equal sides. If one base angle is 30°, the other base angle is: A) 120°   B) 60°   C) 30°   D) 40°
 79. An isosceles triangle has two equal sides. If one base angle is 35°, the other base angle is: A) 110°   B) 55°   C) 45°   D) 35°
 80. An isosceles triangle has two equal sides. If one base angle is 40°, the other base angle is: A) 40°   B) 100°   C) 50°   D) None of these
+81. The sum of the interior angles of a triangle is A) 90 degrees   B) 180 degrees   C) 270 degrees   D) 360 degrees
+82. An exterior angle of a triangle is equal to A) the sum of two opposite interior angles   B) the adjacent interior angle   C) half the triangle's angle sum   D) 360 degrees
+83. The side opposite the largest angle is A) the shortest side   B) always equal to another side   C) the hypotenuse   D) the longest side
+84. A median of a triangle joins a vertex to A) the opposite vertex   B) the centre of a circle   C) the midpoint of the opposite side   D) a point outside the triangle
+85. An altitude is drawn from a vertex A) parallel to the opposite side   B) perpendicular to the opposite side or its extension   C) along the angle bisector always   D) to the midpoint only
+86. An angle bisector divides an angle into A) two equal angles   B) three equal angles   C) two supplementary angles   D) two right angles
+87. An equilateral triangle has each angle equal to A) 45 degrees   B) 90 degrees   C) 120 degrees   D) 60 degrees
+88. A right triangle has one angle equal to A) 60 degrees   B) 120 degrees   C) 90 degrees   D) 180 degrees
+89. In an isosceles triangle, the angles opposite equal sides are A) supplementary   B) equal   C) always right angles   D) unequal
+90. The perpendicular bisector of a segment contains points that are equidistant from A) the segment's endpoints   B) the third vertex only   C) every point in the plane   D) the centre of a circle only
+91. If two triangles are congruent, their corresponding perimeters are A) in a 2:1 ratio   B) always zero   C) unequal   D) equal
+92. The hypotenuse is opposite the A) smallest angle   B) largest side not always   C) right angle   D) acute angle
+93. In a right triangle with legs 3 and 4, the hypotenuse is A) 6   B) 5   C) 7   D) 4
+94. In a right triangle with hypotenuse 13 and one leg 5, the other leg is A) 12   B) 8   C) 10   D) 18
+95. The triangle inequality requires a+b to be A) less than c   B) equal to c   C) zero   D) greater than c
+96. If two angles are 50 and 60 degrees, the exterior angle at the third vertex is A) 70 degrees   B) 120 degrees   C) 110 degrees   D) 130 degrees
+97. The three medians of a triangle meet at the A) incentre   B) centroid   C) circumcentre   D) orthocentre
+98. The three angle bisectors meet at the A) incentre   B) centroid   C) orthocentre   D) circumcentre
+99. The perpendicular bisectors of the sides meet at the A) centroid   B) incentre   C) orthocentre   D) circumcentre
+100. The three altitudes meet at the A) centroid   B) incentre   C) orthocentre   D) circumcentre
 
 ### Answer Key
-1 B · 2 C · 3 D · 4 A · 5 B · 6 C · 7 D · 8 A · 9 B · 10 C · 11 D · 12 A · 13 B · 14 C · 15 D · 16 A · 17 B · 18 C · 19 D · 20 A · 21 B · 22 C · 23 D · 24 A · 25 B · 26 C · 27 D · 28 A · 29 B · 30 C · 31 D · 32 A · 33 B · 34 C · 35 D · 36 A · 37 B · 38 C · 39 D · 40 A · 41 B · 42 C · 43 D · 44 A · 45 B · 46 C · 47 D · 48 A · 49 B · 50 C · 51 D · 52 A · 53 B · 54 C · 55 D · 56 A · 57 B · 58 C · 59 D · 60 A · 61 B · 62 C · 63 D · 64 A · 65 B · 66 C · 67 D · 68 A · 69 B · 70 C · 71 D · 72 A · 73 B · 74 C · 75 D · 76 A · 77 B · 78 C · 79 D · 80 A
+1 B · 2 C · 3 D · 4 A · 5 B · 6 C · 7 D · 8 A · 9 B · 10 C · 11 D · 12 A · 13 B · 14 C · 15 D · 16 A · 17 B · 18 C · 19 D · 20 A · 21 B · 22 C · 23 D · 24 A · 25 B · 26 C · 27 D · 28 A · 29 B · 30 C · 31 D · 32 A · 33 B · 34 C · 35 D · 36 A · 37 B · 38 C · 39 D · 40 A · 41 B · 42 C · 43 D · 44 A · 45 B · 46 C · 47 D · 48 A · 49 B · 50 C · 51 D · 52 A · 53 B · 54 C · 55 D · 56 A · 57 B · 58 C · 59 D · 60 A · 61 B · 62 C · 63 D · 64 A · 65 B · 66 C · 67 D · 68 A · 69 B · 70 C · 71 D · 72 A · 73 B · 74 C · 75 D · 76 A · 77 B · 78 C · 79 D · 80 A · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
 
 ### Review
 Score: ____ / 100
