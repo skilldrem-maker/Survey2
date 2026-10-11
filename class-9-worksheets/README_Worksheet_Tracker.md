@@ -10,6 +10,10 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [NSO Science — Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
 - [NSO Science — Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
 - [NSO Science — The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
+- [NSO Science — Motion](NSO_Science_Motion_Set01.md)
+- [NSO Science — Force and Laws of Motion](NSO_Science_Force_and_Laws_of_Motion_Set01.md)
+- [NSO Science — Gravitation](NSO_Science_Gravitation_Set01.md)
+- [NSO Science — Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -36,10 +40,10 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [x] [The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
 - [ ] Tissues
 - [ ] Diversity in Living Organisms
-- [ ] Motion
-- [ ] Force and Laws of Motion
-- [ ] Gravitation
-- [ ] Work and Energy
+- [x] [Motion](NSO_Science_Motion_Set01.md)
+- [x] [Force and Laws of Motion](NSO_Science_Force_and_Laws_of_Motion_Set01.md)
+- [x] [Gravitation](NSO_Science_Gravitation_Set01.md)
+- [x] [Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
 - [ ] Sound
 - [ ] Improvement in Food Resources
 - [ ] Scientific reasoning, experiments, graphs, and Achievers-style mixed practice
@@ -63,4 +67,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the seven linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the eleven linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
