@@ -85,29 +85,32 @@
 78. Reflection of (-3, 6) across the y-axis is: A) (3, 6)   B) (-3, -6)   C) (3, -6)   D) (-3, 6)
 79. Reflection of (-4, 1) across the y-axis is: A) (-4, -1)   B) (4, -1)   C) (-4, 1)   D) (4, 1)
 80. Reflection of (-5, 2) across the y-axis is: A) (-5, -2)   B) (5, -2)   C) (5, 2)   D) (-5, 2)
-81. What is the abscissa of (-4, -4)? A) -3   B) -4   C) -5   D) (0, 0)
-82. What is the ordinate of (-3, -1)? A) -1   B) 0   C) -2   D) (0, 0)
-83. What is the distance of (-2, 2) from the y-axis? A) 3   B) 1   C) (0, 0)   D) 2
-84. What is the distance of (-1, -4) from the x-axis? A) 5   B) 3   C) 4   D) (0, 0)
-85. What is the abscissa of (0, -1)? A) 1   B) 0   C) -1   D) (0, 0)
-86. What is the ordinate of (1, 2)? A) 2   B) 3   C) 1   D) (0, 0)
-87. What is the distance of (2, -4) from the y-axis? A) 3   B) 1   C) (0, 0)   D) 2
-88. What is the distance of (3, -1) from the x-axis? A) 2   B) 0   C) 1   D) (0, 0)
-89. What is the abscissa of (4, 2)? A) 5   B) 4   C) 3   D) (0, 0)
-90. What is the ordinate of (-4, -4)? A) -4   B) -3   C) -5   D) (0, 0)
-91. What is the distance of (-3, -1) from the y-axis? A) 4   B) 2   C) (0, 0)   D) 3
-92. What is the distance of (-2, 2) from the x-axis? A) 3   B) 1   C) 2   D) (0, 0)
-93. What is the abscissa of (-1, -4)? A) 0   B) -1   C) -2   D) (0, 0)
-94. What is the ordinate of (0, -1)? A) -1   B) 0   C) -2   D) (0, 0)
-95. What is the distance of (1, 2) from the y-axis? A) 2   B) 0   C) (0, 0)   D) 1
-96. What is the distance of (2, -4) from the x-axis? A) 5   B) 3   C) 4   D) (0, 0)
-97. What is the abscissa of (3, -1)? A) 4   B) 3   C) 2   D) (0, 0)
-98. What is the ordinate of (4, 2)? A) 2   B) 3   C) 1   D) (0, 0)
-99. What is the distance of (-4, -4) from the y-axis? A) 5   B) 3   C) (0, 0)   D) 4
-100. What is the distance of (-3, -1) from the x-axis? A) 2   B) 0   C) 1   D) (0, 0)
+81. What is the abscissa of (-4, -4)? A) -4   B) -3   C) -5   D) 6
+82. What is the ordinate of (-3, -1)? A) 0   B) -2   C) 3   D) -1
+83. What is the distance of (-2, 2) from the y-axis? A) 3   B) 1   C) 2   D) 4
+84. What is the distance of (-1, -4) from the x-axis? A) 5   B) 4   C) 3   D) 6
+85. What is the abscissa of (0, -1)? A) 0   B) 1   C) -1   D) 2
+86. What is the ordinate of (1, 2)? A) 3   B) 1   C) 4   D) 2
+87. What is the distance of (2, -4) from the y-axis? A) 3   B) 1   C) 2   D) 4
+88. What is the distance of (3, -1) from the x-axis? A) 2   B) 1   C) 0   D) 3
+89. What is the abscissa of (4, 2)? A) 4   B) 5   C) 3   D) 6
+90. What is the ordinate of (-4, -4)? A) -3   B) -5   C) 6   D) -4
+91. What is the distance of (-3, -1) from the y-axis? A) 4   B) 2   C) 3   D) 5
+92. What is the distance of (-2, 2) from the x-axis? A) 3   B) 2   C) 1   D) 4
+93. What is the abscissa of (-1, -4)? A) -1   B) 0   C) -2   D) 3
+94. What is the ordinate of (0, -1)? A) 0   B) -2   C) 3   D) -1
+95. What is the distance of (1, 2) from the y-axis? A) 2   B) 0   C) 1   D) 3
+96. What is the distance of (2, -4) from the x-axis? A) 5   B) 4   C) 3   D) 6
+97. What is the abscissa of (3, -1)? A) 3   B) 4   C) 2   D) 5
+98. What is the ordinate of (4, 2)? A) 3   B) 1   C) 4   D) 2
+99. What is the distance of (-4, -4) from the y-axis? A) 5   B) 3   C) 4   D) 6
+100. What is the distance of (-3, -1) from the x-axis? A) 2   B) 1   C) 0   D) 3
+
 
 ### Answer Key
 1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
+
+81 A · 82 D · 83 C · 84 B · 85 A · 86 D · 87 C · 88 B · 89 A · 90 D · 91 C · 92 B · 93 A · 94 D · 95 C · 96 B · 97 A · 98 D · 99 C · 100 B
 
 ### Review
 Score: ____ / 100  
