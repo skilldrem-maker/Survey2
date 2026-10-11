@@ -84,9 +84,29 @@
 78. Which tissue or cell carry oxygen? A) red blood cells   B) squamous epithelium   C) cuboidal epithelium   D) columnar epithelium
 79. Which tissue or cell fight pathogens? A) squamous epithelium   B) cuboidal epithelium   C) columnar epithelium   D) white blood cells
 80. Which tissue or cell help clot blood? A) squamous epithelium   B) cuboidal epithelium   C) platelets   D) columnar epithelium
+81. A plant stem needs flexible support while growing. Which tissue helps? A) sclerenchyma   B) phloem   C) collenchyma   D) blood
+82. A mature plant part needs rigid mechanical strength. Which tissue helps? A) parenchyma   B) sclerenchyma   C) epidermis   D) cartilage
+83. Water moves from roots toward leaves through A) xylem   B) phloem   C) epidermis   D) cork
+84. Food made in leaves is distributed through A) xylem   B) cork   C) collenchyma   D) phloem
+85. A plant root tip grows longer due to A) lateral meristem   B) cork   C) apical meristem   D) sclerenchyma
+86. A woody stem increases in thickness due to A) apical meristem   B) lateral meristem   C) intercalary meristem   D) epidermis
+87. A tissue specialised for rapid cell division is A) meristematic tissue   B) permanent tissue   C) sclerenchyma   D) cork
+88. A plant tissue with large air spaces is A) xylem   B) phloem   C) collenchyma   D) aerenchyma
+89. A thin lining suited for diffusion is A) cuboidal epithelium   B) adipose tissue   C) squamous epithelium   D) bone
+90. The tissue that transmits signals through the body is A) adipose tissue   B) nervous tissue   C) cartilage   D) epidermis
+91. A tissue that contracts to move the skeleton is A) striated muscle   B) smooth muscle   C) cardiac muscle   D) blood
+92. The tissue found in the heart wall is A) striated muscle   B) smooth muscle   C) cartilage   D) cardiac muscle
+93. A flexible support at the ends of bones is A) tendon   B) ligament   C) cartilage   D) blood
+94. The fluid connective tissue is A) bone   B) blood   C) cartilage   D) tendon
+95. A structure that connects one bone to another is A) ligament   B) tendon   C) neuron   D) sieve tube
+96. A structure that connects muscle to bone is A) ligament   B) cartilage   C) epidermis   D) tendon
+97. Cells that carry oxygen are A) white blood cells   B) platelets   C) red blood cells   D) neurons
+98. Cells that help defend against infection are A) red blood cells   B) white blood cells   C) platelets   D) sieve tubes
+99. The blood components that help clotting are A) platelets   B) red blood cells   C) neurons   D) guard cells
+100. The plant surface tissue that limits water loss is A) phloem   B) xylem   C) nervous tissue   D) epidermis
 
 ### Answer Key
-1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C
+1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 C · 82 B · 83 A · 84 D · 85 C · 86 B · 87 A · 88 D · 89 C · 90 B · 91 A · 92 D · 93 C · 94 B · 95 A · 96 D · 97 C · 98 B · 99 A · 100 D
 
 ### Review
 Score: ____ / 100
