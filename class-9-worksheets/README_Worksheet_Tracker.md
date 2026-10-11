@@ -4,13 +4,17 @@ Goal: original practice questions, answer keys, and quality checks for each less
 
 ## Existing completed 100-MCQ worksheets
 - [IMO Mathematics — Number Systems](IMO_Maths_Number_Systems_Set01.md)
+- [IMO Mathematics — Coordinate Geometry](IMO_Maths_Coordinate_Geometry_Set01.md)
+- [IMO Mathematics — Linear Equations in Two Variables](IMO_Maths_Linear_Equations_Two_Variables_Set01.md)
 - [NSO Science — Matter in Our Surroundings](NSO_Science_Matter_Surroundings_Set01.md)
+- [NSO Science — Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
+- [NSO Science — Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
 - [ ] Polynomials
-- [ ] Coordinate Geometry
-- [ ] Linear Equations in Two Variables
+- [x] [Coordinate Geometry](IMO_Maths_Coordinate_Geometry_Set01.md)
+- [x] [Linear Equations in Two Variables](IMO_Maths_Linear_Equations_Two_Variables_Set01.md)
 - [ ] Introduction to Euclid's Geometry
 - [ ] Lines and Angles
 - [ ] Triangles
@@ -25,9 +29,9 @@ Goal: original practice questions, answer keys, and quality checks for each less
 
 ## NSO Science lesson tracker
 - [x] Matter in Our Surroundings
-- [ ] Is Matter Around Us Pure?
+- [x] [Is Matter Around Us Pure?](NSO_Science_Is_Matter_Around_Us_Pure_Set01.md)
 - [ ] Atoms and Molecules
-- [ ] Structure of the Atom
+- [x] [Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
 - [ ] The Fundamental Unit of Life
 - [ ] Tissues
 - [ ] Diversity in Living Organisms
@@ -58,4 +62,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: only the two checked worksheets above are complete at the time this tracker was created. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the six linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
