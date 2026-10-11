@@ -53,23 +53,23 @@
 46. In 3x^2 + 2x^1 − 2x + 9, what is the coefficient of x^2? A) 4   B) 3   C) 2   D) -3
 47. In 4x^3 + 3x^2 − 3x + 9, what is the coefficient of x^3? A) 4   B) 5   C) 3   D) -4
 48. In 5x^4 + 4x^3 − 4x + 9, what is the coefficient of x^4? A) 6   B) 4   C) -5   D) 5
-49. In 6x^1 + 5x^0 − 5x + 9, what is the coefficient of x^1? A) 7   B) 5   C) 6   D) -6
+49. In 6x^2 + 5x^1 − 5x + 9, what is the coefficient of x^2? A) 7   B) 5   C) 6   D) -6
 50. In 7x^2 + 1x^1 − 6x + 9, what is the coefficient of x^2? A) 8   B) 7   C) 1   D) -7
 51. In 8x^3 + 2x^2 − 1x + 9, what is the coefficient of x^3? A) 8   B) 9   C) 2   D) -8
 52. In 9x^4 + 3x^3 − 2x + 9, what is the coefficient of x^4? A) 10   B) 3   C) -9   D) 9
-53. In 2x^1 + 4x^0 − 3x + 9, what is the coefficient of x^1? A) 3   B) 4   C) 2   D) -2
+53. In 2x^2 + 4x^1 − 3x + 9, what is the coefficient of x^2? A) 3   B) 4   C) 2   D) -2
 54. In 3x^2 + 5x^1 − 4x + 9, what is the coefficient of x^2? A) 4   B) 3   C) 5   D) -3
 55. In 4x^3 + 1x^2 − 5x + 9, what is the coefficient of x^3? A) 4   B) 5   C) 1   D) -4
 56. In 5x^4 + 2x^3 − 6x + 9, what is the coefficient of x^4? A) 6   B) 2   C) -5   D) 5
-57. In 6x^1 + 3x^0 − 1x + 9, what is the coefficient of x^1? A) 7   B) 3   C) 6   D) -6
+57. In 6x^2 + 3x^1 − 1x + 9, what is the coefficient of x^2? A) 7   B) 3   C) 6   D) -6
 58. In 7x^2 + 4x^1 − 2x + 9, what is the coefficient of x^2? A) 8   B) 7   C) 4   D) -7
 59. In 8x^3 + 5x^2 − 3x + 9, what is the coefficient of x^3? A) 8   B) 9   C) 5   D) -8
 60. In 9x^4 + 1x^3 − 4x + 9, what is the coefficient of x^4? A) 10   B) 1   C) -9   D) 9
-61. In 2x^1 + 2x^0 − 5x + 9, what is the coefficient of x^1? A) 3   B) -2   C) 2   D) 7
+61. In 2x^2 + 2x^1 − 5x + 9, what is the coefficient of x^2? A) 3   B) -2   C) 2   D) 7
 62. In 3x^2 + 3x^1 − 6x + 9, what is the coefficient of x^2? A) 4   B) 3   C) -3   D) 8
 63. In 4x^3 + 4x^2 − 1x + 9, what is the coefficient of x^3? A) 4   B) 5   C) -4   D) 9
 64. In 5x^4 + 5x^3 − 2x + 9, what is the coefficient of x^4? A) 6   B) -5   C) 10   D) 5
-65. In 6x^1 + 1x^0 − 3x + 9, what is the coefficient of x^1? A) 7   B) 1   C) 6   D) -6
+65. In 6x^2 + 1x^1 − 3x + 9, what is the coefficient of x^2? A) 7   B) 1   C) 6   D) -6
 66. One zero of the linear polynomial 3x + 15 is: A) -4   B) -6   C) 5   D) -5
 67. One zero of the linear polynomial 4x + 16 is: A) -4   B) -3   C) -5   D) 4
 68. One zero of the linear polynomial 5x + 15 is: A) -2   B) -3   C) -4   D) 3
