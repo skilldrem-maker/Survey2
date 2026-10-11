@@ -84,9 +84,29 @@
 78. The SI unit of temperature is the: A) time   B) kelvin   C) categories   D) speed
 79. To reduce parallax error, read a scale at: A) eye level   B) time   C) categories   D) speed
 80. A measurement should be recorded with an appropriate: A) time   B) categories   C) speed   D) unit
+81. A student tests whether fertilizer affects plant height. Which group is a useful control? A) plants given extra fertilizer and extra water   B) plants grown without the fertilizer   C) plants measured with a different ruler   D) plants kept in a different room with more light
+82. A thermometer reading should be recorded with A) a value and unit   B) only a colour   C) only a drawing   D) a guess
+83. A result that repeats across trials is more likely to be A) random   B) unmeasurable   C) a hypothesis   D) reliable
+84. Which is the best evidence for a claim that a metal expands when heated? A) a friend's opinion   B) a single unsupported guess   C) repeated measurements showing increased length when heated   D) the colour of the metal
+85. Why should the same measuring tool be used throughout a comparison? A) to change the independent variable   B) to keep measurement conditions consistent   C) to guarantee the expected result   D) to remove the need for data
+86. Which is a testable hypothesis? A) Plants receiving more light will grow taller under the same conditions   B) Plants are beautiful   C) Light is interesting   D) Growth is always good
+87. If two variables increase together, one can conclude that A) one definitely causes the other   B) both are identical   C) the data must be false   D) they are associated, but causation needs further testing
+88. Which graph best compares the number of students choosing different sports? A) line graph over time   B) a thermometer   C) bar graph   D) a map
+89. Which graph best shows a plant's height measured each day for two weeks? A) pie chart only   B) line graph   C) map   D) labelled diagram only
+90. A student gets results 12, 13, 12, 30 cm. Which result may be anomalous? A) 30 cm   B) 12 cm   C) 13 cm   D) all are equally typical
+91. A good experiment changes the independent variable and measures the A) controlled variable only   B) conclusion   C) hypothesis only   D) dependent variable
+92. The purpose of a control group is to provide a A) guaranteed positive result   B) new unit of measurement   C) comparison   D) graph title
+93. When the evidence disagrees with a hypothesis, a scientist should A) hide the data   B) revise or reject the hypothesis   C) change results to fit   D) stop recording
+94. A table of observations should be organised so the data are A) easy to compare   B) difficult to read   C) missing units   D) ordered randomly without labels
+95. Which practice improves safety during a science experiment? A) taste unknown chemicals   B) run in the laboratory   C) smell substances directly   D) follow instructions and use suitable protective equipment
+96. A conclusion should mention whether the results A) prove every possible case   B) replace all measurements   C) support the hypothesis   D) change the original data
+97. If an object covers 20 m in 4 s, its average speed is A) 4 m/s   B) 5 m/s   C) 16 m/s   D) 24 m/s
+98. If a temperature rises from 18°C to 27°C, the increase is A) 9°C   B) 45°C   C) 27°C   D) 18°C
+99. A measuring instrument with smaller divisions generally has better A) colour   B) mass   C) temperature   D) resolution
+100. A scientific claim is stronger when supported by repeatable observations and A) rumour   B) guesswork   C) independent evidence   D) unlabelled diagrams
 
 ### Answer Key
-1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D
+1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
 
 ### Review
 Score: ____ / 100
