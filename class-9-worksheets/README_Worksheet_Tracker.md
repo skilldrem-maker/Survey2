@@ -21,17 +21,23 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [IMO Mathematics — Probability](IMO_Maths_Probability_Set01.md)
 - [IMO Mathematics — Heron's Formula](IMO_Maths_Herons_Formula_Set01.md)
 - [IMO Mathematics — Surface Areas and Volumes](IMO_Maths_Surface_Areas_and_Volumes_Set01.md)
+- [IMO Mathematics — Polynomials](IMO_Maths_Polynomials_Set01.md)
+- [IMO Mathematics — Introduction to Euclid's Geometry](IMO_Maths_Euclids_Geometry_Set01.md)
+- [IMO Mathematics — Lines and Angles](IMO_Maths_Lines_and_Angles_Set01.md)
+- [IMO Mathematics — Triangles](IMO_Maths_Triangles_Set01.md)
+- [IMO Mathematics — Quadrilaterals](IMO_Maths_Quadrilaterals_Set01.md)
+- [IMO Mathematics — Circles](IMO_Maths_Circles_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
-- [ ] Polynomials
+- [x] [Polynomials](IMO_Maths_Polynomials_Set01.md)
 - [x] [Coordinate Geometry](IMO_Maths_Coordinate_Geometry_Set01.md)
 - [x] [Linear Equations in Two Variables](IMO_Maths_Linear_Equations_Two_Variables_Set01.md)
-- [ ] Introduction to Euclid's Geometry
-- [ ] Lines and Angles
-- [ ] Triangles
-- [ ] Quadrilaterals
-- [ ] Circles
+- [x] [Introduction to Euclid's Geometry](IMO_Maths_Euclids_Geometry_Set01.md)
+- [x] [Lines and Angles](IMO_Maths_Lines_and_Angles_Set01.md)
+- [x] [Triangles](IMO_Maths_Triangles_Set01.md)
+- [x] [Quadrilaterals](IMO_Maths_Quadrilaterals_Set01.md)
+- [x] [Circles](IMO_Maths_Circles_Set01.md)
 - [x] [Heron's Formula](IMO_Maths_Herons_Formula_Set01.md)
 - [x] [Surface Areas and Volumes](IMO_Maths_Surface_Areas_and_Volumes_Set01.md)
 - [x] [Statistics](IMO_Maths_Statistics_Set01.md)
@@ -74,4 +80,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the eighteen linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the twenty-four linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
