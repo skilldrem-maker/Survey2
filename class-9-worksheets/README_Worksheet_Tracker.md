@@ -15,6 +15,8 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [NSO Science — Gravitation](NSO_Science_Gravitation_Set01.md)
 - [NSO Science — Work and Energy](NSO_Science_Work_and_Energy_Set01.md)
 - [NSO Science — Sound](NSO_Science_Sound_Set01.md)
+- [NSO Science — Tissues](NSO_Science_Tissues_Set01.md)
+- [NSO Science — Diversity in Living Organisms](NSO_Science_Diversity_in_Living_Organisms_Set01.md)
 
 ## IMO Mathematics lesson tracker
 - [x] Number Systems
@@ -39,8 +41,8 @@ Goal: original practice questions, answer keys, and quality checks for each less
 - [ ] Atoms and Molecules
 - [x] [Structure of the Atom](NSO_Science_Structure_of_the_Atom_Set01.md)
 - [x] [The Fundamental Unit of Life](NSO_Science_Fundamental_Unit_of_Life_Set01.md)
-- [ ] Tissues
-- [ ] Diversity in Living Organisms
+- [x] [Tissues](NSO_Science_Tissues_Set01.md)
+- [x] [Diversity in Living Organisms](NSO_Science_Diversity_in_Living_Organisms_Set01.md)
 - [x] [Motion](NSO_Science_Motion_Set01.md)
 - [x] [Force and Laws of Motion](NSO_Science_Force_and_Laws_of_Motion_Set01.md)
 - [x] [Gravitation](NSO_Science_Gravitation_Set01.md)
@@ -68,4 +70,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: the twelve linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
+Status note: the fourteen linked worksheets above have 100 numbered questions and answer-key sections. Other lessons remain unchecked until their worksheets are created and checked. A tracker checkbox is not marked complete until the corresponding 100-question worksheet is saved and checked.
