@@ -33,7 +33,7 @@
 26. Which statement or structure is associated with red blood cells in mammals? A) lack a nucleus when mature   B) cell wall   C) membrane-bound nucleus   D) chloroplast
 27. Which structure is visible in onion peel cells? A) chloroplasts in every cell   B) membrane-bound nucleus   C) no plasma membrane   D) cell wall
 28. Which statement is characteristic of leaf mesophyll cells? A) have no cell wall   B) lack a nucleus   C) often contain many chloroplasts   D) lack chloroplasts
-29. Which statement or structure is associated with bacteria? A) cell wall   B) are prokaryotes   C) membrane-bound nucleus   D) chloroplast
+29. Bacteria are classified as: A) fungi   B) prokaryotes   C) animals   D) plants
 30. Which statement best describes Amoeba? A) It is a unicellular eukaryote   B) It is a multicellular prokaryote   C) It has a rigid cell wall   D) It has no nucleus
 31. Which statement best describes nerve cells? A) They have a cell wall   B) They contain chloroplasts   C) They lack a plasma membrane   D) They are specialised for transmitting impulses
 32. Which statement best describes muscle cells? A) They have a cell wall   B) They contain chloroplasts   C) They are specialised for contraction   D) They lack a plasma membrane
