@@ -82,8 +82,8 @@
 76. A cyclic quadrilateral has one angle 65°. Its opposite angle is: A) 65°   B) 130°   C) 115°   D) 125°
 77. A cyclic quadrilateral has one angle 66°. Its opposite angle is: A) 66°   B) 114°   C) 124°   D) 134°
 78. A cyclic quadrilateral has one angle 67°. Its opposite angle is: A) 113°   B) 67°   C) 123°   D) 133°
-79. A cyclic quadrilateral has one angle 68°. Its opposite angle is: A) 68°   B) 112°   C) 128°   D) 112°
-80. A cyclic quadrilateral has one angle 69°. Its opposite angle is: A) 69°   B) 111°   C) 111°   D) 138°
+79. A cyclic quadrilateral has one angle 68°. Its opposite angle is: A) 68°   B) 114°   C) 128°   D) 112°
+80. A cyclic quadrilateral has one angle 69°. Its opposite angle is: A) 69°   B) 109°   C) 111°   D) 138°
 81. A line segment joining the centre to a point on the circle is a: A) chord   B) radius   C) tangent   D) diameter
 82. A chord passing through the centre is a: A) diameter   B) radius   C) tangent   D) arc
 83. The diameter is the longest: A) radius   B) tangent   C) arc   D) chord
