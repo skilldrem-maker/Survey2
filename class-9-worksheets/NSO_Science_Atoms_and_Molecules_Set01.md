@@ -55,7 +55,7 @@
 48. Which is the correct formula formed by Mg and O? A) Mg₂O   B) MgO₂   C) None of these   D) MgO
 49. Which is the correct formula formed by Na and O? A) NaO   B) NaO₂   C) Na₂O   D) None of these
 50. Which is the correct formula formed by H and O? A) HO   B) H₂O   C) HO₂   D) None of these
-51. Which is the correct formula formed by C and O? A) CO₂   B) CO   C) C₂O   D) None of these
+51. Which is the correct formula for carbon dioxide? A) CO₂   B) CO   C) C₂O   D) C₂O₂
 52. Which is the correct formula formed by N and H? A) NH   B) N₂H   C) NH₂   D) NH₃
 53. Which is the correct formula formed by Ca and OH? A) CaOH   B) Ca₂OH   C) Ca(OH)₂   D) CaOH₂
 54. Which is the correct formula formed by Na and SO₄? A) NaSO₄   B) Na₂SO₄   C) NaSO₄₂   D) None of these
@@ -65,26 +65,26 @@
 58. Which is the correct formula formed by Ca and CO₃? A) Ca₂CO₃   B) CaCO₃   C) CaCO₃₂   D) None of these
 59. Which is the correct formula formed by H and SO₄? A) H₂SO₄   B) HSO₄   C) HSO₄₂   D) None of these
 60. Which is the correct formula formed by Na and CO₃? A) NaCO₃   B) NaCO₃₂   C) None of these   D) Na₂CO₃
-61. The law of conservation of mass states that mass is: A) mass is always lost   B) elements are in any ratio   C) neither created nor destroyed in a chemical reaction   D) anion
-62. The law of constant proportions states that a compound always contains elements in: A) mass is always lost   B) the same proportion by mass   C) elements are in any ratio   D) anion
-63. The scientist associated with the law of conservation of mass is: A) Antoine Lavoisier   B) mass is always lost   C) elements are in any ratio   D) anion
-64. The scientist associated with the law of constant proportions is: A) mass is always lost   B) elements are in any ratio   C) anion   D) Joseph Proust
-65. An atom is the smallest particle of an element that takes part in: A) mass is always lost   B) elements are in any ratio   C) a chemical reaction   D) anion
-66. A molecule is formed when atoms are joined by: A) mass is always lost   B) chemical bonds   C) elements are in any ratio   D) anion
-67. The symbol of potassium is: A) K   B) mass is always lost   C) elements are in any ratio   D) anion
-68. The symbol of iron is: A) mass is always lost   B) elements are in any ratio   C) anion   D) Fe
-69. The symbol of silver is: A) mass is always lost   B) elements are in any ratio   C) Ag   D) anion
-70. The symbol of gold is: A) mass is always lost   B) Au   C) elements are in any ratio   D) anion
-71. The symbol of copper is: A) Cu   B) mass is always lost   C) elements are in any ratio   D) anion
-72. The symbol of sodium is: A) mass is always lost   B) elements are in any ratio   C) anion   D) Na
-73. The symbol of calcium is: A) mass is always lost   B) elements are in any ratio   C) Ca   D) anion
-74. The formula of ammonia is: A) mass is always lost   B) NH₃   C) elements are in any ratio   D) anion
-75. The formula of methane is: A) CH₄   B) mass is always lost   C) elements are in any ratio   D) anion
-76. The formula of sulphuric acid is: A) mass is always lost   B) elements are in any ratio   C) anion   D) H₂SO₄
-77. The formula of calcium hydroxide is: A) mass is always lost   B) elements are in any ratio   C) Ca(OH)₂   D) anion
-78. The formula of aluminium oxide is: A) mass is always lost   B) Al₂O₃   C) elements are in any ratio   D) anion
-79. A positively charged ion is called a: A) cation   B) mass is always lost   C) elements are in any ratio   D) anion
-80. A negatively charged ion is called an: A) mass is always lost   B) elements are in any ratio   C) cation   D) anion
+61. The law of conservation of mass states that mass is: A) created during every reaction   B) destroyed during every reaction   C) neither created nor destroyed in a chemical reaction   D) converted entirely into heat
+62. The law of constant proportions states that a compound always contains elements in: A) different proportions in every sample   B) the same proportion by mass   C) equal masses of each element   D) any ratio
+63. The scientist associated with the law of conservation of mass is: A) Antoine Lavoisier   B) John Dalton   C) Ernest Rutherford   D) Joseph Proust
+64. The scientist associated with the law of constant proportions is: A) Antoine Lavoisier   B) John Dalton   C) Amedeo Avogadro   D) Joseph Proust
+65. An atom is the smallest particle of an element that takes part in: A) melting only   B) filtration only   C) a chemical reaction   D) dissolving only
+66. A molecule is formed when atoms are joined by: A) physical mixing only   B) chemical bonds   C) gravity alone   D) magnetic attraction alone
+67. The symbol of potassium is: A) K   B) P   C) Po   D) Ka
+68. The symbol of iron is: A) Ir   B) I   C) F   D) Fe
+69. The symbol of silver is: A) Au   B) Al   C) Ag   D) Ar
+70. The symbol of gold is: A) Ag   B) Au   C) Cu   D) Fe
+71. The symbol of copper is: A) Cu   B) Co   C) C   D) Ca
+72. The symbol of sodium is: A) S   B) N   C) Ne   D) Na
+73. The symbol of calcium is: A) C   B) Cl   C) Ca   D) Cu
+74. The formula of ammonia is: A) H₂O   B) NH₃   C) NO₂   D) N₂H
+75. The formula of methane is: A) CH₄   B) CH₃   C) C₂H₄   D) CO₂
+76. The formula of sulphuric acid is: A) H₂SO₃   B) HSO₄   C) H₂S   D) H₂SO₄
+77. The formula of calcium hydroxide is: A) CaOH   B) Ca₂OH   C) Ca(OH)₂   D) CaO
+78. The formula of aluminium oxide is: A) AlO   B) Al₂O₃   C) AlO₂   D) Al₃O₂
+79. A positively charged ion is called a: A) cation   B) anion   C) isotope   D) molecule
+80. A negatively charged ion is called an: A) cation   B) isotope   C) molecule   D) anion
 81. The relative atomic mass of oxygen is commonly taken as: A) 8   B) 16   C) 12   D) 32
 82. The valency of oxygen in water is: A) 2   B) 1   C) 3   D) 4
 83. The valency of aluminium is: A) 1   B) 2   C) 4   D) 3
