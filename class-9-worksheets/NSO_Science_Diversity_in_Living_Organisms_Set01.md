@@ -5,7 +5,7 @@
 
 ### Questions
 1. Bacteria belong to A) Prokaryota   B) unicellular   C) Monera   D) Plantae
-2. Amoeba belongs to A) Arthropoda   B) Plantae   C) Plantae   D) Protista
+2. Amoeba belongs to A) Arthropoda   B) Plantae   C) Animalia   D) Protista
 3. Mushrooms belong to A) Fungi   B) autotrophic   C) multicellular   D) Plantae
 4. Mango is a member of A) unicellular   B) Plantae   C) Protista   D) Prokaryota
 5. Humans belong to A) Plantae   B) Eukaryota   C) Animalia   D) Arthropoda
@@ -62,7 +62,7 @@
 56. A dolphin breathes with lungs and is a A) Mammalia   B) mammal   C) Reptilia   D) Amphibia
 57. A tadpole is the larval stage of a A) Amphibia   B) Pisces   C) frog   D) Mammalia
 58. Most birds lay eggs with A) Reptilia   B) Aves   C) Mammalia   D) hard shells
-59. Mammals are generally A) warm-blooded   B) Mammalia   C) Amphibia   D) Mammalia
+59. Mammals are generally: A) warm-blooded   B) cold-blooded   C) covered with feathers   D) breathe through gills
 60. Fish are generally A) Pisces   B) cold-blooded   C) Annelida   D) Mollusca
 61. Earthworms belong to A) Nematoda   B) segmentation   C) Annelida   D) Arthropoda
 62. Snails belong to A) soft body   B) Arthropoda   C) Cnidaria   D) Mollusca
