@@ -12,18 +12,18 @@
 6. The volume of a cube of side 7 cm is: A) 294 cm³   B) 196 cm³   C) 343 cm³   D) 350 cm³
 7. The volume of a cube of side 8 cm is: A) 384 cm³   B) 256 cm³   C) 520 cm³   D) 512 cm³
 8. The volume of a cube of side 9 cm is: A) 729 cm³   B) 486 cm³   C) 324 cm³   D) 738 cm³
-9. The volume of a cube of side 2 cm is: A) 24 cm³   B) 8 cm³   C) 16 cm³   D) 10 cm³
-10. The volume of a cube of side 3 cm is: A) 54 cm³   B) 36 cm³   C) 27 cm³   D) 30 cm³
-11. The volume of a cube of side 4 cm is: A) 96 cm³   B) 68 cm³   C) None of these   D) 64 cm³
-12. The volume of a cube of side 5 cm is: A) 125 cm³   B) 150 cm³   C) 100 cm³   D) 130 cm³
-13. The volume of a cube of side 6 cm is: A) 144 cm³   B) 216 cm³   C) 222 cm³   D) None of these
-14. The volume of a cube of side 7 cm is: A) 294 cm³   B) 196 cm³   C) 343 cm³   D) 350 cm³
-15. The volume of a cube of side 8 cm is: A) 384 cm³   B) 256 cm³   C) 520 cm³   D) 512 cm³
-16. The volume of a cube of side 9 cm is: A) 729 cm³   B) 486 cm³   C) 324 cm³   D) 738 cm³
-17. The volume of a cube of side 2 cm is: A) 24 cm³   B) 8 cm³   C) 16 cm³   D) 10 cm³
-18. The volume of a cube of side 3 cm is: A) 54 cm³   B) 36 cm³   C) 27 cm³   D) 30 cm³
-19. The volume of a cube of side 4 cm is: A) 96 cm³   B) 68 cm³   C) None of these   D) 64 cm³
-20. The volume of a cube of side 5 cm is: A) 125 cm³   B) 150 cm³   C) 100 cm³   D) 130 cm³
+9. The volume of a cube of side 10 cm is: A) 900 cm³   B) 1000 cm³   C) 100 cm³   D) 1100 cm³
+10. The volume of a cube of side 11 cm is: A) 1210 cm³   B) 11 cm³   C) 1331 cm³   D) 1464 cm³
+11. The volume of a cube of side 12 cm is: A) 144 cm³   B) 1200 cm³   C) 1800 cm³   D) 1728 cm³
+12. The volume of a cube of side 13 cm is: A) 2197 cm³   B) 1690 cm³   C) 2600 cm³   D) 2190 cm³
+13. The volume of a cube of side 14 cm is: A) 196 cm³   B) 2744 cm³   C) 2800 cm³   D) 14 cm³
+14. The volume of a cube of side 15 cm is: A) 2250 cm³   B) 337 cm³   C) 3375 cm³   D) 3400 cm³
+15. The volume of a cube of side 16 cm is: A) 256 cm³   B) 4090 cm³   C) 4100 cm³   D) 4096 cm³
+16. The volume of a cube of side 17 cm is: A) 4913 cm³   B) 2890 cm³   C) 5000 cm³   D) 4910 cm³
+17. The volume of a cube of side 18 cm is: A) 3240 cm³   B) 5832 cm³   C) 5900 cm³   D) 18 cm³
+18. The volume of a cube of side 19 cm is: A) 3610 cm³   B) 6800 cm³   C) 6859 cm³   D) 6900 cm³
+19. The volume of a cube of side 20 cm is: A) 4000 cm³   B) 8020 cm³   C) 20 cm³   D) 8000 cm³
+20. The volume of a cube of side 21 cm is: A) 9261 cm³   B) 4410 cm³   C) 9300 cm³   D) 9260 cm³
 21. The volume of a cuboid of length 2 cm, breadth 3 cm and height 2 cm is: A) 32 cm³   B) 12 cm³   C) 7 cm³   D) 22 cm³
 22. The volume of a cuboid of length 3 cm, breadth 4 cm and height 3 cm is: A) 66 cm³   B) 10 cm³   C) 36 cm³   D) 46 cm³
 23. The volume of a cuboid of length 4 cm, breadth 5 cm and height 4 cm is: A) 112 cm³   B) 13 cm³   C) 90 cm³   D) 80 cm³
@@ -69,7 +69,7 @@
 63. Using π = 3.14, the volume of a cylinder with radius 3 cm and height 4 cm is approximately: A) 75.36 cm³   B) 37.68 cm³   C) 28.26 cm³   D) 113.04 cm³
 64. Using π = 3.14, the volume of a cylinder with radius 4 cm and height 5 cm is approximately: A) 251.20 cm³   B) 125.60 cm³   C) 62.80 cm³   D) 50.24 cm³
 65. Using π = 3.14, the volume of a cylinder with radius 1 cm and height 6 cm is approximately: A) 37.68 cm³   B) 18.84 cm³   C) 3.14 cm³   D) None of these
-66. Using π = 3.14, the volume of a cylinder with radius 2 cm and height 2 cm is approximately: A) 12.56 cm³   B) None of these   C) 25.12 cm³   D) None of these
+66. Using π = 3.14, the volume of a cylinder with radius 2 cm and height 2 cm is approximately: A) 12.56 cm³   B) 18.84 cm³   C) 25.12 cm³   D) 50.24 cm³
 67. Using π = 3.14, the volume of a cylinder with radius 3 cm and height 3 cm is approximately: A) 56.52 cm³   B) 28.26 cm³   C) None of these   D) 84.78 cm³
 68. Using π = 3.14, the volume of a cylinder with radius 4 cm and height 4 cm is approximately: A) 200.96 cm³   B) 100.48 cm³   C) 50.24 cm³   D) None of these
 69. Using π = 3.14, the volume of a cylinder with radius 1 cm and height 5 cm is approximately: A) 31.40 cm³   B) 15.70 cm³   C) 3.14 cm³   D) None of these
