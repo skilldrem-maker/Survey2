@@ -53,17 +53,17 @@
 47. Find the mode of 7, 9, 7, 1, 7, 9. A) 9   B) 1   C) 6   D) 7
 48. Find the mode of 8, 0, 8, 2, 8, 0. A) 8   B) 0   C) 2   D) 6
 49. Find the mode of 9, 1, 9, 3, 9, 1. A) 1   B) 9   C) 3   D) 6
-50. Find the mode of 2, 4, 2, 6, 2, 4. A) 4   B) 6   C) 2   D) 8
-51. Find the mode of 3, 5, 3, 7, 3, 5. A) 5   B) 7   C) 6   D) 3
-52. Find the mode of 4, 6, 4, 8, 4, 6. A) 4   B) 6   C) 8   D) None of these
-53. Find the mode of 5, 7, 5, 9, 5, 7. A) 7   B) 5   C) 9   D) 6
-54. Find the mode of 6, 8, 6, 0, 6, 8. A) 8   B) 0   C) 6   D) None of these
-55. Find the mode of 7, 9, 7, 1, 7, 9. A) 9   B) 1   C) 6   D) 7
-56. Find the mode of 8, 0, 8, 2, 8, 0. A) 8   B) 0   C) 2   D) 6
-57. Find the mode of 9, 1, 9, 3, 9, 1. A) 1   B) 9   C) 3   D) 6
-58. Find the mode of 2, 5, 2, 7, 2, 5. A) 5   B) 7   C) 2   D) None of these
-59. Find the mode of 3, 6, 3, 8, 3, 6. A) 6   B) 8   C) 5   D) 3
-60. Find the mode of 4, 7, 4, 9, 4, 7. A) 4   B) 7   C) 9   D) None of these
+50. Find the mode of 3, 3, 4, 5, 6. A) 4   B) 5   C) 3   D) 6
+51. Find the mode of 1, 2, 2, 3, 4, 5. A) 3   B) 4   C) 5   D) 2
+52. Find the mode of 4, 4, 5, 6, 7, 8. A) 4   B) 6   C) 8   D) 7
+53. Find the mode of 2, 5, 5, 6, 7, 8. A) 6   B) 5   C) 7   D) 2
+54. Find the mode of 1, 3, 4, 4, 6, 7. A) 3   B) 6   C) 4   D) 7
+55. Find the mode of 2, 5, 6, 7, 7, 9. A) 5   B) 6   C) 9   D) 7
+56. Find the mode of 0, 1, 2, 2, 3, 4. A) 2   B) 3   C) 4   D) 0
+57. Find the mode of 1, 4, 5, 6, 6, 8. A) 5   B) 6   C) 8   D) 4
+58. Find the mode of 3, 4, 5, 7, 7, 8. A) 5   B) 8   C) 7   D) 4
+59. Find the mode of 2, 3, 4, 5, 5, 6. A) 2   B) 6   C) 3   D) 5
+60. Find the mode of 1, 1, 2, 3, 4, 5. A) 1   B) 2   C) 3   D) 5
 61. Find the range of 1, 4, 2, 4. A) 4   B) 3   C) 2   D) None of these
 62. Find the range of 2, 5, 3, 5. A) 4   B) 2   C) 3   D) 5
 63. Find the range of 3, 6, 4, 6. A) 4   B) 2   C) 6   D) 3
