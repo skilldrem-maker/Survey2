@@ -71,7 +71,7 @@
 65. A triangular garden has side lengths 7 m, 15 m and 20 m. Its area is: A) 52 m²   B) 42 m²   C) 105 m²   D) 84 m²
 66. Find the semiperimeter for sides 13, 14, 15. A) 21 cm   B) 23 cm   C) 84 cm²   D) 182 cm²
 67. The perimeter of a triangle with sides 9, 10, 17 is: A) 20 cm   B) 36 cm²   C) 90 cm²   D) 36 cm
-68. The square of the area of a triangle of sides 8, 15, 17 is: A) 22 cm   B) 60 cm²   C) 3600 cm⁴   D) 120 cm²
+68. The square of the area of a triangle of sides 8, 15, 17 is: A) 22 cm   B) 3600 cm⁴   C) 60 cm²   D) 120 cm²
 69. A triangular garden has side lengths 10 m, 13 m and 13 m. Its area is: A) 70 m²   B) 60 m²   C) 130 m²   D) 120 m²
 70. Find the semiperimeter for sides 7, 24, 25. A) 28 cm   B) 30 cm   C) 84 cm²   D) 168 cm²
 71. The perimeter of a triangle with sides 9, 12, 15 is: A) 20 cm   B) 54 cm²   C) 108 cm²   D) 36 cm
