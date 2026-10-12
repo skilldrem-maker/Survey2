@@ -72,38 +72,38 @@
 66. The area of a square of side 9 cm is: A) 81 cm²   B) 36 cm²   C) 90 cm²   D) 162 cm²
 67. The area of a square of side 10 cm is: A) 40 cm²   B) 110 cm²   C) 200 cm²   D) 100 cm²
 68. The area of a square of side 11 cm is: A) 44 cm²   B) 132 cm²   C) 121 cm²   D) 242 cm²
-69. The area of a square of side 4 cm is: A) 20 cm²   B) 16 cm²   C) 32 cm²   D) None of these
-70. The area of a square of side 5 cm is: A) 25 cm²   B) 20 cm²   C) 30 cm²   D) 50 cm²
-71. The area of a square of side 6 cm is: A) 24 cm²   B) 42 cm²   C) 72 cm²   D) 36 cm²
-72. The area of a square of side 7 cm is: A) 28 cm²   B) 56 cm²   C) 49 cm²   D) 98 cm²
-73. The area of a square of side 8 cm is: A) 32 cm²   B) 64 cm²   C) 72 cm²   D) 128 cm²
-74. The area of a square of side 9 cm is: A) 81 cm²   B) 36 cm²   C) 90 cm²   D) 162 cm²
-75. The area of a square of side 10 cm is: A) 40 cm²   B) 110 cm²   C) 200 cm²   D) 100 cm²
-76. The area of a square of side 11 cm is: A) 44 cm²   B) 132 cm²   C) 121 cm²   D) 242 cm²
-77. The area of a square of side 4 cm is: A) 20 cm²   B) 16 cm²   C) 32 cm²   D) None of these
-78. The area of a square of side 5 cm is: A) 25 cm²   B) 20 cm²   C) 30 cm²   D) 50 cm²
-79. The area of a square of side 6 cm is: A) 24 cm²   B) 42 cm²   C) 72 cm²   D) 36 cm²
-80. The area of a square of side 7 cm is: A) 28 cm²   B) 56 cm²   C) 49 cm²   D) 98 cm²
-81. A parallelogram with side lengths 6 cm and 9 cm has perimeter: A) 110°   B) 30 cm   C) equal   D) square units
-82. A square of perimeter 36 cm has side length: A) 9 cm   B) 30 cm   C) 110°   D) equal
-83. A rectangle of area 48 cm² and length 8 cm has breadth: A) 30 cm   B) 110°   C) equal   D) 6 cm
-84. If one angle of a parallelogram is 70°, an adjacent angle is: A) 30 cm   B) equal   C) 110°   D) square units
-85. If one angle of a parallelogram is 70°, the opposite angle is: A) 30 cm   B) 70°   C) 110°   D) equal
-86. The diagonals of a square are: A) equal and perpendicular   B) 30 cm   C) 110°   D) equal
-87. The diagonals of a rectangle are: A) 30 cm   B) 110°   C) square units   D) equal
-88. The diagonals of a rhombus are: A) 30 cm   B) 110°   C) perpendicular bisectors   D) equal
-89. A quadrilateral has how many diagonals?: A) 30 cm   B) 2   C) 110°   D) equal
-90. A polygon with four sides is a: A) quadrilateral   B) 30 cm   C) 110°   D) equal
-91. A square has how many lines of symmetry?: A) 30 cm   B) 110°   C) equal   D) 4
-92. A rectangle has how many lines of symmetry?: A) 30 cm   B) 110°   C) 2   D) equal
-93. A rhombus has how many pairs of parallel sides?: A) 30 cm   B) 2   C) 110°   D) equal
-94. A trapezium has at least how many pairs of parallel sides?: A) 1   B) 30 cm   C) 110°   D) equal
-95. The perimeter is the total length of the: A) 30 cm   B) 110°   C) equal   D) boundary
-96. Area is measured in: A) 30 cm   B) 110°   C) square units   D) equal
-97. If all sides of a square double, its perimeter becomes: A) 30 cm   B) twice as large   C) 110°   D) equal
-98. If all sides of a square double, its area becomes: A) four times as large   B) 30 cm   C) 110°   D) equal
-99. The midpoint of a diagonal divides it into: A) 30 cm   B) 110°   C) equal   D) two equal segments
-100. A parallelogram has opposite sides that are: A) 30 cm   B) 110°   C) parallel and equal   D) equal
+69. The area of a square of side 12 cm is: A) 120 cm²   B) 144 cm²   C) 156 cm²   D) 288 cm²
+70. The area of a square of side 13 cm is: A) 169 cm²   B) 52 cm²   C) 180 cm²   D) 338 cm²
+71. The area of a square of side 14 cm is: A) 56 cm²   B) 98 cm²   C) 392 cm²   D) 196 cm²
+72. The area of a square of side 15 cm is: A) 60 cm²   B) 120 cm²   C) 225 cm²   D) 450 cm²
+73. The area of a square of side 16 cm is: A) 64 cm²   B) 256 cm²   C) 272 cm²   D) 512 cm²
+74. The area of a square of side 17 cm is: A) 289 cm²   B) 68 cm²   C) 306 cm²   D) 578 cm²
+75. The area of a square of side 18 cm is: A) 72 cm²   B) 162 cm²   C) 648 cm²   D) 324 cm²
+76. The area of a square of side 19 cm is: A) 76 cm²   B) 152 cm²   C) 361 cm²   D) 722 cm²
+77. The area of a square of side 20 cm is: A) 80 cm²   B) 400 cm²   C) 420 cm²   D) 800 cm²
+78. The area of a square of side 21 cm is: A) 441 cm²   B) 84 cm²   C) 462 cm²   D) 882 cm²
+79. The area of a square of side 22 cm is: A) 88 cm²   B) 242 cm²   C) 968 cm²   D) 484 cm²
+80. The area of a square of side 23 cm is: A) 92 cm²   B) 184 cm²   C) 529 cm²   D) 1058 cm²
+81. A parallelogram with side lengths 6 cm and 9 cm has perimeter: A) 15 cm   B) 30 cm   C) 54 cm   D) 18 cm
+82. A square of perimeter 36 cm has side length: A) 9 cm   B) 12 cm   C) 18 cm   D) 6 cm
+83. A rectangle of area 48 cm² and length 8 cm has breadth: A) 4 cm   B) 8 cm   C) 6 cm   D) 12 cm
+84. If one angle of a parallelogram is 70°, an adjacent angle is: A) 70°   B) 90°   C) 110°   D) 120°
+85. If one angle of a parallelogram is 70°, the opposite angle is: A) 110°   B) 90°   C) 70°   D) 120°
+86. The diagonals of a square are: A) equal and perpendicular   B) equal but never bisect each other   C) parallel   D) unequal
+87. The diagonals of a rectangle are: A) perpendicular in every rectangle   B) unequal   C) parallel   D) equal
+88. The diagonals of a rhombus are: A) always equal   B) parallel   C) perpendicular bisectors of each other   D) never intersect
+89. A quadrilateral has how many diagonals?: A) 1   B) 2   C) 3   D) 4
+90. A polygon with four sides is a: A) triangle   B) pentagon   C) quadrilateral   D) hexagon
+91. A square has how many lines of symmetry?: A) 1   B) 2   C) 4   D) 8
+92. A rectangle has how many lines of symmetry?: A) 1   B) 2   C) 4   D) 8
+93. A rhombus has how many pairs of parallel sides?: A) 0   B) 1   C) 2   D) 4
+94. A trapezium has at least how many pairs of parallel sides?: A) 1   B) 2   C) 3   D) 4
+95. The perimeter is the total length of the: A) interior region   B) diagonal only   C) boundary   D) area
+96. Area is measured in: A) centimetres only   B) cubic units   C) square units   D) kilograms
+97. If all sides of a square double, its perimeter becomes: A) unchanged   B) twice as large   C) three times as large   D) four times as large
+98. If all sides of a square double, its area becomes: A) twice as large   B) three times as large   C) four times as large   D) unchanged
+99. The midpoint of a diagonal divides it into: A) two unequal segments   B) three segments   C) two equal segments   D) two perpendicular segments
+100. A parallelogram has opposite sides that are: A) perpendicular and unequal   B) parallel but unequal   C) parallel and equal   D) equal but not parallel
 
 ### Answer Key
 1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
