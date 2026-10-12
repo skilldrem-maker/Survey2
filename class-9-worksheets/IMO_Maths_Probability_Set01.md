@@ -26,24 +26,24 @@
 20. Cards numbered 1 to 10 are mixed. Probability of selecting a multiple of 3 is: A) 1/10   B) 1/2   C) 3/10   D) 7/10
 21. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
 22. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
-23. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
-24. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-25. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-26. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
-27. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
-28. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-29. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-30. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
-31. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
-32. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-33. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-34. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
-35. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
-36. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-37. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-38. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
-39. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
-40. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
+23. A fair six-sided die is rolled. Probability of getting a number greater than 4 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
+24. A fair six-sided die is rolled. Probability of getting a number less than 3 is: A) 1/6   B) 1/2   C) 1/3   D) 2/3
+25. A fair six-sided die is rolled. Probability of getting a prime number is: A) 1/3   B) 1/2   C) 1/6   D) 2/3
+26. A fair six-sided die is rolled. Probability of getting a 6 is: A) 1/6   B) 1/2   C) 1/3   D) 2/3
+27. A fair six-sided die is rolled. Probability of getting a number at most 2 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
+28. A fair six-sided die is rolled. Probability of not getting a 6 is: A) 1/6   B) 1/2   C) 5/6   D) 2/3
+29. A fair six-sided die is rolled. Probability of getting a multiple of 2 or 3 is: A) 1/3   B) 2/3   C) 1/2   D) 1/6
+30. A fair six-sided die is rolled. Probability of getting an odd number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
+31. A fair six-sided die is rolled. Probability of getting a 1 or 2 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
+32. A fair six-sided die is rolled. Probability of getting a number greater than 2 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
+33. A fair six-sided die is rolled. Probability of getting a 4 or 5 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
+34. A fair six-sided die is rolled. Probability of not getting a multiple of 3 is: A) 2/3   B) 1/3   C) 1/6   D) 1/2
+35. A fair six-sided die is rolled. Probability of getting a number less than 5 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
+36. A fair six-sided die is rolled. Probability of getting a 1 or 6 is: A) 1/6   B) 1/2   C) 1/3   D) 2/3
+37. A fair six-sided die is rolled. Probability of getting a number greater than 3 is: A) 1/3   B) 1/2   C) 1/6   D) 2/3
+38. A fair six-sided die is rolled. Probability of getting a number at least 4 is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
+39. A fair six-sided die is rolled. Probability of getting a 2 or 5 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
+40. A fair six-sided die is rolled. Probability of getting a number less than 4 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
 41. A bag has 1 red and 1 blue ball. One ball is drawn at random. Probability of red is: A) 1/6   B) 1/2   C) 1/3   D) 3/4
 42. A bag has 2 red and 2 blue balls. One ball is drawn at random. Probability of red is: A) 2/4   B) 2/6   C) 1/4   D) None of these
 43. A bag has 3 red and 3 blue balls. One ball is drawn at random. Probability of red is: A) 1/6   B) 1/3   C) 2/3   D) 3/6
