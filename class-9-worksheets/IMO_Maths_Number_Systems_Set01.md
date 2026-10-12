@@ -81,7 +81,7 @@ One concept I need to practise: _____________________
 57. If \(a=\sqrt7\), then \(a^4\) is: A) 7 B) 14 C) 49 D) \(\sqrt{49}\)
 58. Which lies between \(\sqrt5\) and \(\sqrt8\)? A) 2 B) \(\sqrt6\) C) 3 D) \(\sqrt{10}\)
 59. The value of \(16^{3/4}\) is: A) 4 B) 6 C) 8 D) 12
-60. \(\frac{\sqrt{18}}{\sqrt2}\) equals: A) 3 B) \(\sqrt9\) C) 9 D) Both A and B
+60. Simplify √18/√2. A) 9   B) 6   C) 3√2   D) 3
 61. If \(2^m=\frac1{32}\), then \(m=\): A) 5 B) −5 C) −4 D) 4
 62. Which is the correct simplification of \(\sqrt{75}+\sqrt{12}-\sqrt3\)? A) \(6\sqrt3\) B) \(4\sqrt3\) C) \(8\sqrt3\) D) \(\sqrt{90}\)
 63. A rational number between 2/5 and 1/2 is: A) 3/10 B) 9/20 C) 11/20 D) 2/3
@@ -89,7 +89,7 @@ One concept I need to practise: _____________________
 65. If \(x=\sqrt{11}\), then \((x-1)(x+1)\) equals: A) 10 B) 12 C) \(\sqrt{10}\) D) 11
 66. \(27^{-2/3}\) equals: A) 1/3 B) 1/9 C) 9 D) 1/27
 67. Which is the smallest positive number? A) \(2^{-2}\) B) \(3^{-1}\) C) \(5^{-1}\) D) \(10^{-1}\)
-68. If \(0.\overline{18}=x\), then \(x=\): A) 18/100 B) 2/11 C) 18/99 D) Both B and C
+68. If 0.181818... = x, then x = A) 1/9   B) 1/5   C) 1/11   D) 2/11
 69. \((\sqrt7-\sqrt5)(\sqrt7+\sqrt5)\) equals: A) 2 B) 12 C) \(2\sqrt{35}\) D) 1
 70. Which is a terminating decimal? A) 7/24 B) 13/125 C) 5/18 D) 11/45
 71. If \(x=3+\sqrt2\), then \(x^2-6x\) equals: A) −7 B) −9 C) 2 D) 7
