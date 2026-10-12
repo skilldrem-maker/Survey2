@@ -25,7 +25,7 @@
 18. A force of 3 N moves an object 6 m in the direction of the force. Work done is: A) 21 J   B) 9 J   C) 12 J   D) 18 J
 19. A force of 4 N moves an object 1 m in the direction of the force. Work done is: A) 4 J   B) 8 J   C) 5 J   D) 3 J
 20. A force of 5 N moves an object 2 m in the direction of the force. Work done is: A) 15 J   B) 10 J   C) 7 J   D) 8 J
-21. The kinetic energy of a 1 kg object moving at 2 m/s is: A) 4 J   B) None of these   C) 2 J   D) None of these
+21. The kinetic energy of a 1 kg object moving at 2 m/s is: A) 4 J   B) 1 J   C) 2 J   D) 3 J
 22. The kinetic energy of a 2 kg object moving at 3 m/s is: A) 6 J   B) 18 J   C) 12 J   D) 9 J
 23. The kinetic energy of a 3 kg object moving at 4 m/s is: A) 24 J   B) 12 J   C) 48 J   D) 28 J
 24. The kinetic energy of a 4 kg object moving at 5 m/s is: A) 20 J   B) 50 J   C) 100 J   D) 55 J
@@ -67,7 +67,7 @@
 60. Taking g = 10 m/s², the potential energy of a 5 kg object at height 3 m is: A) 15 J   B) 150 J   C) 160 J   D) 53 J
 61. A machine does 20 J of work in 1 s. Its average power is: A) 21 W   B) 25 W   C) 20 W   D) None of these
 62. A machine does 30 J of work in 2 s. Its average power is: A) 32 W   B) 60 W   C) 20 W   D) 15 W
-63. A machine does 40 J of work in 3 s. Its average power is: A) 13.333333333333334 W   B) 43 W   C) 120 W   D) 18.333333333333336 W
+63. A machine does 40 J of work in 3 s. Its average power is: A) 13.33 W   B) 43 W   C) 120 W   D) 18.33 W
 64. A machine does 50 J of work in 4 s. Its average power is: A) 54 W   B) 12.5 W   C) 200 W   D) 17.5 W
 65. A machine does 60 J of work in 5 s. Its average power is: A) 65 W   B) 300 W   C) 12 W   D) 17 W
 66. A machine does 70 J of work in 1 s. Its average power is: A) 71 W   B) 75 W   C) None of these   D) 70 W
