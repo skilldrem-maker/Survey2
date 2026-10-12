@@ -54,7 +54,7 @@
 47. A cyclist moves at 7 m/s for 5 s. The distance travelled is: A) 42 m   B) 30 m   C) 12 m   D) 35 m
 48. A cyclist moves at 8 m/s for 6 s. The distance travelled is: A) 56 m   B) 42 m   C) 48 m   D) 14 m
 49. A cyclist moves at 9 m/s for 7 s. The distance travelled is: A) 72 m   B) 63 m   C) 56 m   D) 16 m
-50. A cyclist moves at 2 m/s for 2 s. The distance travelled is: A) 4 m   B) 6 m   C) 2 m   D) None of these
+50. A train moves at 4 m/s for 2 s. The distance travelled is: A) 8 m   B) 4 m   C) 2 m   D) 12 m
 51. Velocity changes from 0 m/s to 2 m/s in 1 s. Average acceleration is: A) 3 m/s²   B) 1 m/s²   C) None of these   D) 2 m/s²
 52. Velocity changes from 1 m/s to 5 m/s in 2 s. Average acceleration is: A) 3 m/s²   B) 1 m/s²   C) 2 m/s²   D) None of these
 53. Velocity changes from 2 m/s to 8 m/s in 3 s. Average acceleration is: A) 3 m/s²   B) 2 m/s²   C) 1 m/s²   D) 3.33 m/s²
