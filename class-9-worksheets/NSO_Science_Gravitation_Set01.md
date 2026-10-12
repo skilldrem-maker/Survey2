@@ -15,36 +15,36 @@
 8. Taking g = 10 m/s², the weight of a 8 kg object is: A) 8 N   B) 90 N   C) 40 N   D) 80 N
 9. Taking g = 10 m/s², the weight of a 9 kg object is: A) 9 N   B) 100 N   C) 90 N   D) 45 N
 10. Taking g = 10 m/s², the weight of a 10 kg object is: A) 10 N   B) 100 N   C) 110 N   D) 50 N
-11. Taking g = 10 m/s², the weight of a 1 kg object is: A) 10 N   B) 1 N   C) 20 N   D) 5 N
-12. Taking g = 10 m/s², the weight of a 2 kg object is: A) 2 N   B) 30 N   C) 10 N   D) 20 N
-13. Taking g = 10 m/s², the weight of a 3 kg object is: A) 3 N   B) 40 N   C) 30 N   D) 15 N
-14. Taking g = 10 m/s², the weight of a 4 kg object is: A) 4 N   B) 40 N   C) 50 N   D) 20 N
-15. Taking g = 10 m/s², the weight of a 5 kg object is: A) 50 N   B) 5 N   C) 60 N   D) 25 N
-16. Taking g = 10 m/s², the weight of a 6 kg object is: A) 6 N   B) 70 N   C) 30 N   D) 60 N
-17. Taking g = 10 m/s², the weight of a 7 kg object is: A) 7 N   B) 80 N   C) 70 N   D) 35 N
-18. Taking g = 10 m/s², the weight of a 8 kg object is: A) 8 N   B) 80 N   C) 90 N   D) 40 N
-19. Taking g = 10 m/s², the weight of a 9 kg object is: A) 90 N   B) 9 N   C) 100 N   D) 45 N
-20. Taking g = 10 m/s², the weight of a 10 kg object is: A) 10 N   B) 110 N   C) 50 N   D) 100 N
+11. On the Moon, take g = 1.6 m/s². The weight of a 3 kg object is: A) 4.8 N   B) 3 N   C) 1.6 N   D) 6 N
+12. On a planet where g = 4 m/s², the weight of a 5 kg object is: A) 9 N   B) 5 N   C) 25 N   D) 20 N
+13. An object weighs 80 N on Earth. Taking g = 10 m/s², its mass is: A) 4 kg   B) 10 kg   C) 8 kg   D) 80 kg
+14. A 2 kg object is in a place where g = 9.8 m/s². Its weight is: A) 2 N   B) 19.6 N   C) 9.8 N   D) 98 N
+15. An object weighs 60 N on Earth where g = 10 m/s². Its mass is: A) 6 kg   B) 60 kg   C) 10 kg   D) 600 kg
+16. An object weighs 60 N on Earth. Its approximate weight on the Moon is: A) 6 N   B) 60 N   C) 360 N   D) 10 N
+17. What is the weight of a 4 kg object on Earth if g = 10 m/s²? A) 4 N   B) 10 N   C) 40 N   D) 400 N
+18. An object weighs 30 N on Earth where g = 10 m/s². Its mass is: A) 10 kg   B) 3 kg   C) 30 kg   D) 300 kg
+19. A 2 kg object is on a planet where g = 5 m/s². Its weight is: A) 10 N   B) 2 N   C) 5 N   D) 20 N
+20. If an object's mass doubles while gravitational acceleration stays constant, its weight: A) halves   B) stays the same   C) becomes four times as large   D) doubles
 21. A body falls from rest for 1 s. Taking g = 10 m/s², its final speed is: A) 5 m/s   B) 12 m/s   C) 10 m/s   D) 1 m/s
 22. A body falls from rest for 2 s. Taking g = 10 m/s², its final speed is: A) 10 m/s   B) 20 m/s   C) 22 m/s   D) 2 m/s
 23. A body falls from rest for 3 s. Taking g = 10 m/s², its final speed is: A) 30 m/s   B) 15 m/s   C) 32 m/s   D) 3 m/s
 24. A body falls from rest for 4 s. Taking g = 10 m/s², its final speed is: A) 20 m/s   B) 42 m/s   C) 4 m/s   D) 40 m/s
-25. A body falls from rest for 1 s. Taking g = 10 m/s², its final speed is: A) 5 m/s   B) 12 m/s   C) 10 m/s   D) 1 m/s
-26. A body falls from rest for 2 s. Taking g = 10 m/s², its final speed is: A) 10 m/s   B) 20 m/s   C) 22 m/s   D) 2 m/s
-27. A body falls from rest for 3 s. Taking g = 10 m/s², its final speed is: A) 30 m/s   B) 15 m/s   C) 32 m/s   D) 3 m/s
-28. A body falls from rest for 4 s. Taking g = 10 m/s², its final speed is: A) 20 m/s   B) 42 m/s   C) 4 m/s   D) 40 m/s
-29. A body falls from rest for 1 s. Taking g = 10 m/s², its final speed is: A) 5 m/s   B) 12 m/s   C) 10 m/s   D) 1 m/s
-30. A body falls from rest for 2 s. Taking g = 10 m/s², its final speed is: A) 10 m/s   B) 20 m/s   C) 22 m/s   D) 2 m/s
-31. A body falls from rest for 3 s. Taking g = 10 m/s², its final speed is: A) 30 m/s   B) 15 m/s   C) 32 m/s   D) 3 m/s
-32. A body falls from rest for 4 s. Taking g = 10 m/s², its final speed is: A) 20 m/s   B) 42 m/s   C) 4 m/s   D) 40 m/s
-33. A body falls from rest for 1 s. Taking g = 10 m/s², its final speed is: A) 5 m/s   B) 12 m/s   C) 10 m/s   D) 1 m/s
-34. A body falls from rest for 2 s. Taking g = 10 m/s², its final speed is: A) 10 m/s   B) 20 m/s   C) 22 m/s   D) 2 m/s
-35. A body falls from rest for 3 s. Taking g = 10 m/s², its final speed is: A) 30 m/s   B) 15 m/s   C) 32 m/s   D) 3 m/s
-36. A body falls from rest for 4 s. Taking g = 10 m/s², its final speed is: A) 20 m/s   B) 42 m/s   C) 4 m/s   D) 40 m/s
-37. A body falls from rest for 1 s. Taking g = 10 m/s², its final speed is: A) 5 m/s   B) 12 m/s   C) 10 m/s   D) 1 m/s
-38. A body falls from rest for 2 s. Taking g = 10 m/s², its final speed is: A) 10 m/s   B) 20 m/s   C) 22 m/s   D) 2 m/s
-39. A body falls from rest for 3 s. Taking g = 10 m/s², its final speed is: A) 30 m/s   B) 15 m/s   C) 32 m/s   D) 3 m/s
-40. A body falls from rest for 4 s. Taking g = 10 m/s², its final speed is: A) 20 m/s   B) 42 m/s   C) 4 m/s   D) 40 m/s
+25. A body falls from rest for 1 s. Taking g = 10 m/s², the distance it falls is: A) 10 m   B) 1 m   C) 5 m   D) 20 m
+26. A body falls from rest for 2 s. Taking g = 10 m/s², the distance it falls is: A) 10 m   B) 20 m   C) 40 m   D) 2 m
+27. A body falls from rest for 3 s. Taking g = 10 m/s², the distance it falls is: A) 45 m   B) 30 m   C) 90 m   D) 3 m
+28. A body falls from rest for 4 s. Taking g = 10 m/s², the distance it falls is: A) 40 m   B) 20 m   C) 4 m   D) 80 m
+29. A ball is thrown vertically upward at 20 m/s. Taking g = 10 m/s², the time to reach maximum height is: A) 1 s   B) 4 s   C) 2 s   D) 20 s
+30. A ball is thrown vertically upward at 20 m/s. Taking g = 10 m/s², its maximum height is: A) 10 m   B) 20 m   C) 40 m   D) 2 m
+31. A body falls from rest for 5 s. Taking g = 10 m/s², its final speed is: A) 50 m/s   B) 5 m/s   C) 25 m/s   D) 10 m/s
+32. A body falls from rest and reaches 30 m/s. Taking g = 10 m/s², the time taken is: A) 30 s   B) 10 s   C) 5 s   D) 3 s
+33. What is the weight of a 5 kg object on Earth if g = 10 m/s²? A) 5 N   B) 10 N   C) 50 N   D) 500 N
+34. On the Moon, take g = 1.6 m/s². The weight of a 6 kg object is: A) 60 N   B) 9.6 N   C) 6 N   D) 16 N
+35. An object weighs 120 N on Earth where g = 10 m/s². Its mass is: A) 12 kg   B) 10 kg   C) 120 kg   D) 1200 kg
+36. If the distance between two masses doubles, the gravitational force becomes: A) double   B) half   C) unchanged   D) one-fourth
+37. What is the weight of a 2 kg object on Earth if g = 9.8 m/s²? A) 2 N   B) 9.8 N   C) 19.6 N   D) 98 N
+38. An object has mass 10 kg and weight 100 N. Its local gravitational acceleration is: A) 1 m/s²   B) 10 m/s²   C) 100 m/s²   D) 1000 m/s²
+39. An object weighs 50 N where g = 10 m/s². Its mass is: A) 5 kg   B) 10 kg   C) 50 kg   D) 500 kg
+40. A body falls from rest for 6 s. Taking g = 10 m/s², its final speed is: A) 6 m/s   B) 30 m/s   C) 10 m/s   D) 60 m/s
 41. A force of 10 N acts over an area of 1 m². The pressure is: A) 11 Pa   B) 20 Pa   C) 10 Pa   D) None of these
 42. A force of 20 N acts over an area of 2 m². The pressure is: A) 40 Pa   B) 10 Pa   C) 22 Pa   D) 20 Pa
 43. A force of 30 N acts over an area of 3 m². The pressure is: A) 10 Pa   B) 90 Pa   C) 33 Pa   D) 20 Pa
