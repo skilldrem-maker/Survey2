@@ -26,7 +26,7 @@
 19. A neutral atom of K has atomic number 19. How many protons does it contain? A) 20   B) 18   C) 39   D) 19
 20. A neutral atom of Ca has atomic number 20. How many protons does it contain? A) 20   B) 21   C) 19   D) 40
 21. What is the shell electronic configuration of a neutral H atom (atomic number 1)? A) 1,0   B) 1   C) 2,0   D) None of these
-22. What is the shell electronic configuration of a neutral He atom (atomic number 2)? A) 2,0   B) 1,1   C) 2,1   D) 2
+22. What is the shell electronic configuration of a neutral He atom (atomic number 2)? A) 2,0   B) 1,1   C) 2   D) 2,1
 23. What is the shell electronic configuration of a neutral Li atom (atomic number 3)? A) 3,0   B) 1,2   C) None of these   D) 2,1
 24. What is the shell electronic configuration of a neutral Be atom (atomic number 4)? A) 2,2   B) 4,0   C) 1,3   D) 3,1
 25. What is the shell electronic configuration of a neutral B atom (atomic number 5)? A) 5,0   B) 2,3   C) 3,2   D) None of these
