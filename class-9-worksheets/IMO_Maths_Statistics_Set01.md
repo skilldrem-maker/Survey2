@@ -35,15 +35,15 @@
 29. Find the median of 2, 3, 6, 9, 12. A) 3   B) 6   C) 9   D) 2
 30. Find the median of 2, 3, 6, 6, 10. A) 3   B) 2   C) 6   D) None of these
 31. Find the median of 4, 4, 4, 9, 11. A) 9   B) 10   C) 11   D) 4
-32. Find the median of 4, 5, 5, 6, 8. A) 5   B) 6   C) 4   D) None of these
+32. Find the median of 4, 5, 5, 6, 8. A) 4   B) 6   C) 5   D) 8
 33. Find the median of 6, 7, 8, 10, 12. A) 7   B) 8   C) 10   D) 6
-34. Find the median of 6, 7, 10, 10, 15. A) 7   B) 6   C) 10   D) None of these
+34. Find the median of 6, 7, 10, 10, 15. A) 10   B) 6   C) 7   D) None of these
 35. Find the median of 1, 3, 5, 9, 10. A) 3   B) 9   C) 1   D) 5
-36. Find the median of 2, 4, 5, 8, 14. A) 5   B) 4   C) 8   D) 2
+36. Find the median of 2, 4, 5, 8, 14. A) 8   B) 4   C) 5   D) 2
 37. Find the median of 3, 3, 7, 8, 8. A) 3   B) 7   C) 8   D) None of these
-38. Find the median of 4, 6, 9, 12, 13. A) 6   B) 12   C) 9   D) 4
+38. Find the median of 4, 6, 9, 12, 13. A) 9   B) 12   C) 6   D) 4
 39. Find the median of 2, 5, 6, 7, 9. A) 5   B) 7   C) 2   D) 6
-40. Find the median of 4, 4, 6, 10, 12. A) 6   B) 4   C) 10   D) None of these
+40. Find the median of 4, 4, 6, 10, 12. A) 4   B) 10   C) 6   D) None of these
 41. Find the mode of 1, 3, 1, 5, 1, 3. A) 3   B) 1   C) 5   D) 6
 42. Find the mode of 2, 4, 2, 6, 2, 4. A) 4   B) 6   C) 2   D) None of these
 43. Find the mode of 3, 5, 3, 7, 3, 5. A) 5   B) 7   C) 6   D) 3
