@@ -4,26 +4,26 @@
 **Instructions:** Choose one correct option.
 
 ### Questions
-1. A point has: A) exactly one   B) no dimensions   C) equal   D) straight line segment
-2. A line has: A) no dimensions   B) exactly one   C) length but no breadth   D) equal
-3. A surface has: A) no dimensions   B) exactly one   C) equal   D) length and breadth
-4. A line segment has: A) two endpoints   B) no dimensions   C) exactly one   D) equal
-5. A ray has: A) no dimensions   B) one endpoint   C) exactly one   D) equal
-6. Through two distinct points, how many straight lines can be drawn?: A) no dimensions   B) equal   C) exactly one   D) straight line segment
-7. The whole is greater than: A) no dimensions   B) exactly one   C) equal   D) the part
-8. Things equal to the same thing are equal to: A) one another   B) no dimensions   C) exactly one   D) equal
-9. If equals are added to equals, the wholes are: A) no dimensions   B) equal   C) exactly one   D) straight line segment
-10. If equals are subtracted from equals, the remainders are: A) no dimensions   B) exactly one   C) equal   D) straight line segment
-11. Things that coincide with one another are: A) no dimensions   B) exactly one   C) straight line segment   D) equal
-12. A straight line can be extended: A) indefinitely   B) no dimensions   C) exactly one   D) equal
-13. All right angles are: A) no dimensions   B) equal   C) exactly one   D) straight line segment
-14. A circle can be drawn with any centre and: A) no dimensions   B) exactly one   C) any radius   D) equal
-15. Euclid's geometry is based on definitions, axioms and: A) no dimensions   B) exactly one   C) equal   D) postulates
-16. A statement accepted without proof and general in nature is an: A) axiom   B) no dimensions   C) exactly one   D) equal
-17. A statement accepted without proof in geometry is a: A) no dimensions   B) postulate   C) exactly one   D) equal
-18. A theorem is a statement that is: A) no dimensions   B) exactly one   C) proved using known results   D) equal
-19. The shortest distance between two points is a: A) no dimensions   B) exactly one   C) equal   D) straight line segment
-20. Parallel lines in a plane: A) never meet   B) no dimensions   C) exactly one   D) equal
+1. A point has: A) one dimension   B) no dimensions   C) two dimensions   D) three dimensions
+2. A line has: A) no dimensions   B) two endpoints   C) length but no breadth   D) length and breadth
+3. A surface has: A) no dimensions   B) one dimension   C) three dimensions   D) length and breadth
+4. A line segment has: A) two endpoints   B) no endpoints   C) one endpoint   D) infinite length
+5. A ray has: A) two endpoints   B) one endpoint   C) no endpoints   D) finite length
+6. Through two distinct points, how many straight lines can be drawn? A) no line   B) two distinct lines   C) exactly one straight line   D) infinitely many straight lines
+7. The whole is greater than: A) itself   B) zero   C) an equal whole   D) the part
+8. Things equal to the same thing are equal to: A) one another   B) different things   C) parallel lines   D) no objects
+9. If equals are added to equals, the wholes are: A) unequal   B) equal   C) perpendicular   D) undefined
+10. If equals are subtracted from equals, the remainders are: A) unequal   B) undefined   C) equal   D) perpendicular
+11. Things that coincide with one another are: A) different   B) perpendicular   C) parallel   D) equal
+12. A straight line can be extended: A) indefinitely   B) only one centimetre   C) only between two endpoints   D) never
+13. All right angles are: A) unequal   B) equal   C) acute   D) reflex
+14. A circle can be drawn with any centre and: A) only a radius of 1 unit   B) no radius   C) any radius   D) only when the centre is the origin
+15. Euclid's geometry is based on definitions, axioms and: A) measurements only   B) guesses   C) conjectures only   D) postulates
+16. A statement accepted without proof and general in nature is an: A) axiom   B) theorem   C) conjecture   D) corollary
+17. A statement accepted without proof in geometry is a: A) theorem   B) postulate   C) corollary   D) conjecture
+18. A theorem is a statement that is: A) guessed   B) accepted without proof   C) proved using known results   D) never tested
+19. The shortest distance between two points is a: A) circle   B) curved path   C) ray   D) straight line segment
+20. Parallel lines in a plane: A) never meet   B) intersect once   C) are always perpendicular   D) coincide
 21. If AB = CD and CD = EF, then AB =: A) axiom   B) EF   C) postulate   D) theorem
 22. If x = y, then x + 5 =: A) axiom   B) postulate   C) y + 5   D) theorem
 23. If a = b, then a - c =: A) axiom   B) postulate   C) theorem   D) b - c
@@ -44,46 +44,46 @@
 38. If equal quantities have equal quantities added, the sums are: A) axiom   B) postulate   C) equal   D) theorem
 39. If equal quantities have equal quantities removed, the differences are: A) axiom   B) postulate   C) theorem   D) equal
 40. A mathematical statement established by reasoning is a: A) theorem   B) axiom   C) postulate   D) parallel lines
-41. Euclid's first postulate allows one to: A) proof   B) draw a straight line from any point to any other point   C) geometry   D) equal to one another
-42. Euclid's second postulate allows a finite straight line to be: A) proof   B) geometry   C) extended continuously in a straight line   D) equal to one another
-43. Euclid's third postulate allows one to: A) proof   B) geometry   C) equal to one another   D) draw a circle with any centre and radius
-44. Euclid's fourth postulate states that: A) all right angles are equal   B) proof   C) geometry   D) equal to one another
-45. Euclid's fifth postulate is related to: A) proof   B) parallel lines   C) geometry   D) equal to one another
-46. The basic undefined terms in geometry include point, line and: A) proof   B) geometry   C) plane   D) equal to one another
-47. Axiom 1 says things equal to the same thing are: A) proof   B) geometry   C) the part   D) equal to one another
-48. Axiom 2 says if equals are added to equals, the wholes are: A) equal   B) proof   C) geometry   D) equal to one another
-49. Axiom 3 says if equals are subtracted from equals, the remainders are: A) proof   B) equal   C) geometry   D) equal to one another
-50. Axiom 4 says things that coincide are: A) proof   B) geometry   C) equal   D) equal to one another
-51. Axiom 5 says the whole is: A) proof   B) geometry   C) equal to one another   D) greater than the part
+41. Euclid's first postulate allows one to: A) draw a circle   B) draw a straight line from any point to any other point   C) extend a line indefinitely   D) make all right angles equal
+42. Euclid's second postulate allows a finite straight line to be: A) joined to a circle only   B) measured and stopped   C) extended continuously in a straight line   D) made perpendicular
+43. Euclid's third postulate allows one to: A) draw a straight line between two points   B) extend a line indefinitely   C) make all right angles equal   D) draw a circle with any centre and radius
+44. Euclid's fourth postulate states that: A) all right angles are equal   B) a line has finite length   C) every circle has the same radius   D) parallel lines always intersect
+45. Euclid's fifth postulate is related to: A) drawing a circle   B) parallel lines   C) equal right angles   D) measuring line segments
+46. The basic undefined terms in geometry include point, line and: A) proof   B) theorem   C) plane   D) corollary
+47. Axiom 1 says things equal to the same thing are: A) different   B) perpendicular   C) parallel   D) equal to one another
+48. Axiom 2 says if equals are added to equals, the wholes are: A) equal   B) unequal   C) different in every case   D) impossible to compare
+49. Axiom 3 says if equals are subtracted from equals, the remainders are: A) unequal   B) equal   C) different in every case   D) impossible to compare
+50. Axiom 4 says things that coincide are: A) unequal   B) unrelated   C) equal   D) perpendicular
+51. Axiom 5 says the whole is: A) equal to its part   B) smaller than its part   C) equal to zero   D) greater than the part
 52. If equal quantities are doubled, the results are: A) equal   B) unequal   C) unrelated   D) different
 53. If equal quantities are halved, the results are: A) unequal   B) equal   C) unrelated   D) different
 54. If the same quantity is added to equal quantities, the sums are: A) unequal   B) unrelated   C) equal   D) always doubled
 55. The whole is greater than its: A) equal part only   B) double   C) sum   D) part
-56. A postulate is usually specific to a branch such as: A) geometry   B) proof   C) equal to one another   D) the part
-57. An axiom is accepted as true without: A) geometry   B) proof   C) equal to one another   D) the part
-58. A theorem needs a logical: A) geometry   B) equal to one another   C) proof   D) the part
-59. A corollary follows readily from a: A) proof   B) geometry   C) equal to one another   D) theorem
-60. A conjecture is a statement that still needs to be: A) proved   B) proof   C) geometry   D) equal to one another
-61. If AB = 7 cm and BC = 7 cm, then AB and BC are: A) 12   B) equal in length   C) point   D) radius
-62. If p = q and q = 12, then p is: A) equal in length   B) point   C) 12   D) radius
-63. If m = n, then m + n equals: A) equal in length   B) 12   C) point   D) 2m
-64. If a = b = c, then a and c are: A) equal   B) equal in length   C) 12   D) point
-65. If equal segments are each increased by 4 cm, the new segments are: A) equal in length   B) equal   C) 12   D) point
-66. If equal segments are each shortened by 2 cm, the new segments are: A) equal in length   B) 12   C) equal   D) point
-67. A geometric proof should be based on definitions, axioms, postulates and: A) equal in length   B) 12   C) point   D) previously proved theorems
-68. A statement accepted as a starting point is not normally proved within the system; it is an: A) axiom or postulate   B) equal in length   C) 12   D) point
-69. A straight line has no: A) equal in length   B) thickness   C) 12   D) point
-70. A plane surface has no: A) equal in length   B) 12   C) thickness   D) point
-71. A line segment is part of a: A) equal in length   B) 12   C) point   D) line
-72. A line extends in: A) two directions   B) equal in length   C) 12   D) point
-73. A ray extends in: A) equal in length   B) one direction   C) 12   D) point
-74. Two different lines can intersect at most at one: A) equal in length   B) 12   C) point   D) radius
-75. Three non-collinear points determine a: A) equal in length   B) 12   C) point   D) plane
-76. A triangle is formed by three line segments joining three: A) non-collinear points   B) equal in length   C) 12   D) point
-77. A circle consists of points at equal distance from a fixed: A) equal in length   B) centre   C) 12   D) point
-78. The fixed distance defining a circle is its: A) equal in length   B) 12   C) radius   D) point
-79. An angle is formed by two rays with a common: A) equal in length   B) 12   C) point   D) endpoint
-80. The common endpoint of two rays is called the: A) vertex   B) equal in length   C) 12   D) point
+56. A postulate is usually specific to a branch such as: A) geometry   B) proof   C) an equality   D) the part
+57. An axiom is accepted as true without: A) measurement   B) proof   C) a diagram   D) a theorem
+58. A theorem needs a logical: A) guess   B) diagram only   C) proof   D) measurement only
+59. A corollary follows readily from a: A) definition   B) conjecture   C) axiom only   D) theorem
+60. A conjecture is a statement that still needs to be: A) proved   B) accepted as an axiom   C) defined only   D) ignored
+61. If AB = 7 cm and BC = 7 cm, then AB and BC are: A) unequal in length   B) equal in length   C) parallel lines   D) different lengths
+62. If p = q and q = 12, then p is: A) 7   B) 0   C) 12   D) 24
+63. If m = n, then m + n equals: A) m   B) m − n   C) m + n only   D) 2m
+64. If a = b = c, then a and c are: A) equal   B) unequal   C) 12   D) a point
+65. If equal segments are each increased by 4 cm, the new segments are: A) equal in length   B) different lengths   C) 12   D) a point
+66. If equal segments are each shortened by 2 cm, the new segments are: A) unequal in length   B) 12   C) equal in length   D) a point
+67. A geometric proof should be based on definitions, axioms, postulates and: A) measurements only   B) guessing   C) diagrams alone   D) previously proved theorems
+68. A statement accepted as a starting point is not normally proved within the system; it is an: A) axiom or postulate   B) theorem   C) conjecture   D) corollary
+69. An ideal straight line has no: A) length   B) thickness   C) direction   D) endpoints
+70. An ideal plane surface has no: A) length   B) volume   C) thickness   D) area
+71. A line segment is part of a: A) circle   B) angle   C) plane only   D) line
+72. A line extends in: A) two directions   B) one direction only   C) a finite distance only   D) no direction
+73. A ray extends in: A) two directions   B) one direction   C) a finite segment only   D) no direction
+74. Two distinct straight lines can intersect at most at one: A) circle   B) plane   C) point   D) line segment
+75. Three non-collinear points determine a: A) circle only   B) line   C) ray   D) plane
+76. A triangle is formed by three line segments joining three: A) non-collinear points   B) collinear points   C) four points   D) parallel lines
+77. A circle consists of points at equal distance from a fixed: A) circumference   B) centre   C) radius   D) chord
+78. The fixed distance defining a circle is its: A) diameter   B) circumference   C) radius   D) chord
+79. An angle is formed by two rays with a common: A) midpoint   B) centre   C) midpoint of a segment   D) endpoint
+80. The common endpoint of two rays is called the: A) vertex   B) diameter   C) ray   D) circle
 81. The term 'collinear' means points lying on the same A) circle   B) straight line   C) plane only   D) angle
 82. The term 'coplanar' means points lying in the same A) straight line   B) circle   C) plane   D) ray
 83. A point is considered to have A) one dimension   B) two dimensions   C) three dimensions   D) zero dimensions
