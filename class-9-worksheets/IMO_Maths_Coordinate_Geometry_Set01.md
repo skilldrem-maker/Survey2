@@ -17,33 +17,33 @@
 10. The point (5, 6) lies in which quadrant? A) I   B) II   C) III   D) IV
 11. The point (7, -2) lies in which quadrant? A) I   B) II   C) III   D) IV
 12. The point (-8, -5) lies in which quadrant? A) I   B) II   C) III   D) IV
-13. The point (2, 3) lies in which quadrant? A) II   B) I   C) III   D) IV
-14. The point (-3, 6) lies in which quadrant? A) II   B) I   C) III   D) IV
-15. The point (-4, -2) lies in which quadrant? A) I   B) II   C) IV   D) III
-16. The point (5, -5) lies in which quadrant? A) I   B) II   C) IV   D) III
-17. The point (7, 3) lies in which quadrant? A) II   B) I   C) III   D) IV
-18. The point (-8, 6) lies in which quadrant? A) II   B) I   C) III   D) IV
-19. The point (2, -2) lies in which quadrant? A) I   B) II   C) III   D) IV
-20. The point (-3, -5) lies in which quadrant? A) I   B) II   C) III   D) IV
+13. The point (6, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+14. The point (-9, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+15. The point (-7, -2) lies in which quadrant? A) I   B) II   C) IV   D) III
+16. The point (8, -3) lies in which quadrant? A) I   B) II   C) IV   D) III
+17. The point (6, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+18. The point (-9, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+19. The point (5, -8) lies in which quadrant? A) I   B) II   C) III   D) IV
+20. The point (-7, -9) lies in which quadrant? A) I   B) II   C) III   D) IV
 21. Where is the point (0, 0) located? A) x-axis   B) Origin   C) y-axis   D) I
 22. Where is the point (2, -2) located? A) IV   B) Origin   C) x-axis   D) y-axis
 23. Where is the point (0, 3) located? A) Origin   B) x-axis   C) I   D) y-axis
 24. Where is the point (-4, 0) located? A) Origin   B) y-axis   C) x-axis   D) I
 25. Where is the point (0, -5) located? A) Origin   B) y-axis   C) x-axis   D) I
 26. Where is the point (6, -6) located? A) IV   B) Origin   C) x-axis   D) y-axis
-27. Where is the point (0, 0) located? A) x-axis   B) y-axis   C) I   D) Origin
+27. Where is the point (4, 0) located? A) x-axis   B) Origin   C) y-axis   D) I
 28. Where is the point (-1, 8) located? A) Origin   B) x-axis   C) II   D) y-axis
 29. Where is the point (0, -9) located? A) Origin   B) y-axis   C) x-axis   D) I
 30. Where is the point (3, 0) located? A) x-axis   B) Origin   C) y-axis   D) I
 31. Where is the point (0, 2) located? A) Origin   B) x-axis   C) I   D) y-axis
 32. Where is the point (-5, 3) located? A) Origin   B) x-axis   C) II   D) y-axis
-33. Where is the point (0, 0) located? A) x-axis   B) Origin   C) y-axis   D) I
+33. Where is the point (0, -3) located? A) x-axis   B) y-axis   C) I   D) Origin
 34. Where is the point (7, -5) located? A) IV   B) Origin   C) x-axis   D) y-axis
 35. Where is the point (0, 6) located? A) Origin   B) x-axis   C) I   D) y-axis
 36. Where is the point (-2, 0) located? A) Origin   B) y-axis   C) x-axis   D) I
 37. Where is the point (0, -8) located? A) Origin   B) y-axis   C) x-axis   D) I
 38. Where is the point (4, -9) located? A) IV   B) Origin   C) x-axis   D) y-axis
-39. Where is the point (0, 0) located? A) x-axis   B) y-axis   C) I   D) Origin
+39. The coordinates of the origin are: A) (1, 1)   B) (0, 1)   C) (1, 0)   D) (0, 0)
 40. Where is the point (-6, 2) located? A) Origin   B) x-axis   C) II   D) y-axis
 41. Reflection of (1, 2) across the x-axis is: A) (-1, 2)   B) (1, -2)   C) (-1, -2)   D) (1, 2)
 42. Reflection of (2, 3) across the x-axis is: A) (2, -3)   B) (-2, 3)   C) (-2, -3)   D) (2, 3)
@@ -108,7 +108,7 @@
 
 
 ### Answer Key
-1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 A · 82 D · 83 C · 84 B · 85 A · 86 D · 87 C · 88 B · 89 A · 90 D · 91 C · 92 B · 93 A · 94 D · 95 C · 96 B · 97 A · 98 D · 99 C · 100 B
+1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 A · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 A · 82 D · 83 C · 84 B · 85 A · 86 D · 87 C · 88 B · 89 A · 90 D · 91 C · 92 B · 93 A · 94 D · 95 C · 96 B · 97 A · 98 D · 99 C · 100 B
 
 ### Review
 Score: ____ / 100  
