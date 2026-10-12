@@ -87,7 +87,7 @@
 81. Angles around a point add up to: A) 90°   B) 180°   C) 360°   D) equal
 82. Angles on a straight line add up to: A) 90°   B) 180°   C) 360°   D) equal
 83. Vertically opposite angles are: A) equal   B) 90°   C) 180°   D) 360°
-84. A linear pair is: A) 90°   B) 180°   C) 360°   D) supplementary
+84. A linear pair consists of two adjacent angles whose non-common arms form a: A) right angle   B) full circle   C) pair of parallel lines   D) straight line
 85. Complementary angles add up to: A) 180°   B) 360°   C) 90°   D) equal
 86. Supplementary angles add up to: A) 90°   B) 180°   C) 360°   D) equal
 87. If parallel lines are cut by a transversal, corresponding angles are: A) equal   B) 90°   C) 180°   D) 360°
