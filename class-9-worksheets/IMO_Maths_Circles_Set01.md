@@ -49,21 +49,21 @@
 43. An angle subtended by a chord at the circumference is 32°. The angle subtended by the same chord at the centre is: A) 32°   B) 148°   C) 74°   D) 64°
 44. An angle subtended by a chord at the circumference is 33°. The angle subtended by the same chord at the centre is: A) 33°   B) 147°   C) 66°   D) 76°
 45. An angle subtended by a chord at the circumference is 34°. The angle subtended by the same chord at the centre is: A) 34°   B) 68°   C) 146°   D) 78°
-46. An angle subtended by a chord at the circumference is 30°. The angle subtended by the same chord at the centre is: A) 60°   B) 30°   C) 150°   D) 70°
-47. An angle subtended by a chord at the circumference is 31°. The angle subtended by the same chord at the centre is: A) 31°   B) 149°   C) 72°   D) 62°
-48. An angle subtended by a chord at the circumference is 32°. The angle subtended by the same chord at the centre is: A) 32°   B) 148°   C) 64°   D) 74°
-49. An angle subtended by a chord at the circumference is 33°. The angle subtended by the same chord at the centre is: A) 33°   B) 66°   C) 147°   D) 76°
-50. An angle subtended by a chord at the circumference is 34°. The angle subtended by the same chord at the centre is: A) 68°   B) 34°   C) 146°   D) 78°
-51. An angle subtended by a chord at the circumference is 30°. The angle subtended by the same chord at the centre is: A) 30°   B) 150°   C) 70°   D) 60°
-52. An angle subtended by a chord at the circumference is 31°. The angle subtended by the same chord at the centre is: A) 31°   B) 149°   C) 62°   D) 72°
-53. An angle subtended by a chord at the circumference is 32°. The angle subtended by the same chord at the centre is: A) 32°   B) 64°   C) 148°   D) 74°
-54. An angle subtended by a chord at the circumference is 33°. The angle subtended by the same chord at the centre is: A) 66°   B) 33°   C) 147°   D) 76°
-55. An angle subtended by a chord at the circumference is 34°. The angle subtended by the same chord at the centre is: A) 34°   B) 146°   C) 78°   D) 68°
-56. An angle subtended by a chord at the circumference is 30°. The angle subtended by the same chord at the centre is: A) 30°   B) 150°   C) 60°   D) 70°
-57. An angle subtended by a chord at the circumference is 31°. The angle subtended by the same chord at the centre is: A) 31°   B) 62°   C) 149°   D) 72°
-58. An angle subtended by a chord at the circumference is 32°. The angle subtended by the same chord at the centre is: A) 64°   B) 32°   C) 148°   D) 74°
-59. An angle subtended by a chord at the circumference is 33°. The angle subtended by the same chord at the centre is: A) 33°   B) 147°   C) 76°   D) 66°
-60. An angle subtended by a chord at the circumference is 34°. The angle subtended by the same chord at the centre is: A) 34°   B) 146°   C) 68°   D) 78°
+46. An angle subtended by a chord at the circumference is 35°. The angle subtended by the same chord at the centre is: A) 70°   B) 35°   C) 145°   D) 75°
+47. An angle subtended by a chord at the circumference is 36°. The angle subtended by the same chord at the centre is: A) 36°   B) 144°   C) 78°   D) 72°
+48. An angle subtended by a chord at the circumference is 37°. The angle subtended by the same chord at the centre is: A) 37°   B) 143°   C) 74°   D) 79°
+49. An angle subtended by a chord at the circumference is 38°. The angle subtended by the same chord at the centre is: A) 38°   B) 76°   C) 142°   D) 82°
+50. An angle subtended by a chord at the circumference is 39°. The angle subtended by the same chord at the centre is: A) 78°   B) 39°   C) 141°   D) 81°
+51. An angle subtended by a chord at the circumference is 40°. The angle subtended by the same chord at the centre is: A) 40°   B) 140°   C) 50°   D) 80°
+52. An angle subtended by a chord at the circumference is 41°. The angle subtended by the same chord at the centre is: A) 41°   B) 139°   C) 82°   D) 83°
+53. An angle subtended by a chord at the circumference is 42°. The angle subtended by the same chord at the centre is: A) 42°   B) 84°   C) 138°   D) 85°
+54. An angle subtended by a chord at the circumference is 43°. The angle subtended by the same chord at the centre is: A) 86°   B) 43°   C) 137°   D) 87°
+55. An angle subtended by a chord at the circumference is 44°. The angle subtended by the same chord at the centre is: A) 44°   B) 136°   C) 78°   D) 88°
+56. An angle subtended by a chord at the circumference is 45°. The angle subtended by the same chord at the centre is: A) 45°   B) 135°   C) 95°   D) 90°
+57. An angle subtended by a chord at the circumference is 46°. The angle subtended by the same chord at the centre is: A) 46°   B) 92°   C) 134°   D) 96°
+58. An angle subtended by a chord at the circumference is 47°. The angle subtended by the same chord at the centre is: A) 94°   B) 47°   C) 133°   D) 97°
+59. An angle subtended by a chord at the circumference is 48°. The angle subtended by the same chord at the centre is: A) 48°   B) 132°   C) 98°   D) 96°
+60. An angle subtended by a chord at the circumference is 49°. The angle subtended by the same chord at the centre is: A) 49°   B) 131°   C) 98°   D) 99°
 61. A cyclic quadrilateral has one angle 50°. Its opposite angle is: A) 50°   B) 130°   C) 40°   D) 140°
 62. A cyclic quadrilateral has one angle 51°. Its opposite angle is: A) 129°   B) 51°   C) 39°   D) 139°
 63. A cyclic quadrilateral has one angle 52°. Its opposite angle is: A) 52°   B) 38°   C) 138°   D) 128°
@@ -71,19 +71,19 @@
 65. A cyclic quadrilateral has one angle 54°. Its opposite angle is: A) 54°   B) 126°   C) 36°   D) 136°
 66. A cyclic quadrilateral has one angle 55°. Its opposite angle is: A) 125°   B) 55°   C) 35°   D) 135°
 67. A cyclic quadrilateral has one angle 56°. Its opposite angle is: A) 56°   B) 34°   C) 134°   D) 124°
-68. A cyclic quadrilateral has one angle 50°. Its opposite angle is: A) 50°   B) 40°   C) 130°   D) 140°
-69. A cyclic quadrilateral has one angle 51°. Its opposite angle is: A) 51°   B) 129°   C) 39°   D) 139°
-70. A cyclic quadrilateral has one angle 52°. Its opposite angle is: A) 128°   B) 52°   C) 38°   D) 138°
-71. A cyclic quadrilateral has one angle 53°. Its opposite angle is: A) 53°   B) 37°   C) 137°   D) 127°
-72. A cyclic quadrilateral has one angle 54°. Its opposite angle is: A) 54°   B) 36°   C) 126°   D) 136°
-73. A cyclic quadrilateral has one angle 55°. Its opposite angle is: A) 55°   B) 125°   C) 35°   D) 135°
-74. A cyclic quadrilateral has one angle 56°. Its opposite angle is: A) 124°   B) 56°   C) 34°   D) 134°
-75. A cyclic quadrilateral has one angle 50°. Its opposite angle is: A) 50°   B) 40°   C) 140°   D) 130°
-76. A cyclic quadrilateral has one angle 51°. Its opposite angle is: A) 51°   B) 39°   C) 129°   D) 139°
-77. A cyclic quadrilateral has one angle 52°. Its opposite angle is: A) 52°   B) 128°   C) 38°   D) 138°
-78. A cyclic quadrilateral has one angle 53°. Its opposite angle is: A) 127°   B) 53°   C) 37°   D) 137°
-79. A cyclic quadrilateral has one angle 54°. Its opposite angle is: A) 54°   B) 36°   C) 136°   D) 126°
-80. A cyclic quadrilateral has one angle 55°. Its opposite angle is: A) 55°   B) 35°   C) 125°   D) 135°
+68. A cyclic quadrilateral has one angle 57°. Its opposite angle is: A) 57°   B) 123°   C) 123°   D) 114°
+69. A cyclic quadrilateral has one angle 58°. Its opposite angle is: A) 58°   B) 122°   C) 116°   D) 132°
+70. A cyclic quadrilateral has one angle 59°. Its opposite angle is: A) 118°   B) 59°   C) 121°   D) 131°
+71. A cyclic quadrilateral has one angle 60°. Its opposite angle is: A) 60°   B) 140°   C) 90°   D) 120°
+72. A cyclic quadrilateral has one angle 61°. Its opposite angle is: A) 61°   B) 119°   C) 122°   D) 129°
+73. A cyclic quadrilateral has one angle 62°. Its opposite angle is: A) 62°   B) 124°   C) 118°   D) 128°
+74. A cyclic quadrilateral has one angle 63°. Its opposite angle is: A) 126°   B) 63°   C) 117°   D) 127°
+75. A cyclic quadrilateral has one angle 64°. Its opposite angle is: A) 64°   B) 116°   C) 126°   D) 128°
+76. A cyclic quadrilateral has one angle 65°. Its opposite angle is: A) 65°   B) 115°   C) 130°   D) 125°
+77. A cyclic quadrilateral has one angle 66°. Its opposite angle is: A) 66°   B) 114°   C) 124°   D) 134°
+78. A cyclic quadrilateral has one angle 67°. Its opposite angle is: A) 134°   B) 67°   C) 123°   D) 133°
+79. A cyclic quadrilateral has one angle 68°. Its opposite angle is: A) 68°   B) 112°   C) 128°   D) 136°
+80. A cyclic quadrilateral has one angle 69°. Its opposite angle is: A) 69°   B) 111°   C) 129°   D) 138°
 81. A line segment joining the centre to a point on the circle is a: A) chord   B) radius   C) tangent   D) diameter
 82. A chord passing through the centre is a: A) diameter   B) radius   C) tangent   D) arc
 83. The diameter is the longest: A) radius   B) tangent   C) arc   D) chord
@@ -106,7 +106,7 @@
 100. A cyclic quadrilateral has all four vertices on a: A) tangent   B) radius   C) circle   D) chord
 
 ### Answer Key
-1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
+1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 B · 91 C · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
 
 ### Review
 Score: ____ / 100
