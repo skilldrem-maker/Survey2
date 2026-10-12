@@ -75,16 +75,16 @@
 68. A sound of frequency 8000 Hz is: A) infrasound   B) ultrasound   C) inaudible to every animal   D) within the usual human hearing range
 69. A sound of frequency 12000 Hz is: A) infrasound   B) ultrasound   C) within the usual human hearing range   D) inaudible to every animal
 70. A sound of frequency 16000 Hz is: A) infrasound   B) within the usual human hearing range   C) ultrasound   D) inaudible to every animal
-71. A sound of frequency 50 Hz is: A) within the usual human hearing range   B) infrasound   C) ultrasound   D) inaudible to every animal
-72. A sound of frequency 100 Hz is: A) infrasound   B) ultrasound   C) inaudible to every animal   D) within the usual human hearing range
-73. A sound of frequency 250 Hz is: A) infrasound   B) ultrasound   C) within the usual human hearing range   D) inaudible to every animal
-74. A sound of frequency 500 Hz is: A) infrasound   B) within the usual human hearing range   C) ultrasound   D) inaudible to every animal
-75. A sound of frequency 1000 Hz is: A) within the usual human hearing range   B) infrasound   C) ultrasound   D) inaudible to every animal
-76. A sound of frequency 2000 Hz is: A) infrasound   B) ultrasound   C) inaudible to every animal   D) within the usual human hearing range
-77. A sound of frequency 4000 Hz is: A) infrasound   B) ultrasound   C) within the usual human hearing range   D) inaudible to every animal
-78. A sound of frequency 8000 Hz is: A) infrasound   B) within the usual human hearing range   C) ultrasound   D) inaudible to every animal
-79. A sound of frequency 12000 Hz is: A) within the usual human hearing range   B) infrasound   C) ultrasound   D) inaudible to every animal
-80. A sound of frequency 16000 Hz is: A) infrasound   B) ultrasound   C) inaudible to every animal   D) within the usual human hearing range
+71. Which factor determines the pitch of a sound? A) frequency   B) amplitude   C) speed   D) medium
+72. Which factor mainly determines the loudness of a sound? A) frequency   B) wavelength   C) speed   D) amplitude
+73. If frequency increases while amplitude stays constant, the sound becomes: A) louder   B) slower   C) higher-pitched   D) inaudible
+74. If amplitude increases while frequency stays constant, the sound generally becomes: A) higher-pitched   B) louder   C) lower-pitched   D) faster
+75. Sound travels fastest in: A) solids   B) gases   C) vacuum   D) empty space
+76. Sound travelling through air is mainly a sequence of: A) transverse crests   B) electromagnetic pulses   C) stationary particles   D) compressions and rarefactions
+77. The unit hertz measures: A) amplitude   B) wavelength   C) frequency   D) loudness
+78. A larger amplitude generally means a: A) lower frequency   B) louder sound   C) lower sound speed   D) longer wavelength
+79. A distinct echo is generally heard when reflected sound returns after at least about: A) 0.1 s   B) 1 ms   C) 1 μs   D) 10 s
+80. Sound needs what to travel from source to listener? A) a vacuum   B) light only   C) no medium   D) a material medium
 81. A source makes 100 vibrations each second. Its time period is: A) 100 s   B) 0.02 s   C) 0.01 s   D) 0.005 s
 82. A source makes 200 vibrations each second. Its time period is: A) 200 s   B) 0.005 s   C) 0.01 s   D) 0.0025 s
 83. A source makes 300 vibrations each second. Its time period is: A) 0.00333 s   B) 300 s   C) 0.00667 s   D) 0.00167 s
