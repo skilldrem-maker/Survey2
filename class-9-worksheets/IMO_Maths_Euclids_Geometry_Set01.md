@@ -66,14 +66,14 @@
 60. A conjecture is a statement that still needs to be: A) proved   B) accepted as an axiom   C) defined only   D) ignored
 61. If AB = 7 cm and BC = 7 cm, then AB and BC are: A) unequal in length   B) equal in length   C) parallel lines   D) different lengths
 62. If p = q and q = 12, then p is: A) 7   B) 0   C) 12   D) 24
-63. If m = n, then m + n equals: A) m   B) m − n   C) m + n only   D) 2m
+63. If m = n, then m + n equals: A) m   B) m − n   C) 0   D) 2m
 64. If a = b = c, then a and c are: A) equal   B) unequal   C) 12   D) a point
-65. If equal segments are each increased by 4 cm, the new segments are: A) equal in length   B) different lengths   C) 12   D) a point
+65. If equal segments are each increased by 4 cm, the new segments are: A) different lengths   B) equal in length   C) 12   D) a point
 66. If equal segments are each shortened by 2 cm, the new segments are: A) unequal in length   B) 12   C) equal in length   D) a point
 67. A geometric proof should be based on definitions, axioms, postulates and: A) measurements only   B) guessing   C) diagrams alone   D) previously proved theorems
 68. A statement accepted as a starting point is not normally proved within the system; it is an: A) axiom or postulate   B) theorem   C) conjecture   D) corollary
 69. An ideal straight line has no: A) length   B) thickness   C) direction   D) endpoints
-70. An ideal plane surface has no: A) length   B) volume   C) thickness   D) area
+70. An ideal plane surface has no: A) length   B) colour   C) thickness   D) area
 71. A line segment is part of a: A) circle   B) angle   C) plane only   D) line
 72. A line extends in: A) two directions   B) one direction only   C) a finite distance only   D) no direction
 73. A ray extends in: A) two directions   B) one direction   C) a finite segment only   D) no direction
@@ -82,7 +82,7 @@
 76. A triangle is formed by three line segments joining three: A) non-collinear points   B) collinear points   C) four points   D) parallel lines
 77. A circle consists of points at equal distance from a fixed: A) circumference   B) centre   C) radius   D) chord
 78. The fixed distance defining a circle is its: A) diameter   B) circumference   C) radius   D) chord
-79. An angle is formed by two rays with a common: A) midpoint   B) centre   C) midpoint of a segment   D) endpoint
+79. An angle is formed by two rays with a common: A) interior point   B) centre   C) midpoint of a segment   D) endpoint
 80. The common endpoint of two rays is called the: A) vertex   B) diameter   C) ray   D) circle
 81. The term 'collinear' means points lying on the same A) circle   B) straight line   C) plane only   D) angle
 82. The term 'coplanar' means points lying in the same A) straight line   B) circle   C) plane   D) ray
