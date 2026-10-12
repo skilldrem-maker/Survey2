@@ -7,8 +7,8 @@
 ### Questions
 1. Which cell structure controls cell activities and contains genetic material? A) mitochondrion   B) nucleus   C) cell membrane   D) ribosome
 2. Which cell structure releases energy during cellular respiration? A) mitochondrion   B) nucleus   C) cell membrane   D) ribosome
-3. Which cell structure protein synthesis? A) nucleus   B) mitochondrion   C) cell membrane   D) ribosome
-4. Which cell structure photosynthesis? A) nucleus   B) mitochondrion   C) chloroplast   D) cell membrane
+3. Which cell structure is responsible for protein synthesis? A) nucleus   B) mitochondrion   C) cell membrane   D) ribosome
+4. Which organelle carries out photosynthesis in plant cells? A) nucleus   B) mitochondrion   C) chloroplast   D) cell membrane
 5. Which cell structure selectively controls movement of substances? A) nucleus   B) cell membrane   C) mitochondrion   D) ribosome
 6. Which cell structure provides support and protection in plant cells? A) cell wall   B) nucleus   C) mitochondrion   D) cell membrane
 7. Which cell structure stores cell sap and helps maintain turgidity? A) nucleus   B) mitochondrion   C) cell membrane   D) vacuole
@@ -17,34 +17,34 @@
 10. Which cell structure contains digestive enzymes? A) lysosome   B) nucleus   C) mitochondrion   D) cell membrane
 11. Which cell structure site of many metabolic reactions? A) nucleus   B) mitochondrion   C) cell membrane   D) cytoplasm
 12. Which cell structure carries genes? A) nucleus   B) mitochondrion   C) chromosome   D) cell membrane
-13. Which cell structure forms the boundary of the cell? A) nucleus   B) plasma membrane   C) mitochondrion   D) cell membrane
+13. Which structure forms the selectively permeable boundary of every cell? A) nucleus   B) plasma membrane   C) mitochondrion   D) cytoplasm
 14. Which cell structure is prominent in a mature plant cell? A) large central vacuole   B) nucleus   C) mitochondrion   D) cell membrane
 15. Which cell structure is found in plant cells? A) nucleus   B) mitochondrion   C) cell membrane   D) plastid
 16. Which cell structure helps form ribosomes? A) nucleus   B) mitochondrion   C) nucleolus   D) cell membrane
-17. Which cell structure have their own genetic material? A) nucleus   B) mitochondria   C) mitochondrion   D) cell membrane
+17. Which organelles have their own genetic material in eukaryotic cells? A) nucleus   B) mitochondria   C) Golgi apparatus   D) cell membrane
 18. Which cell structure absorbs light for photosynthesis? A) chlorophyll   B) nucleus   C) mitochondrion   D) cell membrane
 19. Which cell structure includes cytoplasm and nucleus? A) nucleus   B) mitochondrion   C) cell membrane   D) protoplasm
 20. Which cell structure is the basic structural and functional unit of life? A) nucleus   B) mitochondrion   C) cell   D) cell membrane
-21. Which statement or structure is associated with plant cells? A) membrane-bound nucleus   B) cell wall   C) chloroplast   D) centrioles
-22. Which statement or structure is associated with animal cells? A) centrioles (typically)   B) cell wall   C) membrane-bound nucleus   D) chloroplast
-23. Which statement or structure is associated with both plant and animal cells? A) cell wall   B) membrane-bound nucleus   C) chloroplast   D) cell membrane
+21. Which structure is present in plant cells but absent in animal cells? A) mitochondrion   B) cell wall   C) ribosome   D) cell membrane
+22. Which structure is typically associated with animal cells but not plant cells? A) centrioles (typically)   B) cell wall   C) large central vacuole   D) chloroplast
+23. Which structure is found in both typical plant and animal cells? A) cell wall   B) chloroplast   C) large central vacuole   D) cell membrane
 24. Which statement or structure is associated with eukaryotic cells? A) cell wall   B) chloroplast   C) membrane-bound nucleus   D) centrioles
 25. Which statement or structure is associated with prokaryotic cells? A) cell wall   B) no membrane-bound nucleus   C) membrane-bound nucleus   D) chloroplast
 26. Which statement or structure is associated with red blood cells in mammals? A) lack a nucleus when mature   B) cell wall   C) membrane-bound nucleus   D) chloroplast
-27. Which statement or structure is associated with onion peel cells? A) cell wall   B) membrane-bound nucleus   C) chloroplast   D) have a cell wall
-28. Which statement or structure is associated with leaf mesophyll cells? A) cell wall   B) membrane-bound nucleus   C) often contain many chloroplasts   D) chloroplast
+27. Which structure is visible in onion peel cells? A) chloroplasts in every cell   B) membrane-bound nucleus   C) no plasma membrane   D) cell wall
+28. Which statement is characteristic of leaf mesophyll cells? A) have no cell wall   B) lack a nucleus   C) often contain many chloroplasts   D) lack chloroplasts
 29. Which statement or structure is associated with bacteria? A) cell wall   B) are prokaryotes   C) membrane-bound nucleus   D) chloroplast
-30. Which statement or structure is associated with amoeba? A) is a unicellular eukaryote   B) cell wall   C) membrane-bound nucleus   D) chloroplast
-31. Which statement or structure is associated with nerve cells? A) cell wall   B) membrane-bound nucleus   C) chloroplast   D) are specialised for transmitting impulses
-32. Which statement or structure is associated with muscle cells? A) cell wall   B) membrane-bound nucleus   C) are specialised for contraction   D) chloroplast
-33. Which statement or structure is associated with root hair cells? A) cell wall   B) increase surface area for absorption   C) membrane-bound nucleus   D) chloroplast
-34. Which statement or structure is associated with guard cells? A) control opening and closing of stomata   B) cell wall   C) membrane-bound nucleus   D) chloroplast
-35. Which statement or structure is associated with sperm cells? A) cell wall   B) membrane-bound nucleus   C) chloroplast   D) are adapted for movement
-36. Which statement or structure is associated with xylem vessels? A) cell wall   B) membrane-bound nucleus   C) transport water in plants   D) chloroplast
-37. Which statement or structure is associated with phloem cells? A) cell wall   B) transport food in plants   C) membrane-bound nucleus   D) chloroplast
+30. Which statement best describes Amoeba? A) It is a unicellular eukaryote   B) It is a multicellular prokaryote   C) It has a rigid cell wall   D) It has no nucleus
+31. Which statement best describes nerve cells? A) They have a cell wall   B) They contain chloroplasts   C) They lack a plasma membrane   D) They are specialised for transmitting impulses
+32. Which statement best describes muscle cells? A) They have a cell wall   B) They contain chloroplasts   C) They are specialised for contraction   D) They lack a plasma membrane
+33. Which adaptation helps root hair cells absorb water and minerals? A) chloroplasts for photosynthesis   B) increased surface area   C) absence of a cell membrane   D) thick waxy covering
+34. What is the main function of guard cells? A) control opening and closing of stomata   B) transport water through xylem   C) make proteins   D) digest worn-out organelles
+35. Which feature helps sperm cells reach the egg? A) cell wall   B) chloroplast   C) large central vacuole   D) adaptation for movement
+36. What is the main function of xylem vessels? A) transport sugars from leaves   B) carry nerve impulses   C) transport water and minerals in plants   D) make proteins
+37. What is the main function of phloem tissue? A) transport water only   B) transport sugars and other organic nutrients   C) absorb minerals from soil directly   D) carry nerve impulses
 38. Which statement or structure is associated with a unicellular organism? A) performs all life processes in one cell   B) cell wall   C) membrane-bound nucleus   D) chloroplast
-39. Which statement or structure is associated with a multicellular organism? A) cell wall   B) membrane-bound nucleus   C) chloroplast   D) has specialised cells
-40. Which statement or structure is associated with cell differentiation? A) cell wall   B) membrane-bound nucleus   C) produces cells with specialised structures and functions   D) chloroplast
+39. Which feature is typical of a multicellular organism? A) one cell performs every life process   B) no cells specialise   C) all cells are identical in function   D) it has specialised cells
+40. Cell differentiation is the process by which cells: A) all become identical   B) lose all genetic material   C) develop specialised structures and functions   D) stop carrying out life processes
 41. The movement of water through a selectively permeable membrane is? A) diffusion   B) osmosis   C) cell wall   D) nucleus
 42. The movement of particles from higher to lower concentration is? A) diffusion   B) osmosis   C) cell wall   D) nucleus
 43. A plant cell placed in a hypotonic solution generally becomes? A) osmosis   B) diffusion   C) cell wall   D) turgid
