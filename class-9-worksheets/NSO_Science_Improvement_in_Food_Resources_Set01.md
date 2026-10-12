@@ -27,7 +27,7 @@
 21. Manure adds organic matter and nutrients to: A) nutrient leaching   B) soil   C) reduced fertility   D) low yield
 22. Compost is made by decomposing: A) low organic matter   B) compaction   C) organic waste   D) soil erosion
 23. Fertilizers supply nutrients in: A) poor soil structure   B) leaf yellowing   C) nutrient leaching   D) concentrated forms
-24. Excessive fertilizer use may cause: A) water pollution   B) contamination   C) poor germination   D) low organic matter
+24. Excessive fertilizer use may cause: A) water pollution   B) improved soil texture   C) poor germination   D) low organic matter
 25. Nitrogen is needed for healthy: A) weak growth   B) leaf and stem growth   C) soil salinity   D) poor soil structure
 26. Phosphorus supports root development and: A) acidic soil   B) nutrient deficiency   C) energy transfer   D) contamination
 27. Potassium helps plants regulate water and: A) waterlogging   B) drought stress   C) weak growth   D) resist stress
@@ -84,9 +84,9 @@
 78. Fodder crops are grown to feed: A) weed control   B) seed germination   C) livestock   D) harvesting
 79. Animal breeding should consider health and: A) grain drying   B) photosynthesis   C) pruning   D) productivity
 80. Regular veterinary care helps maintain animal: A) health   B) crop rotation   C) mulching   D) weed control
-81. Grains should be dried before storage to reduce: A) insect infestation   B) moisture   C) premature sprouting   D) broken grains
+81. Why are grains dried before storage? A) to increase grain size   B) to reduce moisture   C) to add nutrients   D) to change grain colour
 82. High moisture in stored grains encourages mould and: A) grain losses   B) unsafe storage   C) pests   D) high moisture
-83. Airtight storage can reduce access of insects and: A) pest entry   B) poor hygiene   C) insect infestation   D) moisture
+83. Airtight storage can reduce insect access and help limit: A) sunlight exposure   B) nutrient deficiency   C) crop disease   D) moisture entry
 84. Rodents can damage stored grain and spread: A) contamination   B) fungal growth   C) exposure to rain   D) grain losses
 85. Pesticides should be used according to: A) water leakage   B) label directions   C) rodent damage   D) pest entry
 86. Biological control uses natural enemies of: A) damp containers   B) contamination   C) pests   D) fungal growth
