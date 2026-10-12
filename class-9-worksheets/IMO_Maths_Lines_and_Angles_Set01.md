@@ -59,7 +59,7 @@
 53. Two angles form a linear pair. If one is 42°, the other is: A) 42°   B) 148°   C) 138°   D) 132°
 54. Two angles form a linear pair. If one is 43°, the other is: A) 43°   B) 137°   C) 147°   D) 133°
 55. Two angles form a linear pair. If one is 44°, the other is: A) 136°   B) 44°   C) 146°   D) 134°
-56. Two angles form a linear pair. If one is 45°, the other is: A) 45°   B) 145°   C) 135°   D) 135°
+56. Two angles form a linear pair. If one is 45°, the other is: A) 45°   B) 145°   C) 135°   D) 155°
 57. Two angles form a linear pair. If one is 46°, the other is: A) 46°   B) 144°   C) 134°   D) 136°
 58. Two angles form a linear pair. If one is 47°, the other is: A) 47°   B) 133°   C) 143°   D) 137°
 59. Two angles form a linear pair. If one is 48°, the other is: A) 132°   B) 48°   C) 142°   D) 138°
