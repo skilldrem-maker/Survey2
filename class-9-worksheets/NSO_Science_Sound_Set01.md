@@ -91,20 +91,20 @@
 84. A source makes 400 vibrations each second. Its time period is: A) 400 s   B) 0.005 s   C) 0.00125 s   D) 0.0025 s
 85. A source makes 500 vibrations each second. Its time period is: A) 500 s   B) 0.004 s   C) 0.002 s   D) 0.001 s
 86. A source makes 600 vibrations each second. Its time period is: A) 600 s   B) 0.00167 s   C) 0.00333 s   D) 0.00083 s
-87. A source makes 100 vibrations each second. Its time period is: A) 0.01 s   B) 100 s   C) 0.02 s   D) 0.005 s
-88. A source makes 200 vibrations each second. Its time period is: A) 200 s   B) 0.01 s   C) 0.0025 s   D) 0.005 s
-89. A source makes 300 vibrations each second. Its time period is: A) 300 s   B) 0.00667 s   C) 0.00333 s   D) 0.00167 s
-90. A source makes 400 vibrations each second. Its time period is: A) 400 s   B) 0.0025 s   C) 0.005 s   D) 0.00125 s
-91. A source makes 500 vibrations each second. Its time period is: A) 0.002 s   B) 500 s   C) 0.004 s   D) 0.001 s
-92. A source makes 600 vibrations each second. Its time period is: A) 600 s   B) 0.00333 s   C) 0.00083 s   D) 0.00167 s
-93. A source makes 100 vibrations each second. Its time period is: A) 100 s   B) 0.02 s   C) 0.01 s   D) 0.005 s
-94. A source makes 200 vibrations each second. Its time period is: A) 200 s   B) 0.005 s   C) 0.01 s   D) 0.0025 s
-95. A source makes 300 vibrations each second. Its time period is: A) 0.00333 s   B) 300 s   C) 0.00667 s   D) 0.00167 s
-96. A source makes 400 vibrations each second. Its time period is: A) 400 s   B) 0.005 s   C) 0.00125 s   D) 0.0025 s
-97. A source makes 500 vibrations each second. Its time period is: A) 500 s   B) 0.004 s   C) 0.002 s   D) 0.001 s
-98. A source makes 600 vibrations each second. Its time period is: A) 600 s   B) 0.00167 s   C) 0.00333 s   D) 0.00083 s
-99. A source makes 100 vibrations each second. Its time period is: A) 0.01 s   B) 100 s   C) 0.02 s   D) 0.005 s
-100. A source makes 200 vibrations each second. Its time period is: A) 200 s   B) 0.01 s   C) 0.0025 s   D) 0.005 s
+87. A source makes 700 vibrations each second. Its time period is: A) 0.00143 s   B) 700 s   C) 0.0143 s   D) 0.0007 s
+88. A source makes 800 vibrations each second. Its time period is: A) 0.008 s   B) 0.0008 s   C) 0.0125 s   D) 0.00125 s
+89. A source makes 900 vibrations each second. Its time period is: A) 0.009 s   B) 0.0009 s   C) 0.00111 s   D) 0.0111 s
+90. A source makes 1000 vibrations each second. Its time period is: A) 0.01 s   B) 0.001 s   C) 0.1 s   D) 0.0001 s
+91. A source makes 1200 vibrations each second. Its time period is: A) 0.000833 s   B) 0.0012 s   C) 0.00833 s   D) 0.0833 s
+92. A source makes 1250 vibrations each second. Its time period is: A) 0.00125 s   B) 0.008 s   C) 0.000125 s   D) 0.0008 s
+93. A source makes 1500 vibrations each second. Its time period is: A) 0.0015 s   B) 0.00667 s   C) 0.000667 s   D) 0.0667 s
+94. A source makes 2000 vibrations each second. Its time period is: A) 0.002 s   B) 0.0005 s   C) 0.005 s   D) 0.0002 s
+95. A source makes 2500 vibrations each second. Its time period is: A) 0.0004 s   B) 0.004 s   C) 0.00025 s   D) 0.04 s
+96. A source makes 4000 vibrations each second. Its time period is: A) 0.004 s   B) 0.0025 s   C) 0.0004 s   D) 0.00025 s
+97. A source makes 5000 vibrations each second. Its time period is: A) 0.005 s   B) 0.002 s   C) 0.0002 s   D) 0.00002 s
+98. A source makes 10000 vibrations each second. Its time period is: A) 0.001 s   B) 0.0001 s   C) 0.00001 s   D) 0.01 s
+99. A source makes 250 vibrations each second. Its time period is: A) 0.004 s   B) 0.00025 s   C) 0.04 s   D) 0.0025 s
+100. A source makes 125 vibrations each second. Its time period is: A) 0.00125 s   B) 0.0125 s   C) 0.0008 s   D) 0.008 s
 
 ### Answer Key
 1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D · 81 C · 82 B · 83 A · 84 D · 85 C · 86 B · 87 A · 88 D · 89 C · 90 B · 91 A · 92 D · 93 C · 94 B · 95 A · 96 D · 97 C · 98 B · 99 A · 100 D
