@@ -6,24 +6,24 @@
 ### Questions
 1. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/2   C) 1/3   D) 1/4
 2. Two fair coins are tossed. Probability of two heads is: A) 1/4   B) 0   C) 1/2   D) 1/3
-3. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/3   C) 1/4   D) 1/2
-4. Two fair coins are tossed. Probability of two heads is: A) 0   B) 1/2   C) 1/4   D) 1/3
-5. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/2   C) 1/3   D) 1/4
-6. Two fair coins are tossed. Probability of two heads is: A) 1/4   B) 0   C) 1/2   D) 1/3
-7. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/3   C) 1/4   D) 1/2
-8. Two fair coins are tossed. Probability of two heads is: A) 0   B) 1/2   C) 1/4   D) 1/3
-9. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/2   C) 1/3   D) 1/4
-10. Two fair coins are tossed. Probability of two heads is: A) 1/4   B) 0   C) 1/2   D) 1/3
-11. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/3   C) 1/4   D) 1/2
-12. Two fair coins are tossed. Probability of two heads is: A) 0   B) 1/2   C) 1/4   D) 1/3
-13. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/2   C) 1/3   D) 1/4
-14. Two fair coins are tossed. Probability of two heads is: A) 1/4   B) 0   C) 1/2   D) 1/3
-15. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/3   C) 1/4   D) 1/2
-16. Two fair coins are tossed. Probability of two heads is: A) 0   B) 1/2   C) 1/4   D) 1/3
-17. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/2   C) 1/3   D) 1/4
-18. Two fair coins are tossed. Probability of two heads is: A) 1/4   B) 0   C) 1/2   D) 1/3
-19. A fair coin is tossed once. Probability of heads is: A) 0   B) 1/3   C) 1/4   D) 1/2
-20. Two fair coins are tossed. Probability of two heads is: A) 0   B) 1/2   C) 1/4   D) 1/3
+3. A fair six-sided die is rolled. Probability of an odd number is: A) 1/3   B) 2/3   C) 1/6   D) 1/2
+4. One card is drawn from a standard 52-card deck. Probability of drawing an ace is: A) 1/4   B) 1/52   C) 1/13   D) 4/13
+5. A fair die is rolled. Probability of getting a number greater than 4 is: A) 1/2   B) 1/3   C) 2/3   D) 1/6
+6. Two fair coins are tossed. Probability of exactly one head is: A) 1/2   B) 1/4   C) 3/4   D) 1
+7. A fair die is rolled. Probability of getting a prime number is: A) 1/3   B) 2/3   C) 1/6   D) 1/2
+8. A bag contains 3 green balls and 1 yellow ball. Probability of drawing a yellow ball is: A) 3/4   B) 1/2   C) 1/4   D) 1
+9. A bag contains 5 red balls and 3 blue balls. Probability of drawing a red ball is: A) 3/8   B) 5/8   C) 1/2   D) 5/3
+10. A fair die is rolled. Probability of getting a number less than 3 is: A) 1/3   B) 1/2   C) 2/3   D) 1/6
+11. Two fair coins are tossed. Probability of getting at least one head is: A) 1/4   B) 1/2   C) 1/3   D) 3/4
+12. A fair die is rolled. Probability of getting a multiple of 2 or 3 is: A) 1/3   B) 1/2   C) 2/3   D) 1/6
+13. One card is drawn from a standard 52-card deck. Probability of drawing a face card (J, Q or K) is: A) 1/4   B) 3/13   C) 1/13   D) 12/13
+14. A bag contains 2 red balls and 6 blue balls. Probability of drawing a red ball is: A) 1/4   B) 1/2   C) 3/4   D) 1/8
+15. A fair spinner has 8 equal sections, 3 of them blue. Probability of landing on blue is: A) 5/8   B) 1/8   C) 1/2   D) 3/8
+16. A fair die is rolled. Probability of not getting a 6 is: A) 1/6   B) 1/3   C) 5/6   D) 1/2
+17. Two fair coins are tossed. Probability of getting no heads is: A) 1/2   B) 1/4   C) 3/4   D) 1
+18. A fair die is rolled. Probability of getting a number greater than 2 is: A) 2/3   B) 1/2   C) 1/3   D) 1/6
+19. A bag contains 4 white balls and 1 black ball. Probability of drawing a black ball is: A) 4/5   B) 1/2   C) 1/4   D) 1/5
+20. Cards numbered 1 to 10 are mixed. Probability of selecting a multiple of 3 is: A) 1/10   B) 1/2   C) 3/10   D) 7/10
 21. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
 22. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
 23. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
@@ -44,11 +44,11 @@
 38. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/2   B) 1/6   C) 1/3   D) 2/3
 39. A fair six-sided die is rolled. Probability of getting a number divisible by 3 is: A) 1/6   B) 1/2   C) 2/3   D) 1/3
 40. A fair six-sided die is rolled. Probability of getting an even number is: A) 1/6   B) 1/3   C) 1/2   D) 2/3
-41. A bag has 1 red and 1 blue balls. One ball is drawn at random. Probability of red is: A) 1/6   B) 1/2   C) None of these   D) None of these
+41. A bag has 1 red and 1 blue ball. One ball is drawn at random. Probability of red is: A) 1/6   B) 1/2   C) 1/3   D) 3/4
 42. A bag has 2 red and 2 blue balls. One ball is drawn at random. Probability of red is: A) 2/4   B) 2/6   C) 1/4   D) None of these
-43. A bag has 3 red and 3 blue balls. One ball is drawn at random. Probability of red is: A) 1/6   B) None of these   C) None of these   D) 3/6
+43. A bag has 3 red and 3 blue balls. One ball is drawn at random. Probability of red is: A) 1/6   B) 1/3   C) 2/3   D) 3/6
 44. A bag has 4 red and 4 blue balls. One ball is drawn at random. Probability of red is: A) 4/6   B) 1/8   C) 4/8   D) None of these
-45. A bag has 5 red and 1 blue balls. One ball is drawn at random. Probability of red is: A) 1/6   B) 5/6   C) None of these   D) None of these
+45. A bag has 5 red and 1 blue ball. One ball is drawn at random. Probability of red is: A) 1/6   B) 5/6   C) 1/3   D) 4/6
 46. A bag has 1 red and 2 blue balls. One ball is drawn at random. Probability of red is: A) 1/3   B) 2/3   C) 1/6   D) None of these
 47. A bag has 2 red and 3 blue balls. One ball is drawn at random. Probability of red is: A) 3/5   B) 2/6   C) 1/5   D) 2/5
 48. A bag has 3 red and 4 blue balls. One ball is drawn at random. Probability of red is: A) 4/7   B) 3/6   C) 3/7   D) 1/7
@@ -67,14 +67,14 @@
 61. An event has 1 favourable outcomes out of 5 equally likely outcomes. Probability of its complement is: A) 4/5   B) 1/5   C) 5/1   D) 1/5
 62. An event has 2 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 2/6   B) 6/2   C) 1/6   D) 4/6
 63. An event has 3 favourable outcomes out of 7 equally likely outcomes. Probability of its complement is: A) 3/7   B) 7/3   C) 4/7   D) 1/7
-64. An event has 4 favourable outcomes out of 8 equally likely outcomes. Probability of its complement is: A) 8/4   B) 4/8   C) 1/8
+64. An event has 4 favourable outcomes out of 8 equally likely outcomes. Probability of its complement is: A) 8/4   B) 4/8   C) 1/8   D) 3/8
 65. An event has 1 favourable outcomes out of 9 equally likely outcomes. Probability of its complement is: A) 8/9   B) 1/9   C) 9/1   D) 1/9
 66. An event has 2 favourable outcomes out of 10 equally likely outcomes. Probability of its complement is: A) 2/10   B) 10/2   C) 1/10   D) 8/10
 67. An event has 3 favourable outcomes out of 11 equally likely outcomes. Probability of its complement is: A) 3/11   B) 11/3   C) 8/11   D) 1/11
 68. An event has 4 favourable outcomes out of 12 equally likely outcomes. Probability of its complement is: A) 4/12   B) 8/12   C) 12/4   D) 1/12
 69. An event has 1 favourable outcomes out of 13 equally likely outcomes. Probability of its complement is: A) 12/13   B) 1/13   C) 13/1   D) 1/13
 70. An event has 2 favourable outcomes out of 5 equally likely outcomes. Probability of its complement is: A) 2/5   B) 5/2   C) 1/5   D) 3/5
-71. An event has 3 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 6/3   B) 1/6   C) 3/6
+71. An event has 3 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 6/3   B) 1/6   C) 3/6   D) 2/6
 72. An event has 4 favourable outcomes out of 7 equally likely outcomes. Probability of its complement is: A) 4/7   B) 3/7   C) 7/4   D) 1/7
 73. An event has 1 favourable outcomes out of 8 equally likely outcomes. Probability of its complement is: A) 7/8   B) 1/8   C) 8/1   D) 1/8
 74. An event has 2 favourable outcomes out of 9 equally likely outcomes. Probability of its complement is: A) 2/9   B) 9/2   C) 1/9   D) 7/9
