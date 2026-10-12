@@ -45,7 +45,7 @@
 39. A fern has vascular tissue but no A) seeds   B) spores   C) flowers   D) Bryophyta
 40. A moss is a non-vascular plant in A) cones   B) Bryophyta   C) Gymnosperms   D) dicot
 41. Fish breathe mainly through A) Amphibia   B) Mammalia   C) gills   D) Reptilia
-42. Amphibians typically have moist skin and often live A) Pisces   B) Amphibia   C) Pisces   D) on land and in water
+42. Amphibians typically have moist skin and often live A) Pisces   B) Amphibia   C) Reptilia   D) on land and in water
 43. Reptiles generally have dry skin covered with A) scales   B) Reptilia   C) Aves   D) Mammalia
 44. Birds have bodies covered with A) Mammalia   B) feathers   C) Insecta   D) Amphibia
 45. Mammals feed young with A) Aves   B) Pisces   C) milk   D) Annelida
