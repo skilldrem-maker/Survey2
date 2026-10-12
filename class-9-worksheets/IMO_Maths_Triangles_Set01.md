@@ -71,19 +71,19 @@
 65. An isosceles triangle has two equal sides. If one base angle is 35°, the other base angle is: A) 110°   B) 35°   C) 55°   D) 45°
 66. An isosceles triangle has two equal sides. If one base angle is 40°, the other base angle is: A) 100°   B) 50°   C) 40°   D) None of these
 67. An isosceles triangle has two equal sides. If one base angle is 45°, the other base angle is: A) 90°   B) 55°   C) None of these   D) 45°
-68. An isosceles triangle has two equal sides. If one base angle is 15°, the other base angle is: A) 15°   B) 150°   C) 75°   D) 25°
-69. An isosceles triangle has two equal sides. If one base angle is 20°, the other base angle is: A) 140°   B) 20°   C) 70°   D) 30°
-70. An isosceles triangle has two equal sides. If one base angle is 25°, the other base angle is: A) 130°   B) 65°   C) 25°   D) 35°
-71. An isosceles triangle has two equal sides. If one base angle is 30°, the other base angle is: A) 120°   B) 60°   C) 40°   D) 30°
-72. An isosceles triangle has two equal sides. If one base angle is 35°, the other base angle is: A) 35°   B) 110°   C) 55°   D) 45°
-73. An isosceles triangle has two equal sides. If one base angle is 40°, the other base angle is: A) 100°   B) 40°   C) 50°   D) None of these
-74. An isosceles triangle has two equal sides. If one base angle is 45°, the other base angle is: A) 90°   B) 55°   C) 45°   D) None of these
-75. An isosceles triangle has two equal sides. If one base angle is 15°, the other base angle is: A) 150°   B) 75°   C) 25°   D) 15°
-76. An isosceles triangle has two equal sides. If one base angle is 20°, the other base angle is: A) 20°   B) 140°   C) 70°   D) 30°
-77. An isosceles triangle has two equal sides. If one base angle is 25°, the other base angle is: A) 130°   B) 25°   C) 65°   D) 35°
-78. An isosceles triangle has two equal sides. If one base angle is 30°, the other base angle is: A) 120°   B) 60°   C) 30°   D) 40°
-79. An isosceles triangle has two equal sides. If one base angle is 35°, the other base angle is: A) 110°   B) 55°   C) 45°   D) 35°
-80. An isosceles triangle has two equal sides. If one base angle is 40°, the other base angle is: A) 40°   B) 100°   C) 50°   D) None of these
+68. An isosceles triangle has two equal sides. If one base angle is 50°, the other base angle is: A) 50°   B) 60°   C) 40°   D) 130°
+69. An isosceles triangle has two equal sides. If one base angle is 55°, the other base angle is: A) 65°   B) 55°   C) 45°   D) 125°
+70. An isosceles triangle has two equal sides. If one base angle is 60°, the other base angle is: A) 70°   B) 50°   C) 60°   D) 120°
+71. An isosceles triangle has two equal sides. If one base angle is 65°, the other base angle is: A) 75°   B) 55°   C) 115°   D) 65°
+72. An isosceles triangle has two equal sides. If one base angle is 70°, the other base angle is: A) 70°   B) 80°   C) 60°   D) 110°
+73. An isosceles triangle has two equal sides. If one base angle is 75°, the other base angle is: A) 85°   B) 75°   C) 65°   D) 105°
+74. An isosceles triangle has two equal sides. If one base angle is 80°, the other base angle is: A) 90°   B) 70°   C) 80°   D) 100°
+75. An isosceles triangle has two equal sides. If one base angle is 52°, the other base angle is: A) 62°   B) 42°   C) 128°   D) 52°
+76. An isosceles triangle has two equal sides. If one base angle is 57°, the other base angle is: A) 57°   B) 67°   C) 47°   D) 123°
+77. An isosceles triangle has two equal sides. If one base angle is 62°, the other base angle is: A) 72°   B) 62°   C) 52°   D) 118°
+78. An isosceles triangle has two equal sides. If one base angle is 67°, the other base angle is: A) 77°   B) 57°   C) 67°   D) 113°
+79. An isosceles triangle has two equal sides. If one base angle is 72°, the other base angle is: A) 82°   B) 62°   C) 108°   D) 72°
+80. An isosceles triangle has two equal sides. If one base angle is 77°, the other base angle is: A) 77°   B) 87°   C) 67°   D) 103°
 81. The sum of the interior angles of a triangle is A) 90 degrees   B) 180 degrees   C) 270 degrees   D) 360 degrees
 82. An exterior angle of a triangle is equal to A) the sum of two opposite interior angles   B) the adjacent interior angle   C) half the triangle's angle sum   D) 360 degrees
 83. The side opposite the largest angle is A) the shortest side   B) always equal to another side   C) the hypotenuse   D) the longest side
