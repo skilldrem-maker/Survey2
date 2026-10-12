@@ -34,7 +34,7 @@
 28. Find the median of 1, 7, 7, 8, 12. A) 7   B) 8   C) 1   D) None of these
 29. Find the median of 2, 3, 6, 9, 12. A) 3   B) 6   C) 9   D) 2
 30. Find the median of 2, 3, 6, 6, 10. A) 3   B) 2   C) 6   D) None of these
-31. Find the median of 4, 4, 4, 9, 11. A) 9   B) None of these   C) None of these   D) 4
+31. Find the median of 4, 4, 4, 9, 11. A) 9   B) 10   C) 11   D) 4
 32. Find the median of 4, 5, 5, 6, 8. A) 5   B) 6   C) 4   D) None of these
 33. Find the median of 6, 7, 8, 10, 12. A) 7   B) 8   C) 10   D) 6
 34. Find the median of 6, 7, 10, 10, 15. A) 7   B) 6   C) 10   D) None of these
@@ -53,17 +53,17 @@
 47. Find the mode of 7, 9, 7, 1, 7, 9. A) 9   B) 1   C) 6   D) 7
 48. Find the mode of 8, 0, 8, 2, 8, 0. A) 8   B) 0   C) 2   D) 6
 49. Find the mode of 9, 1, 9, 3, 9, 1. A) 1   B) 9   C) 3   D) 6
-50. Find the mode of 1, 3, 1, 5, 1, 3. A) 3   B) 5   C) 1   D) 6
-51. Find the mode of 2, 4, 2, 6, 2, 4. A) 4   B) 6   C) None of these   D) 2
-52. Find the mode of 3, 5, 3, 7, 3, 5. A) 3   B) 5   C) 7   D) 6
-53. Find the mode of 4, 6, 4, 8, 4, 6. A) 6   B) 4   C) 8   D) None of these
-54. Find the mode of 5, 7, 5, 9, 5, 7. A) 7   B) 9   C) 5   D) 6
-55. Find the mode of 6, 8, 6, 0, 6, 8. A) 8   B) 0   C) None of these   D) 6
-56. Find the mode of 7, 9, 7, 1, 7, 9. A) 7   B) 9   C) 1   D) 6
-57. Find the mode of 8, 0, 8, 2, 8, 0. A) 0   B) 8   C) 2   D) 6
-58. Find the mode of 9, 1, 9, 3, 9, 1. A) 1   B) 3   C) 9   D) 6
-59. Find the mode of 1, 3, 1, 5, 1, 3. A) 3   B) 5   C) 6   D) 1
-60. Find the mode of 2, 4, 2, 6, 2, 4. A) 2   B) 4   C) 6   D) None of these
+50. Find the mode of 2, 4, 2, 6, 2, 4. A) 4   B) 6   C) 2   D) 8
+51. Find the mode of 3, 5, 3, 7, 3, 5. A) 5   B) 7   C) 6   D) 3
+52. Find the mode of 4, 6, 4, 8, 4, 6. A) 4   B) 6   C) 8   D) None of these
+53. Find the mode of 5, 7, 5, 9, 5, 7. A) 7   B) 5   C) 9   D) 6
+54. Find the mode of 6, 8, 6, 0, 6, 8. A) 8   B) 0   C) 6   D) None of these
+55. Find the mode of 7, 9, 7, 1, 7, 9. A) 9   B) 1   C) 6   D) 7
+56. Find the mode of 8, 0, 8, 2, 8, 0. A) 8   B) 0   C) 2   D) 6
+57. Find the mode of 9, 1, 9, 3, 9, 1. A) 1   B) 9   C) 3   D) 6
+58. Find the mode of 2, 5, 2, 7, 2, 5. A) 5   B) 7   C) 2   D) None of these
+59. Find the mode of 3, 6, 3, 8, 3, 6. A) 6   B) 8   C) 5   D) 3
+60. Find the mode of 4, 7, 4, 9, 4, 7. A) 4   B) 7   C) 9   D) None of these
 61. Find the range of 1, 4, 2, 4. A) 4   B) 3   C) 2   D) None of these
 62. Find the range of 2, 5, 3, 5. A) 4   B) 2   C) 3   D) 5
 63. Find the range of 3, 6, 4, 6. A) 4   B) 2   C) 6   D) 3
