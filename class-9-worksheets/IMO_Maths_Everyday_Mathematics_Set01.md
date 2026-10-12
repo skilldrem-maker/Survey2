@@ -93,17 +93,17 @@
 87. 35 minutes equals: A) 0.5833 hours   B) 0.35 hours   C) 0.7 hours   D) 3.5 hours
 88. 40 minutes equals: A) 0.4 hours   B) 0.5 hours   C) 0.75 hours   D) 0.6667 hours
 89. 45 minutes equals: A) 0.45 hours   B) 0.5 hours   C) 0.75 hours   D) 0.9 hours
-90. 5 minutes equals: A) 0.05 hours   B) 0.0833 hours   C) 0.3 hours   D) 0.5 hours
-91. 10 minutes equals: A) 0.1667 hours   B) 0.1 hours   C) 0.5 hours   D) 1 hour
-92. 15 minutes equals: A) 0.15 hours   B) 0.5 hours   C) 0.3 hours   D) 0.25 hours
-93. 20 minutes equals: A) 0.2 hours   B) 0.4 hours   C) 0.3333 hours   D) 0.5 hours
-94. 25 minutes equals: A) 0.25 hours   B) 0.4167 hours   C) 0.5 hours   D) 0.75 hours
-95. 30 minutes equals: A) 0.5 hours   B) 0.3 hours   C) 0.05 hours   D) 0.75 hours
-96. 35 minutes equals: A) 0.35 hours   B) 0.5 hours   C) 0.7 hours   D) 0.5833 hours
-97. 40 minutes equals: A) 0.4 hours   B) 0.5 hours   C) 0.6667 hours   D) 0.75 hours
-98. 45 minutes equals: A) 0.45 hours   B) 0.75 hours   C) 0.5 hours   D) 0.9 hours
-99. 5 minutes equals: A) 0.0833 hours   B) 0.05 hours   C) 0.3 hours   D) 0.5 hours
-100. 10 minutes equals: A) 0.1 hours   B) 0.5 hours   C) 1 hour   D) 0.1667 hours
+90. 50 seconds equals: A) 0.1 hours   B) 0.0139 hours   C) 0.05 hours   D) 0.2 hours
+91. 20 seconds equals: A) 0.0056 hours   B) 0.02 hours   C) 0.2 hours   D) 0.5 hours
+92. 40 seconds equals: A) 0.4 hours   B) 0.04 hours   C) 0.1 hours   D) 0.0111 hours
+93. 90 seconds equals: A) 0.09 hours   B) 0.9 hours   C) 0.025 hours   D) 0.25 hours
+94. 75 seconds equals: A) 0.075 hours   B) 0.0208 hours   C) 0.75 hours   D) 0.2083 hours
+95. 100 seconds equals: A) 0.0278 hours   B) 0.1 hours   C) 0.01 hours   D) 0.5 hours
+96. 120 seconds equals: A) 0.12 hours   B) 0.2 hours   C) 0.02 hours   D) 0.0333 hours
+97. 150 seconds equals: A) 0.15 hours   B) 0.25 hours   C) 0.0417 hours   D) 0.5 hours
+98. 180 seconds equals: A) 0.18 hours   B) 0.05 hours   C) 0.5 hours   D) 0.03 hours
+99. 2 minutes equals: A) 0.0333 hours   B) 0.2 hours   C) 0.02 hours   D) 0.5 hours
+100. 240 seconds equals: A) 0.24 hours   B) 0.4 hours   C) 0.0067 hours   D) 0.0667 hours
 
 ### Answer Key
 1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D · 81 C · 82 B · 83 A · 84 D · 85 C · 86 B · 87 A · 88 D · 89 C · 90 B · 91 A · 92 D · 93 C · 94 B · 95 A · 96 D · 97 C · 98 B · 99 A · 100 D
