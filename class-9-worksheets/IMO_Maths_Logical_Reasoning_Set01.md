@@ -88,22 +88,22 @@
 82. A person faces east and turns left. Which direction now? A) north   B) south   C) east   D) west
 83. A person faces south and turns right. Which direction now? A) north   B) south   C) east   D) west
 84. A person faces west and turns left. Which direction now? A) north   B) east   C) south   D) west
-85. A person walks 3 m east and then 3 m west. How far from the start? A) north   B) 0 m   C) south   D) east
-86. A person walks 5 m north then 5 m south. Net displacement is A) 0 m   B) north   C) south   D) east
-87. A person faces north and turns around. They face A) north   B) east   C) west   D) south
-88. A person faces west and turns right. They face A) south   B) east   C) north   D) west
-89. A person faces south and turns left. They face A) north   B) east   C) south   D) west
-90. A person faces east and turns around. They face A) west   B) north   C) south   D) east
-91. If today is Monday, two days later is A) north   B) south   C) east   D) Wednesday
-92. If today is Friday, three days later is A) north   B) south   C) Monday   D) east
-93. Which is the odd one out: apple, mango, carrot, banana? A) north   B) carrot   C) south   D) east
-94. Which is the odd one out: square, triangle, circle, cube? A) cube   B) north   C) south   D) east
-95. Which is the odd one out: 2, 3, 5, 9? A) north   B) south   C) east   D) 9
-96. Which is the odd one out: January, March, Sunday, July? A) north   B) south   C) Sunday   D) east
-97. A is taller than B and B taller than C. Who is shortest? A) north   B) C   C) south   D) east
-98. Ravi is older than Meena; Meena is older than Kiran. Who is oldest? A) Ravi   B) north   C) south   D) east
-99. If all roses are flowers, which must be true? A) north   B) south   C) east   D) Every rose is a flower
-100. A dozen means A) north   B) south   C) 12   D) east
+85. A person walks 3 m east and then 3 m west. How far from the start? A) 3 m   B) 0 m   C) 6 m   D) 1 m
+86. A person walks 5 m north then 5 m south. Net displacement is: A) 0 m   B) 5 m north   C) 10 m   D) 5 m south
+87. A person faces north and turns around. They face: A) north   B) east   C) west   D) south
+88. A person faces west and turns right. They face: A) south   B) east   C) north   D) west
+89. A person faces south and turns left. They face: A) north   B) east   C) south   D) west
+90. A person faces east and turns around. They face: A) west   B) north   C) south   D) east
+91. If today is Monday, two days later is: A) Tuesday   B) Thursday   C) Friday   D) Wednesday
+92. If today is Friday, three days later is: A) Sunday   B) Tuesday   C) Monday   D) Saturday
+93. Which is the odd one out: apple, mango, carrot, banana? A) apple   B) carrot   C) mango   D) banana
+94. Which is the odd one out: square, triangle, circle, cube? A) cube   B) square   C) triangle   D) circle
+95. Which is the odd one out: 2, 3, 5, 9? A) 2   B) 3   C) 5   D) 9
+96. Which is the odd one out: January, March, Sunday, July? A) January   B) March   C) Sunday   D) July
+97. A is taller than B and B taller than C. Who is shortest? A) A   B) C   C) B   D) Cannot be determined
+98. Ravi is older than Meena; Meena is older than Kiran. Who is oldest? A) Ravi   B) Meena   C) Kiran   D) Cannot be determined
+99. If all roses are flowers, which must be true? A) Some flowers are not roses   B) Every flower is a rose   C) No roses are flowers   D) Every rose is a flower
+100. A dozen means: A) 10   B) 11   C) 12   D) 13
 
 ### Answer Key
 1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
