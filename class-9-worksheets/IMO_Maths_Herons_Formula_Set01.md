@@ -64,46 +64,46 @@
 58. For sides 13, 20, 21, the value of s(s-a)(s-b)(s-c) is: A) 15876   B) 15877   C) 252   D) 27
 59. For sides 17, 25, 28, the value of s(s-a)(s-b)(s-c) is: A) 44101   B) 420   C) 35   D) 44100
 60. For sides 14, 48, 50, the value of s(s-a)(s-b)(s-c) is: A) 112897   B) 672   C) 112896   D) 56
-61. A triangular garden has side lengths 3 m, 4 m and 5 m. Its area is: A) 16 m²   B) 6 cm²   C) 12 cm²   D) None of these
+61. A triangular garden has side lengths 3 m, 4 m and 5 m. Its area is: A) 16 m²   B) 6 m²   C) 12 m²   D) 10 m²
 62. Find the semiperimeter for sides 5, 5, 6. A) 8 cm   B) 10 cm   C) 12 cm²   D) 25 cm²
 63. The perimeter of a triangle with sides 5, 5, 8 is: A) 11 cm   B) 12 cm²   C) 25 cm²   D) 18 cm
 64. The square of the area of a triangle of sides 6, 8, 10 is: A) 14 cm   B) 24 cm²   C) 576 cm⁴   D) 48 cm²
-65. A triangular garden has side lengths 7 m, 15 m and 20 m. Its area is: A) 52 m²   B) 42 cm²   C) 105 cm²   D) None of these
+65. A triangular garden has side lengths 7 m, 15 m and 20 m. Its area is: A) 52 m²   B) 42 m²   C) 105 m²   D) 84 m²
 66. Find the semiperimeter for sides 13, 14, 15. A) 21 cm   B) 23 cm   C) 84 cm²   D) 182 cm²
 67. The perimeter of a triangle with sides 9, 10, 17 is: A) 20 cm   B) 36 cm²   C) 90 cm²   D) 36 cm
 68. The square of the area of a triangle of sides 8, 15, 17 is: A) 22 cm   B) 60 cm²   C) 3600 cm⁴   D) 120 cm²
-69. A triangular garden has side lengths 10 m, 13 m and 13 m. Its area is: A) 70 m²   B) 60 cm²   C) 130 cm²   D) None of these
+69. A triangular garden has side lengths 10 m, 13 m and 13 m. Its area is: A) 70 m²   B) 60 m²   C) 130 m²   D) 120 m²
 70. Find the semiperimeter for sides 7, 24, 25. A) 28 cm   B) 30 cm   C) 84 cm²   D) 168 cm²
 71. The perimeter of a triangle with sides 9, 12, 15 is: A) 20 cm   B) 54 cm²   C) 108 cm²   D) 36 cm
 72. The square of the area of a triangle of sides 10, 24, 26 is: A) 32 cm   B) 120 cm²   C) 14400 cm⁴   D) 240 cm²
-73. A triangular garden has side lengths 12 m, 16 m and 20 m. Its area is: A) 106 m²   B) 96 cm²   C) 192 cm²   D) None of these
+73. A triangular garden has side lengths 12 m, 16 m and 20 m. Its area is: A) 106 m²   B) 96 m²   C) 192 m²   D) 180 m²
 74. Find the semiperimeter for sides 11, 13, 20. A) 22 cm   B) 24 cm   C) 66 cm²   D) 143 cm²
 75. The perimeter of a triangle with sides 15, 20, 25 is: A) 32 cm   B) 150 cm²   C) 300 cm²   D) 60 cm
 76. The square of the area of a triangle of sides 20, 21, 29 is: A) 37 cm   B) 210 cm²   C) 44100 cm⁴   D) 420 cm²
-77. A triangular garden has side lengths 6 m, 25 m and 29 m. Its area is: A) 70 m²   B) 60 cm²   C) 150 cm²   D) None of these
+77. A triangular garden has side lengths 6 m, 25 m and 29 m. Its area is: A) 70 m²   B) 60 m²   C) 150 m²   D) 90 m²
 78. Find the semiperimeter for sides 13, 20, 21. A) 27 cm   B) 29 cm   C) 126 cm²   D) 260 cm²
 79. The perimeter of a triangle with sides 17, 25, 28 is: A) 37 cm   B) 210 cm²   C) 425 cm²   D) 70 cm
 80. The square of the area of a triangle of sides 14, 48, 50 is: A) 58 cm   B) 336 cm²   C) 112896 cm⁴   D) 672 cm²
-81. Heron's formula is useful when the three side lengths of a triangle are: A) (a+b+c)/2   B) known   C) square units   D) greater than the third side
-82. The semiperimeter s is equal to: A) (a+b+c)/2   B) known   C) square units   D) greater than the third side
-83. Heron's formula for area is: A) known   B) (a+b+c)/2   C) square units   D) sqrt(s(s-a)(s-b)(s-c))
-84. The area of a triangle is measured in: A) known   B) (a+b+c)/2   C) square units   D) greater than the third side
-85. The perimeter of a triangle is measured in: A) known   B) linear units   C) (a+b+c)/2   D) square units
-86. A valid triangle must satisfy the sum of any two sides is: A) greater than the third side   B) known   C) (a+b+c)/2   D) square units
-87. For sides 3, 4, 5, the semiperimeter is: A) known   B) (a+b+c)/2   C) square units   D) 6
-88. For sides 3, 4, 5, the area is: A) known   B) (a+b+c)/2   C) 6 square units   D) square units
-89. If all side lengths are doubled, area becomes: A) known   B) four times   C) (a+b+c)/2   D) square units
-90. If side lengths are given in metres, area is expressed in: A) square metres   B) known   C) (a+b+c)/2   D) square units
-91. The triangle inequality for sides a,b,c includes: A) known   B) (a+b+c)/2   C) square units   D) a+b>c
-92. Heron's formula uses the semiperimeter and: A) known   B) (a+b+c)/2   C) all three side lengths   D) square units
-93. A triangle with sides 1, 2, 4 is: A) known   B) not possible   C) (a+b+c)/2   D) square units
-94. A triangle with sides 4, 4, 7 is: A) possible   B) known   C) (a+b+c)/2   D) square units
-95. The area of a triangle cannot be: A) known   B) (a+b+c)/2   C) square units   D) negative
-96. The semiperimeter is half the: A) known   B) (a+b+c)/2   C) perimeter   D) square units
-97. A triangle with sides 5, 12, 13 has area: A) known   B) 30 square units   C) (a+b+c)/2   D) square units
-98. A triangle with sides 8, 15, 17 has area: A) 60 square units   B) known   C) (a+b+c)/2   D) square units
-99. The area of a triangle with sides 13, 14, 15 is: A) known   B) (a+b+c)/2   C) square units   D) 84 square units
-100. Heron's formula can find area without knowing the: A) known   B) (a+b+c)/2   C) height   D) square units
+81. Heron's formula is useful when the three side lengths of a triangle are: A) unknown   B) known   C) equal only   D) right angles
+82. The semiperimeter s is equal to: A) a+b+c   B) (a+b+c)/2   C) abc   D) a×b
+83. Heron's formula for area is: A) s(s-a)(s-b)(s-c)   B) (a+b+c)/2   C) s²   D) √(s(s-a)(s-b)(s-c))
+84. The area of a triangle is measured in: A) linear units   B) cubic units   C) square units   D) degrees
+85. The perimeter of a triangle is measured in: A) square units   B) linear units   C) cubic units   D) degrees
+86. A valid triangle must satisfy the sum of any two sides is: A) greater than the third side   B) equal to the third side   C) less than the third side   D) zero
+87. For sides 3, 4, 5, the semiperimeter is: A) 12   B) 5   C) 7   D) 6
+88. For sides 3, 4, 5, the area is: A) 12 square units   B) 6 square units   C) 7 square units   D) 10 square units
+89. If all side lengths are doubled, area becomes: A) twice as large   B) four times as large   C) eight times as large   D) unchanged
+90. If side lengths are given in metres, area is expressed in: A) square metres   B) metres   C) cubic metres   D) kilograms
+91. The triangle inequality for sides a,b,c includes: A) a+b<c   B) a+b=c always   C) a+b>c   D) a=b=c always
+92. Heron's formula uses the semiperimeter and: A) only one side length   B) only the height   C) all three side lengths   D) the angles only
+93. A triangle with sides 1, 2, 4 is: A) equilateral   B) not possible   C) right-angled   D) isosceles
+94. A triangle with sides 4, 4, 7 is: A) possible   B) not possible   C) impossible to classify   D) a right triangle
+95. The area of a triangle cannot be: A) zero for a degenerate case   B) positive   C) measured in square units   D) negative
+96. The semiperimeter is half the: A) area   B) longest side   C) perimeter   D) altitude
+97. A triangle with sides 5, 12, 13 has area: A) 60 square units   B) 30 square units   C) 25 square units   D) 65 square units
+98. A triangle with sides 8, 15, 17 has area: A) 60 square units   B) 68 square units   C) 120 square units   D) 40 square units
+99. The area of a triangle with sides 13, 14, 15 is: A) 42 square units   B) 70 square units   C) 90 square units   D) 84 square units
+100. Heron's formula can find area without knowing the: A) side lengths   B) semiperimeter   C) height   D) area unit
 
 ### Answer Key
 1 B · 2 A · 3 D · 4 C · 5 B · 6 A · 7 D · 8 C · 9 B · 10 A · 11 D · 12 C · 13 B · 14 A · 15 D · 16 C · 17 B · 18 A · 19 D · 20 C · 21 B · 22 A · 23 D · 24 C · 25 B · 26 A · 27 D · 28 C · 29 B · 30 A · 31 D · 32 C · 33 B · 34 A · 35 D · 36 C · 37 B · 38 A · 39 D · 40 C · 41 B · 42 A · 43 D · 44 C · 45 B · 46 A · 47 D · 48 C · 49 B · 50 A · 51 D · 52 C · 53 B · 54 A · 55 D · 56 C · 57 B · 58 A · 59 D · 60 C · 61 B · 62 A · 63 D · 64 C · 65 B · 66 A · 67 D · 68 C · 69 B · 70 A · 71 D · 72 C · 73 B · 74 A · 75 D · 76 C · 77 B · 78 A · 79 D · 80 C · 81 B · 82 A · 83 D · 84 C · 85 B · 86 A · 87 D · 88 C · 89 B · 90 A · 91 D · 92 C · 93 B · 94 A · 95 D · 96 C · 97 B · 98 A · 99 D · 100 C
