@@ -88,8 +88,8 @@
 81. Which equation matches the described linear relation with coefficients 1, 1 and constant 2? A) 1x + 1y = 3   B) 1x − 1y = 4   C) 1x + 1y = 2   D) None of these
 82. Which equation matches the described linear relation with coefficients 2, 2 and constant 3? A) 2x + 2y = 4   B) 2x − 2y = 3   C) 2x + 2y = 3   D) 2x − 2y = 5
 83. Which equation matches the described linear relation with coefficients 3, 3 and constant 4? A) 3x + 3y = 3   B) 3x + 3y = 5   C) 3x + 3y = 4   D) 3x − 3y = 6
-84. Which equation matches the described linear relation with coefficients 4, 4 and constant 5? A) 4x + 4y = 6   B) 4x − 4y = 7   C) None of these   D) 4x + 4y = 5
-85. Which equation matches the described linear relation with coefficients 5, 5 and constant 6? A) 5x + 5y = 7   B) 5x + 5y = 6   C) 5x − 5y = 6   D) 5x − 5y = 8
+84. Which equation matches the described linear relation with coefficients 4, 4 and constant 5? A) 4x + 4y = 6   B) 4x − 4y = 7   C) 4x + 4y = 5   D) None of these
+85. Which equation matches the described linear relation with coefficients 5, 5 and constant 6? A) 5x + 5y = 7   B) 5x − 5y = 6   C) 5x + 5y = 6   D) 5x − 5y = 8
 86. Which equation matches the described linear relation with coefficients 1, 6 and constant 7? A) 1x + 6y = 8   B) 6y = 7 − 1x   C) 6x + 1y = 7   D) 1x − 6y = 9
 87. Which equation matches the described linear relation with coefficients 2, 1 and constant 8? A) 2x + 1y = 8   B) 2x + 1y = 9   C) 1x + 2y = 8   D) 2x − 1y = 10
 88. Which equation matches the described linear relation with coefficients 3, 2 and constant 9? A) 3x + 2y = 10   B) 2x + 3y = 9   C) 3x − 2y = 11   D) 3x + 2y = 9
