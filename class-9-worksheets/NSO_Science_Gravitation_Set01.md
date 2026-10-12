@@ -101,7 +101,7 @@
 94. For the same force, reducing the contact area increases: A) pressure   B) mass   C) density of the object   D) gravitational acceleration
 95. Liquids exert pressure on the: A) walls and bottom of their container   B) bottom only   C) top surface only   D) no surfaces
 96. The gravitational force between two objects increases when their masses: A) become zero   B) stay fixed while distance increases   C) decrease   D) increase
-97. If the distance between two masses doubles, the gravitational force becomes: A) twice as large   B) four times as large   C) one-fourth as large   D) half as large
+97. If the distance between two masses triples, the gravitational force becomes: A) one-third as large   B) three times as large   C) one-ninth as large   D) nine times as large
 98. A freely falling object's speed increases by about 9.8 m/s each second because of: A) air pressure   B) gravitational acceleration   C) mass increase   D) buoyant force
 99. A hydrometer is used to compare: A) relative density of liquids   B) temperature   C) pressure   D) mass of a solid
 100. The SI unit of density is: A) newton   B) kilogram   C) square metre   D) kg/m³
