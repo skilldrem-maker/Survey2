@@ -24,26 +24,26 @@
 18. A conclusion should not claim more than the data: A) independent variable   B) support   C) dependent variable   D) controlled variable
 19. A prediction can be checked by: A) experiment or observation   B) independent variable   C) dependent variable   D) controlled variable
 20. A scientific explanation should be open to: A) independent variable   B) dependent variable   C) controlled variable   D) testing and revision
-21. A cart travels 2 m in 1 s. Its average speed is: A) 3 m/s   B) None of these   C) 2 m/s   D) None of these
-22. A cart travels 3 m in 2 s. Its average speed is: A) 2.5 m/s   B) 1.5 m/s   C) 6 m/s   D) 5 m/s
-23. A cart travels 4 m in 3 s. Its average speed is: A) 1.3333333333333333 m/s   B) 2.333333333333333 m/s   C) 12 m/s   D) 7 m/s
-24. A cart travels 5 m in 4 s. Its average speed is: A) 2.25 m/s   B) 20 m/s   C) 9 m/s   D) 1.25 m/s
-25. A cart travels 6 m in 5 s. Its average speed is: A) 2.2 m/s   B) 30 m/s   C) 1.2 m/s   D) 11 m/s
-26. A cart travels 7 m in 1 s. Its average speed is: A) 8 m/s   B) 7 m/s   C) None of these   D) None of these
-27. A cart travels 8 m in 2 s. Its average speed is: A) 4 m/s   B) 5 m/s   C) 16 m/s   D) 10 m/s
-28. A cart travels 9 m in 3 s. Its average speed is: A) 4 m/s   B) 27 m/s   C) 12 m/s   D) 3 m/s
-29. A cart travels 2 m in 4 s. Its average speed is: A) 1.5 m/s   B) 8 m/s   C) 0.5 m/s   D) 6 m/s
-30. A cart travels 3 m in 5 s. Its average speed is: A) 1.6 m/s   B) 0.6 m/s   C) 15 m/s   D) 8 m/s
-31. A cart travels 4 m in 1 s. Its average speed is: A) 4 m/s   B) 5 m/s   C) None of these   D) None of these
-32. A cart travels 5 m in 2 s. Its average speed is: A) 3.5 m/s   B) 10 m/s   C) 7 m/s   D) 2.5 m/s
-33. A cart travels 6 m in 3 s. Its average speed is: A) 3 m/s   B) 18 m/s   C) 2 m/s   D) 9 m/s
-34. A cart travels 7 m in 4 s. Its average speed is: A) 2.75 m/s   B) 1.75 m/s   C) 28 m/s   D) 11 m/s
-35. A cart travels 8 m in 5 s. Its average speed is: A) 1.6 m/s   B) 2.6 m/s   C) 40 m/s   D) 13 m/s
-36. A cart travels 9 m in 1 s. Its average speed is: A) 10 m/s   B) None of these   C) None of these   D) 9 m/s
-37. A cart travels 2 m in 2 s. Its average speed is: A) 2 m/s   B) 4 m/s   C) 1 m/s   D) None of these
-38. A cart travels 3 m in 3 s. Its average speed is: A) 2 m/s   B) 1 m/s   C) 9 m/s   D) 6 m/s
-39. A cart travels 4 m in 4 s. Its average speed is: A) 1 m/s   B) 2 m/s   C) 16 m/s   D) 8 m/s
-40. A cart travels 5 m in 5 s. Its average speed is: A) 2 m/s   B) 25 m/s   C) 10 m/s   D) 1 m/s
+21. A cart travels 2 m in 1 s. Its average speed is: A) 3 m/s   B) 1 m/s   C) 2 m/s   D) 0
+22. A cart travels 3 m in 2 s. Its average speed is: A) 2.5 m/s   B) 1.5 m/s   C) 0.5 m/s   D) 6 m/s
+23. A cart travels 4 m in 3 s. Its average speed is: A) 1.33 m/s   B) 2.33 m/s   C) 0.33 m/s   D) 12 m/s
+24. A cart travels 5 m in 4 s. Its average speed is: A) 2.25 m/s   B) 0.25 m/s   C) 20 m/s   D) 1.25 m/s
+25. A cart travels 6 m in 5 s. Its average speed is: A) 2.2 m/s   B) 0.2 m/s   C) 1.2 m/s   D) 30 m/s
+26. A cart travels 7 m in 1 s. Its average speed is: A) 8 m/s   B) 7 m/s   C) 6 m/s   D) 0
+27. A cart travels 8 m in 2 s. Its average speed is: A) 4 m/s   B) 5 m/s   C) 3 m/s   D) 16 m/s
+28. A cart travels 9 m in 3 s. Its average speed is: A) 4 m/s   B) 2 m/s   C) 27 m/s   D) 3 m/s
+29. A cart travels 2 m in 4 s. Its average speed is: A) 1.5 m/s   B) 0 m/s   C) 0.5 m/s   D) 8 m/s
+30. A cart travels 3 m in 5 s. Its average speed is: A) 1.6 m/s   B) 0.6 m/s   C) 0 m/s   D) 15 m/s
+31. A cart travels 4 m in 1 s. Its average speed is: A) 4 m/s   B) 5 m/s   C) 3 m/s   D) 0
+32. A cart travels 5 m in 2 s. Its average speed is: A) 3.5 m/s   B) 1.5 m/s   C) 10 m/s   D) 2.5 m/s
+33. A cart travels 6 m in 3 s. Its average speed is: A) 3 m/s   B) 1 m/s   C) 2 m/s   D) 18 m/s
+34. A cart travels 7 m in 4 s. Its average speed is: A) 2.75 m/s   B) 1.75 m/s   C) 0.75 m/s   D) 28 m/s
+35. A cart travels 8 m in 5 s. Its average speed is: A) 1.6 m/s   B) 2.6 m/s   C) 0.6 m/s   D) 40 m/s
+36. A cart travels 9 m in 1 s. Its average speed is: A) 10 m/s   B) 8 m/s   C) 0   D) 9 m/s
+37. A cart travels 2 m in 2 s. Its average speed is: A) 2 m/s   B) 0 m/s   C) 1 m/s   D) 4 m/s
+38. A cart travels 3 m in 3 s. Its average speed is: A) 2 m/s   B) 1 m/s   C) 0 m/s   D) 9 m/s
+39. A cart travels 4 m in 4 s. Its average speed is: A) 1 m/s   B) 2 m/s   C) 0 m/s   D) 16 m/s
+40. A cart travels 5 m in 5 s. Its average speed is: A) 2 m/s   B) 0 m/s   C) 25 m/s   D) 1 m/s
 41. A plant grows from 10 cm to 14 cm. Its increase in height is: A) 14 cm   B) 10 cm   C) 4 cm   D) 24 cm
 42. A plant grows from 11 cm to 17 cm. Its increase in height is: A) 17 cm   B) 6 cm   C) 11 cm   D) 28 cm
 43. A plant grows from 12 cm to 20 cm. Its increase in height is: A) 8 cm   B) 20 cm   C) 12 cm   D) 32 cm
@@ -59,31 +59,31 @@
 53. A plant grows from 12 cm to 16 cm. Its increase in height is: A) 16 cm   B) 12 cm   C) 4 cm   D) 28 cm
 54. A plant grows from 13 cm to 19 cm. Its increase in height is: A) 19 cm   B) 6 cm   C) 13 cm   D) 32 cm
 55. A plant grows from 14 cm to 22 cm. Its increase in height is: A) 8 cm   B) 22 cm   C) 14 cm   D) 36 cm
-56. A plant grows from 10 cm to 20 cm. Its increase in height is: A) 20 cm   B) 30 cm   C) None of these   D) 10 cm
+56. A plant grows from 10 cm to 20 cm. Its increase in height is: A) 20 cm   B) 30 cm   C) 0   D) 10 cm
 57. A plant grows from 11 cm to 15 cm. Its increase in height is: A) 15 cm   B) 11 cm   C) 4 cm   D) 26 cm
 58. A plant grows from 12 cm to 18 cm. Its increase in height is: A) 18 cm   B) 6 cm   C) 12 cm   D) 30 cm
 59. A plant grows from 13 cm to 21 cm. Its increase in height is: A) 8 cm   B) 21 cm   C) 13 cm   D) 34 cm
 60. A plant grows from 14 cm to 24 cm. Its increase in height is: A) 24 cm   B) 14 cm   C) 38 cm   D) 10 cm
-61. A line graph is best for showing change over: A) categories   B) speed   C) time   D) unit
-62. A bar graph is useful for comparing: A) time   B) categories   C) speed   D) unit
-63. The horizontal axis of a graph is called the: A) x-axis   B) time   C) categories   D) speed
-64. The vertical axis of a graph is called the: A) time   B) categories   C) speed   D) y-axis
-65. A graph scale should be: A) time   B) categories   C) evenly spaced and clearly labelled   D) speed
-66. A table heading should include the quantity and its: A) time   B) unit   C) categories   D) speed
-67. If a graph rises from left to right, the plotted quantity is generally: A) increasing   B) time   C) categories   D) speed
-68. A horizontal line on a distance-time graph means the object is: A) time   B) categories   C) speed   D) at rest
-69. The slope of a distance-time graph represents: A) time   B) categories   C) speed   D) unit
-70. The title of a graph should describe the: A) time   B) data shown   C) categories   D) speed
-71. A thermometer measures: A) temperature   B) time   C) categories   D) speed
-72. A balance measures: A) time   B) categories   C) speed   D) mass
-73. A measuring cylinder measures liquid: A) time   B) categories   C) volume   D) speed
-74. A stopwatch measures: A) categories   B) time   C) speed   D) unit
-75. The SI unit of length is the: A) metre   B) time   C) categories   D) speed
-76. The SI unit of mass is the: A) time   B) categories   C) speed   D) kilogram
-77. The SI unit of time is the: A) time   B) categories   C) second   D) speed
-78. The SI unit of temperature is the: A) time   B) kelvin   C) categories   D) speed
-79. To reduce parallax error, read a scale at: A) eye level   B) time   C) categories   D) speed
-80. A measurement should be recorded with an appropriate: A) time   B) categories   C) speed   D) unit
+61. A line graph is best for showing change over: A) categories   B) parts of a whole   C) time   D) locations
+62. A bar graph is useful for comparing: A) continuous change over time   B) categories   C) temperature only   D) directions
+63. The horizontal axis of a graph is called the: A) x-axis   B) y-axis   C) origin   D) scale
+64. The vertical axis of a graph is called the: A) x-axis   B) origin   C) legend   D) y-axis
+65. A graph scale should be: A) randomly spaced   B) unlabelled   C) evenly spaced and clearly labelled   D) changed between data points
+66. A table heading should include the quantity and its: A) colour   B) unit   C) conclusion   D) hypothesis
+67. If a graph rises from left to right, the plotted quantity is generally: A) increasing   B) decreasing   C) constant   D) unmeasured
+68. A horizontal line on a distance-time graph means the object is: A) moving at constant speed   B) speeding up   C) moving backwards at increasing speed   D) at rest
+69. The slope of a distance-time graph represents: A) mass   B) force   C) speed   D) temperature
+70. The title of a graph should describe the: A) student's name only   B) data shown   C) answer key   D) apparatus colour
+71. A thermometer measures: A) temperature   B) mass   C) time   D) length
+72. A balance measures: A) weight only in all contexts   B) temperature   C) volume   D) mass
+73. A measuring cylinder measures liquid: A) mass   B) time   C) volume   D) temperature
+74. A stopwatch measures: A) length   B) time   C) volume   D) mass
+75. The SI unit of length is the: A) metre   B) kilogram   C) second   D) kelvin
+76. The SI unit of mass is the: A) metre   B) second   C) newton   D) kilogram
+77. The SI unit of time is the: A) metre   B) kelvin   C) second   D) kilogram
+78. The SI unit of temperature is the: A) degree Celsius as SI unit   B) kelvin   C) joule   D) metre
+79. To reduce parallax error, read a scale at: A) eye level   B) an angle from above   C) an angle from below   D) any viewing angle
+80. A measurement should be recorded with an appropriate: A) colour   B) guess   C) unlabelled symbol   D) unit
 81. A student tests whether fertilizer affects plant height. Which group is a useful control? A) plants given extra fertilizer and extra water   B) plants grown without the fertilizer   C) plants measured with a different ruler   D) plants kept in a different room with more light
 82. A thermometer reading should be recorded with A) a value and unit   B) only a colour   C) only a drawing   D) a guess
 83. A result that repeats across trials is more likely to be A) random   B) unmeasurable   C) a hypothesis   D) reliable
