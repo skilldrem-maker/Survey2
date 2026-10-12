@@ -9,7 +9,7 @@
 3. Mushrooms belong to A) Fungi   B) autotrophic   C) multicellular   D) Plantae
 4. Mango is a member of A) unicellular   B) Plantae   C) Protista   D) Prokaryota
 5. Humans belong to A) Plantae   B) Eukaryota   C) Animalia   D) Arthropoda
-6. Amoeba is A) autotrophic   B) Plantae   C) Animalia   D) unicellular eukaryote
+6. Amoeba belongs to which kingdom? A) Monera   B) Plantae   C) Fungi   D) Protista
 7. Most fungi obtain food by A) saprotrophic nutrition   B) Protista   C) Prokaryota   D) unicellular
 8. Green plants are mainly A) Eukaryota   B) autotrophic   C) Arthropoda   D) Plantae
 9. A cell with no membrane-bound nucleus is A) multicellular   B) Animalia   C) prokaryotic   D) autotrophic
@@ -21,7 +21,7 @@
 15. The five-kingdom classification was proposed by A) R. H. Whittaker   B) autotrophic   C) multicellular   D) Animalia
 16. Organisms with chitin in cell walls are commonly A) unicellular   B) fungi   C) Protista   D) Prokaryota
 17. Yeast is a A) Plantae   B) Eukaryota   C) unicellular fungus   D) Arthropoda
-18. Lichens are associations between algae and A) autotrophic   B) multicellular   C) Animalia   D) fungi
+18. Lichens are associations between algae and A) bacteria   B) viruses   C) flowering plants   D) fungi
 19. Viruses reproduce only inside A) living host cells   B) Protista   C) Prokaryota   D) unicellular
 20. An organism that makes its own food is A) Eukaryota   B) autotrophic   C) Arthropoda   D) Plantae
 21. Mosses belong to A) flowers   B) Pteridophyta   C) Bryophyta   D) spores
@@ -44,26 +44,26 @@
 38. A seed contains an embryo and stored A) vascular tissue   B) Pteridophyta   C) monocot   D) food
 39. A fern has vascular tissue but no A) seeds   B) spores   C) flowers   D) Bryophyta
 40. A moss is a non-vascular plant in A) cones   B) Bryophyta   C) Gymnosperms   D) dicot
-41. Fish breathe mainly through A) Amphibia   B) Mammalia   C) gills   D) cold-blooded
-42. Amphibians typically have moist skin and often live A) lungs   B) milk   C) Pisces   D) on land and in water
-43. Reptiles generally have dry skin covered with A) scales   B) Reptilia   C) gills   D) feathers
-44. Birds have bodies covered with A) Mammalia   B) feathers   C) cold-blooded   D) Amphibia
-45. Mammals feed young with A) cold-blooded   B) Pisces   C) milk   D) lungs
-46. A frog belongs to A) Reptilia   B) gills   C) feathers   D) Amphibia
-47. A lizard belongs to A) Reptilia   B) cold-blooded   C) Amphibia   D) Mammalia
-48. A pigeon belongs to A) Pisces   B) Aves   C) lungs   D) milk
-49. A whale belongs to A) gills   B) feathers   C) Mammalia   D) Reptilia
-50. A shark belongs to A) cold-blooded   B) Amphibia   C) Mammalia   D) Pisces (fish group)
-51. A vertebrate has a A) backbone   B) lungs   C) milk   D) Pisces
-52. An invertebrate lacks a A) feathers   B) backbone   C) Reptilia   D) gills
-53. A snake is a A) Amphibia   B) Mammalia   C) reptile   D) cold-blooded
-54. A bat is a A) lungs   B) milk   C) Pisces   D) mammal
-55. A penguin is a A) bird   B) Reptilia   C) gills   D) feathers
-56. A dolphin breathes with lungs and is a A) Mammalia   B) mammal   C) cold-blooded   D) Amphibia
-57. A tadpole is the larval stage of a A) milk   B) Pisces   C) frog   D) lungs
-58. Most birds lay eggs with A) Reptilia   B) gills   C) feathers   D) hard shells
-59. Mammals are generally A) warm-blooded   B) cold-blooded   C) Amphibia   D) Mammalia
-60. Fish are generally A) Pisces   B) cold-blooded   C) lungs   D) milk
+41. Fish breathe mainly through A) Amphibia   B) Mammalia   C) gills   D) Reptilia
+42. Amphibians typically have moist skin and often live A) Pisces   B) Amphibia   C) Pisces   D) on land and in water
+43. Reptiles generally have dry skin covered with A) scales   B) Reptilia   C) Aves   D) Mammalia
+44. Birds have bodies covered with A) Mammalia   B) feathers   C) Insecta   D) Amphibia
+45. Mammals feed young with A) Aves   B) Pisces   C) milk   D) Annelida
+46. A frog belongs to A) Reptilia   B) Insecta   C) Annelida   D) Amphibia
+47. A lizard belongs to A) Reptilia   B) Annelida   C) Amphibia   D) Mammalia
+48. A pigeon belongs to A) Pisces   B) Aves   C) Arthropoda   D) Porifera
+49. A whale belongs to A) Mollusca   B) Arthropoda   C) Mammalia   D) Reptilia
+50. A shark belongs to A) Arthropoda   B) Amphibia   C) Mammalia   D) Pisces (fish group)
+51. A vertebrate has a A) backbone   B) Cnidaria   C) Nematoda   D) Pisces
+52. An invertebrate lacks a A) Cnidaria   B) backbone   C) Reptilia   D) Echinodermata
+53. A snake is a A) Amphibia   B) Mammalia   C) reptile   D) Pisces
+54. A bat is a A) Platyhelminthes   B) Echinodermata   C) Pisces   D) mammal
+55. A penguin is a A) bird   B) Reptilia   C) Amphibia   D) Aves
+56. A dolphin breathes with lungs and is a A) Mammalia   B) mammal   C) Reptilia   D) Amphibia
+57. A tadpole is the larval stage of a A) Amphibia   B) Pisces   C) frog   D) Mammalia
+58. Most birds lay eggs with A) Reptilia   B) Aves   C) Mammalia   D) hard shells
+59. Mammals are generally A) warm-blooded   B) Mammalia   C) Amphibia   D) Mammalia
+60. Fish are generally A) Pisces   B) cold-blooded   C) Annelida   D) Mollusca
 61. Earthworms belong to A) Nematoda   B) segmentation   C) Annelida   D) Arthropoda
 62. Snails belong to A) soft body   B) Arthropoda   C) Cnidaria   D) Mollusca
 63. Insects belong to A) Arthropoda   B) Platyhelminthes   C) jointed appendages   D) Annelida
