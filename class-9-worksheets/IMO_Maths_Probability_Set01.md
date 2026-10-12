@@ -93,7 +93,7 @@
 87. A standard coin has how many outcomes?: A) 0   B) 1   C) 1/2   D) 2
 88. The set of all possible outcomes is called the: A) 0   B) 1   C) sample space   D) 1/2
 89. If P(E)=0.3, then P(not E) is: A) 0   B) 0.7   C) 1   D) 1/2
-90. An event with probability 1/2 is: A) equally likely to occur and not occur   B) 0   C) 1   D) 1/2
+90. An event with probability 1/2 is: A) equally likely to occur and not occur   B) impossible   C) certain to occur   D) more likely to occur than not
 91. If all outcomes are equally likely, each of 4 outcomes has probability: A) 0   B) 1   C) 1/2   D) 1/4
 92. A probability of 1.2 is: A) 0   B) 1   C) not possible   D) 1/2
 93. The probability of drawing a red card from a standard deck is: A) 0   B) 1/2   C) 1   D) not possible
