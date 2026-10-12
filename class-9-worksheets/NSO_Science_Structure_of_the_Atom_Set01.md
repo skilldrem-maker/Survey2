@@ -26,9 +26,9 @@
 19. A neutral atom of K has atomic number 19. How many protons does it contain? A) 20   B) 18   C) 39   D) 19
 20. A neutral atom of Ca has atomic number 20. How many protons does it contain? A) 20   B) 21   C) 19   D) 40
 21. What is the shell electronic configuration of a neutral H atom (atomic number 1)? A) 1,0   B) 1   C) 2,0   D) None of these
-22. What is the shell electronic configuration of a neutral He atom (atomic number 2)? A) 2,0   B) None of these   C) 2   D) None of these
+22. What is the shell electronic configuration of a neutral He atom (atomic number 2)? A) 2,0   B) 1,1   C) 2,1   D) 2
 23. What is the shell electronic configuration of a neutral Li atom (atomic number 3)? A) 3,0   B) 1,2   C) None of these   D) 2,1
-24. What is the shell electronic configuration of a neutral Be atom (atomic number 4)? A) 2,2   B) 4,0   C) None of these   D) None of these
+24. What is the shell electronic configuration of a neutral Be atom (atomic number 4)? A) 2,2   B) 4,0   C) 1,3   D) 3,1
 25. What is the shell electronic configuration of a neutral B atom (atomic number 5)? A) 5,0   B) 2,3   C) 3,2   D) None of these
 26. What is the shell electronic configuration of a neutral C atom (atomic number 6)? A) 6,0   B) 4,2   C) 2,4   D) None of these
 27. What is the shell electronic configuration of a neutral N atom (atomic number 7)? A) 7,0   B) 5,2   C) None of these   D) 2,5
@@ -65,27 +65,27 @@
 58. How many electrons are in the outermost shell of Ar (atomic number 18)? A) 0   B) 7   C) 8   D) 2
 59. How many electrons are in the outermost shell of K (atomic number 19)? A) 2   B) 0   C) None of these   D) 1
 60. How many electrons are in the outermost shell of Ca (atomic number 20)? A) 2   B) 3   C) 1   D) None of these
-61. J. J. Thomson: A) negative charge   B) plum-pudding model   C) protons plus electrons   D) same mass number
-62. Ernest Rutherford: A) negative charge   B) protons plus electrons   C) nuclear model of the atom   D) same mass number
-63. Niels Bohr: A) negative charge   B) protons plus electrons   C) same mass number   D) electrons occupy fixed energy levels
-64. James Chadwick: A) discovery of the neutron   B) negative charge   C) protons plus electrons   D) same mass number
-65. Rutherford's experiment used: A) negative charge   B) alpha particles   C) protons plus electrons   D) same mass number
-66. Most of the atom's mass is concentrated in the: A) negative charge   B) protons plus electrons   C) nucleus   D) same mass number
-67. The nucleus has an overall: A) negative charge   B) protons plus electrons   C) same mass number   D) positive charge
-68. An electron has a: A) negative charge   B) protons plus electrons   C) same mass number   D) electrons in the nucleus
-69. A proton has a: A) negative charge   B) positive charge   C) protons plus electrons   D) same mass number
-70. A neutron has: A) negative charge   B) protons plus electrons   C) no electric charge   D) same mass number
-71. The mass of an electron is: A) negative charge   B) protons plus electrons   C) same mass number   D) much smaller than a proton's mass
-72. The atomic number equals the number of: A) protons   B) negative charge   C) protons plus electrons   D) same mass number
-73. For a neutral atom, electrons equal: A) negative charge   B) protons   C) protons plus electrons   D) same mass number
-74. Mass number equals: A) negative charge   B) protons plus electrons   C) protons plus neutrons   D) same mass number
-75. Neutrons are found in the: A) negative charge   B) protons plus electrons   C) same mass number   D) nucleus
-76. Electrons are found in: A) shells around the nucleus   B) negative charge   C) protons plus electrons   D) same mass number
-77. Isotopes have the same number of: A) negative charge   B) protons   C) protons plus electrons   D) same mass number
-78. Isobars have the same: A) negative charge   B) protons plus electrons   C) mass number   D) same mass number
-79. The isotope carbon-14 has: A) negative charge   B) protons plus electrons   C) same mass number   D) 6 protons and 8 neutrons
-80. The isotope sodium-23 has: A) 11 protons and 12 neutrons   B) negative charge   C) protons plus electrons   D) same mass number
-81. For H-1, with atomic number 1, how many neutrons are present? A) 1   B) 0   C) None of these   D) None of these
+61. J. J. Thomson is associated with the: A) nuclear model   B) plum-pudding model   C) neutron discovery   D) fixed energy-level model
+62. Ernest Rutherford is associated with the: A) electron discovery   B) plum-pudding model   C) nuclear model of the atom   D) neutron discovery
+63. Niels Bohr proposed that electrons occupy: A) the nucleus   B) random positions without energy levels   C) the same location as protons   D) fixed energy levels
+64. James Chadwick is credited with discovering the: A) neutron   B) electron   C) proton   D) nucleus
+65. Rutherford's gold-foil experiment used: A) beta particles   B) alpha particles   C) sound waves   D) visible light
+66. Most of an atom's mass is concentrated in the: A) electron shells   B) outermost shell   C) nucleus   D) empty space
+67. The nucleus has an overall: A) negative charge   B) zero charge in every atom   C) variable charge unrelated to protons   D) positive charge
+68. An electron has a: A) negative charge   B) positive charge   C) no electric charge   D) mass equal to a proton
+69. A proton has a: A) negative charge   B) positive charge   C) no electric charge   D) charge that changes between atoms
+70. A neutron has: A) negative charge   B) positive charge   C) no electric charge   D) twice the electron charge
+71. The mass of an electron is: A) greater than a proton's mass   B) equal to a neutron's mass   C) zero in all models   D) much smaller than a proton's mass
+72. The atomic number equals the number of: A) protons   B) neutrons   C) protons plus neutrons   D) electron shells
+73. For a neutral atom, the number of electrons equals the number of: A) neutrons   B) protons   C) protons plus neutrons   D) shells
+74. Mass number equals the total number of: A) electrons and neutrons   B) protons and electrons   C) protons and neutrons   D) protons only
+75. In an ordinary atom, neutrons are found in the: A) electron cloud   B) outermost shell   C) orbit outside the atom   D) nucleus
+76. Electrons are found in: A) shells around the nucleus   B) only inside the nucleus   C) inside protons   D) outside all atoms
+77. Isotopes of an element have the same number of: A) neutrons   B) protons   C) nucleons   D) mass number
+78. Isobars have the same: A) atomic number   B) number of neutrons   C) mass number   D) chemical symbol
+79. Carbon-14 has: A) 6 protons and 6 neutrons   B) 8 protons and 6 neutrons   C) 14 protons and 6 neutrons   D) 6 protons and 8 neutrons
+80. Sodium-23 has: A) 11 protons and 12 neutrons   B) 12 protons and 11 neutrons   C) 23 protons and 11 neutrons   D) 11 protons and 23 neutrons
+81. For H-1, with atomic number 1, how many neutrons are present? A) 1   B) 0   C) 2   D) 3
 82. For a neutral O atom with atomic number 8, the number of electrons is: A) 9   B) 7   C) 8   D) 16
 83. The mass number of P with 15 protons and 16 neutrons is: A) 15   B) 16   C) 32   D) 31
 84. Which statement about He-4 is correct? A) 2 protons and 2 neutrons   B) 4 protons and 2 neutrons   C) 2 electrons and 4 protons   D) None of these
