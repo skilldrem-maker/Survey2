@@ -8,7 +8,7 @@
 2. Which tissue or structure increases girth? A) lateral meristem   B) xylem   C) phloem   D) parenchyma
 3. Which tissue or structure helps growth near nodes? A) xylem   B) phloem   C) parenchyma   D) intercalary meristem
 4. Which tissue or structure stores food? A) xylem   B) phloem   C) parenchyma   D) blood
-5. Which tissue or structure provides flexible support? A) xylem   B) collenchyma   C) phloem   D) parenchyma
+5. Which plant tissue provides flexible support to young stems? A) xylem   B) collenchyma   C) phloem   D) parenchyma
 6. Which tissue or structure provides strength? A) sclerenchyma   B) xylem   C) phloem   D) parenchyma
 7. Which tissue or structure transports water and minerals? A) phloem   B) parenchyma   C) blood   D) xylem
 8. Which tissue or structure transports food? A) xylem   B) parenchyma   C) phloem   D) blood
