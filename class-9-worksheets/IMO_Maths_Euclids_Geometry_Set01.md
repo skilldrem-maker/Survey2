@@ -55,10 +55,10 @@
 49. Axiom 3 says if equals are subtracted from equals, the remainders are: A) proof   B) equal   C) geometry   D) equal to one another
 50. Axiom 4 says things that coincide are: A) proof   B) geometry   C) equal   D) equal to one another
 51. Axiom 5 says the whole is: A) proof   B) geometry   C) equal to one another   D) greater than the part
-52. Axiom 6 says doubles of equals are: A) equal   B) proof   C) geometry   D) equal to one another
-53. Axiom 7 says halves of equals are: A) proof   B) equal   C) geometry   D) equal to one another
-54. Axiom 8 says things that are equal to one another are equal to: A) proof   B) geometry   C) the same thing   D) equal to one another
-55. Axiom 9 says the whole is greater than: A) proof   B) geometry   C) equal to one another   D) the part
+52. If equal quantities are doubled, the results are: A) equal   B) unequal   C) unrelated   D) different
+53. If equal quantities are halved, the results are: A) unequal   B) equal   C) unrelated   D) different
+54. If the same quantity is added to equal quantities, the sums are: A) unequal   B) unrelated   C) equal   D) always doubled
+55. The whole is greater than its: A) equal part only   B) double   C) sum   D) part
 56. A postulate is usually specific to a branch such as: A) geometry   B) proof   C) equal to one another   D) the part
 57. An axiom is accepted as true without: A) geometry   B) proof   C) equal to one another   D) the part
 58. A theorem needs a logical: A) geometry   B) equal to one another   C) proof   D) the part
