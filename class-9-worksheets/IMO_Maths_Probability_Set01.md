@@ -64,23 +64,23 @@
 58. A bag has 3 red and 2 blue balls. One ball is drawn at random. Probability of red is: A) 3/5   B) 2/5   C) 3/6   D) 1/5
 59. A bag has 4 red and 3 blue balls. One ball is drawn at random. Probability of red is: A) 3/7   B) 4/6   C) 1/7   D) 4/7
 60. A bag has 5 red and 4 blue balls. One ball is drawn at random. Probability of red is: A) 4/9   B) 5/6   C) 5/9   D) 1/9
-61. An event has 1 favourable outcomes out of 5 equally likely outcomes. Probability of its complement is: A) 4/5   B) 1/5   C) 5/1   D) 1/5
+61. An event has 1 favourable outcome out of 5 equally likely outcomes. Probability of its complement is: A) 4/5   B) 1/5   C) 5/1   D) 2/5
 62. An event has 2 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 2/6   B) 6/2   C) 1/6   D) 4/6
 63. An event has 3 favourable outcomes out of 7 equally likely outcomes. Probability of its complement is: A) 3/7   B) 7/3   C) 4/7   D) 1/7
 64. An event has 4 favourable outcomes out of 8 equally likely outcomes. Probability of its complement is: A) 8/4   B) 4/8   C) 1/8   D) 3/8
-65. An event has 1 favourable outcomes out of 9 equally likely outcomes. Probability of its complement is: A) 8/9   B) 1/9   C) 9/1   D) 1/9
+65. An event has 1 favourable outcome out of 9 equally likely outcomes. Probability of its complement is: A) 8/9   B) 1/9   C) 9/1   D) 7/9
 66. An event has 2 favourable outcomes out of 10 equally likely outcomes. Probability of its complement is: A) 2/10   B) 10/2   C) 1/10   D) 8/10
 67. An event has 3 favourable outcomes out of 11 equally likely outcomes. Probability of its complement is: A) 3/11   B) 11/3   C) 8/11   D) 1/11
 68. An event has 4 favourable outcomes out of 12 equally likely outcomes. Probability of its complement is: A) 4/12   B) 8/12   C) 12/4   D) 1/12
-69. An event has 1 favourable outcomes out of 13 equally likely outcomes. Probability of its complement is: A) 12/13   B) 1/13   C) 13/1   D) 1/13
+69. An event has 1 favourable outcome out of 13 equally likely outcomes. Probability of its complement is: A) 12/13   B) 1/13   C) 13/1   D) 11/13
 70. An event has 2 favourable outcomes out of 5 equally likely outcomes. Probability of its complement is: A) 2/5   B) 5/2   C) 1/5   D) 3/5
 71. An event has 3 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 6/3   B) 1/6   C) 3/6   D) 2/6
 72. An event has 4 favourable outcomes out of 7 equally likely outcomes. Probability of its complement is: A) 4/7   B) 3/7   C) 7/4   D) 1/7
-73. An event has 1 favourable outcomes out of 8 equally likely outcomes. Probability of its complement is: A) 7/8   B) 1/8   C) 8/1   D) 1/8
+73. An event has 1 favourable outcome out of 8 equally likely outcomes. Probability of its complement is: A) 7/8   B) 1/8   C) 8/1   D) 6/8
 74. An event has 2 favourable outcomes out of 9 equally likely outcomes. Probability of its complement is: A) 2/9   B) 9/2   C) 1/9   D) 7/9
 75. An event has 3 favourable outcomes out of 10 equally likely outcomes. Probability of its complement is: A) 3/10   B) 10/3   C) 7/10   D) 1/10
 76. An event has 4 favourable outcomes out of 11 equally likely outcomes. Probability of its complement is: A) 4/11   B) 7/11   C) 11/4   D) 1/11
-77. An event has 1 favourable outcomes out of 12 equally likely outcomes. Probability of its complement is: A) 11/12   B) 1/12   C) 12/1   D) 1/12
+77. An event has 1 favourable outcome out of 12 equally likely outcomes. Probability of its complement is: A) 11/12   B) 1/12   C) 12/1   D) 10/12
 78. An event has 2 favourable outcomes out of 13 equally likely outcomes. Probability of its complement is: A) 2/13   B) 13/2   C) 1/13   D) 11/13
 79. An event has 3 favourable outcomes out of 5 equally likely outcomes. Probability of its complement is: A) 3/5   B) 5/3   C) 2/5   D) 1/5
 80. An event has 4 favourable outcomes out of 6 equally likely outcomes. Probability of its complement is: A) 4/6   B) 2/6   C) 6/4   D) 1/6
