@@ -29,21 +29,21 @@
 23. What is the degree of the polynomial 9x^2 + 6x - 8? A) 1   B) 3   C) 0   D) 2
 24. What is the degree of the polynomial 4x^5 - x^2 + 7? A) 4   B) 6   C) 5   D) 3
 25. What is the degree of the polynomial 3x - 11? A) 0   B) 1   C) 2   D) None of these
-26. What is the degree of the polynomial 8? A) 0   B) 1   C) None of these   D) None of these
+26. What is the degree of the polynomial 8? A) 0   B) 1   C) None of these   D) 2
 27. What is the degree of the polynomial 2x^6 + x^3 - 5? A) 5   B) 7   C) 4   D) 6
 28. What is the degree of the polynomial x^4 - 9x^4 + 2? A) 3   B) 5   C) 4   D) 2
 29. What is the degree of the polynomial 6x^2 - 2x^7 + 1? A) 6   B) 7   C) 8   D) 5
 30. What is the degree of the polynomial 12x^3 - 4x + 2? A) 3   B) 2   C) 4   D) 1
-31. What is the degree of the polynomial 7x^3 + 2x^2 - x + 4? A) 2   B) 4   C) 1   D) 3
-32. What is the degree of the polynomial 5x^4 - 3x + 1? A) 3   B) 5   C) 4   D) 2
-33. What is the degree of the polynomial 9x^2 + 6x - 8? A) 1   B) 2   C) 3   D) 0
-34. What is the degree of the polynomial 4x^5 - x^2 + 7? A) 5   B) 4   C) 6   D) 3
-35. What is the degree of the polynomial 3x - 11? A) 0   B) 2   C) None of these   D) 1
-36. What is the degree of the polynomial 8? A) 1   B) None of these   C) 0   D) None of these
-37. What is the degree of the polynomial 2x^6 + x^3 - 5? A) 5   B) 6   C) 7   D) 4
-38. What is the degree of the polynomial x^4 - 9x^4 + 2? A) 4   B) 3   C) 5   D) 2
-39. What is the degree of the polynomial 6x^2 - 2x^7 + 1? A) 6   B) 8   C) 5   D) 7
-40. What is the degree of the polynomial 12x^3 - 4x + 2? A) 2   B) 4   C) 3   D) 1
+31. What is the degree of the polynomial 5x^4 + x^3 - 1? A) 3   B) 5   C) 2   D) 4
+32. What is the degree of the polynomial 3x^7 + 2x^2? A) 6   B) 8   C) 7   D) 2
+33. What is the degree of the polynomial 2x^2 + 5x + 1? A) 1   B) 2   C) 3   D) 0
+34. What is the degree of the polynomial 8x^5 - 2x? A) 5   B) 4   C) 6   D) 1
+35. What is the degree of the polynomial 4x + 6? A) 0   B) 2   C) 3   D) 1
+36. What is the degree of the polynomial -12? A) 1   B) 2   C) 0   D) not defined
+37. What is the degree of the polynomial 7x^3 - x^2 + 5? A) 2   B) 3   C) 4   D) 5
+38. What is the degree of the polynomial 9x^6 + 1? A) 6   B) 9   C) 1   D) 0
+39. What is the degree of the polynomial 2x^5 + 3x^5? A) 10   B) 2   C) 3   D) 5
+40. What is the degree of the polynomial 3x^2 - 2x + 1? A) 1   B) 3   C) 2   D) 0
 41. In 2x^2 + 1x^1 - 3x + 9, what is the coefficient of x^2? A) 3   B) 2   C) 1   D) -2
 42. In 3x^3 + 2x^2 - 3x + 9, what is the coefficient of x^3? A) 3   B) 4   C) 2   D) -3
 43. In 4x^4 + 3x^3 - 3x + 9, what is the coefficient of x^4? A) 5   B) 3   C) -4   D) 4
