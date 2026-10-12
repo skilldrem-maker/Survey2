@@ -85,26 +85,26 @@
 78. A liquid of density 300 kg/m³ is at depth 2 m. Taking g = 10 m/s², gauge pressure is: A) 600 Pa   B) 6000 Pa   C) 6100 Pa   D) 312 Pa
 79. A liquid of density 400 kg/m³ is at depth 3 m. Taking g = 10 m/s², gauge pressure is: A) 12000 Pa   B) 1200 Pa   C) 12100 Pa   D) 413 Pa
 80. A liquid of density 500 kg/m³ is at depth 4 m. Taking g = 10 m/s², gauge pressure is: A) 2000 Pa   B) 20100 Pa   C) 514 Pa   D) 20000 Pa
-81. The universal law of gravitation states that every object attracts every other object with a force proportional to the product of their masses and inversely proportional to the square of: A) newtons   B) kilograms   C) the distance between their centres   D) area
-82. The SI unit of gravitational force is the: A) newtons   B) newton   C) kilograms   D) area
-83. The approximate value of g near Earth's surface is: A) 9.8 m/s²   B) newtons   C) kilograms   D) area
-84. Mass is measured in: A) newtons   B) area   C) buoyant force   D) kilograms
-85. Weight is measured in: A) kilograms   B) area   C) newtons   D) buoyant force
-86. Mass remains nearly constant when a person travels to the Moon, but weight: A) newtons   B) decreases   C) kilograms   D) area
-87. An object in free fall is acted on mainly by: A) gravity   B) newtons   C) kilograms   D) area
-88. The force that opposes motion through a fluid is called: A) newtons   B) kilograms   C) area   D) drag
-89. The upward force exerted by a fluid is: A) newtons   B) kilograms   C) buoyant force   D) area
-90. An object floats when its average density is: A) newtons   B) less than the fluid's density   C) kilograms   D) area
-91. Archimedes' principle relates buoyant force to the weight of: A) fluid displaced   B) newtons   C) kilograms   D) area
-92. Relative density has: A) newtons   B) kilograms   C) area   D) no unit
-93. Pressure equals force divided by: A) newtons   B) kilograms   C) area   D) buoyant force
-94. For the same force, reducing area increases: A) newtons   B) pressure   C) kilograms   D) area
-95. Liquids exert pressure on the: A) walls and bottom of their container   B) newtons   C) kilograms   D) area
-96. The gravitational force between two objects increases when their masses: A) newtons   B) kilograms   C) area   D) increase
-97. If distance between two masses doubles, gravitational force becomes: A) newtons   B) kilograms   C) one-fourth   D) area
-98. A freely falling object's speed increases by about 9.8 m/s each second because of: A) newtons   B) gravitational acceleration   C) kilograms   D) area
-99. A hydrometer is used to compare: A) relative density of liquids   B) newtons   C) kilograms   D) area
-100. The SI unit of density is: A) newtons   B) kilograms   C) area   D) kg/m³
+81. The universal law of gravitation states that every object attracts every other object with a force proportional to the product of their masses and inversely proportional to the square of: A) the sum of their masses   B) their volumes   C) the distance between their centres   D) their surface areas
+82. The SI unit of gravitational force is the: A) kilogram   B) newton   C) joule   D) pascal
+83. The approximate value of g near Earth's surface is: A) 9.8 m/s²   B) 9.8 m/s   C) 98 m/s²   D) 0.98 m/s²
+84. Mass is measured in: A) newtons   B) pascals   C) joules   D) kilograms
+85. Weight is measured in: A) kilograms   B) cubic metres   C) newtons   D) metres
+86. Mass remains nearly constant when a person travels to the Moon, but weight: A) increases greatly   B) decreases   C) stays exactly the same   D) becomes massless
+87. An object in free fall (neglecting air resistance) is acted on mainly by: A) gravity   B) friction   C) buoyancy only   D) magnetic force
+88. The force that opposes motion through a fluid is called: A) normal force   B) tension   C) frictionless force   D) drag
+89. The upward force exerted by a fluid on an immersed object is: A) weight   B) friction   C) buoyant force   D) gravitational mass
+90. An object floats in a fluid when its average density is generally: A) greater than the fluid's density   B) less than the fluid's density   C) always zero   D) unrelated to the fluid's density
+91. Archimedes' principle relates buoyant force to the weight of: A) fluid displaced   B) the object in air only   C) the container   D) the fluid remaining in the container
+92. Relative density has: A) unit of newton   B) unit of kilogram   C) unit of kg/m³   D) no unit
+93. Pressure equals force divided by: A) volume   B) mass   C) area   D) density
+94. For the same force, reducing the contact area increases: A) pressure   B) mass   C) density of the object   D) gravitational acceleration
+95. Liquids exert pressure on the: A) walls and bottom of their container   B) bottom only   C) top surface only   D) no surfaces
+96. The gravitational force between two objects increases when their masses: A) become zero   B) stay fixed while distance increases   C) decrease   D) increase
+97. If the distance between two masses doubles, the gravitational force becomes: A) twice as large   B) four times as large   C) one-fourth as large   D) half as large
+98. A freely falling object's speed increases by about 9.8 m/s each second because of: A) air pressure   B) gravitational acceleration   C) mass increase   D) buoyant force
+99. A hydrometer is used to compare: A) relative density of liquids   B) temperature   C) pressure   D) mass of a solid
+100. The SI unit of density is: A) newton   B) kilogram   C) square metre   D) kg/m³
 
 ### Answer Key
 1 C · 2 B · 3 A · 4 D · 5 C · 6 B · 7 A · 8 D · 9 C · 10 B · 11 A · 12 D · 13 C · 14 B · 15 A · 16 D · 17 C · 18 B · 19 A · 20 D · 21 C · 22 B · 23 A · 24 D · 25 C · 26 B · 27 A · 28 D · 29 C · 30 B · 31 A · 32 D · 33 C · 34 B · 35 A · 36 D · 37 C · 38 B · 39 A · 40 D · 41 C · 42 B · 43 A · 44 D · 45 C · 46 B · 47 A · 48 D · 49 C · 50 B · 51 A · 52 D · 53 C · 54 B · 55 A · 56 D · 57 C · 58 B · 59 A · 60 D · 61 C · 62 B · 63 A · 64 D · 65 C · 66 B · 67 A · 68 D · 69 C · 70 B · 71 A · 72 D · 73 C · 74 B · 75 A · 76 D · 77 C · 78 B · 79 A · 80 D · 81 C · 82 B · 83 A · 84 D · 85 C · 86 B · 87 A · 88 D · 89 C · 90 B · 91 A · 92 D · 93 C · 94 B · 95 A · 96 D · 97 C · 98 B · 99 A · 100 D
