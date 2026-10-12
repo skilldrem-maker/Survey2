@@ -62,8 +62,8 @@
 56. For a cube of side 8 cm, the lateral surface area is: A) 256 cm²   B) 388 cm²   C) 258 cm²   D) 64 cm²
 57. For a cube of side 9 cm, the total surface area is: A) 490 cm²   B) 486 cm²   C) 326 cm²   D) 81 cm²
 58. For a cube of side 10 cm, the lateral surface area is: A) 604 cm²   B) 402 cm²   C) 400 cm²   D) 100 cm²
-59. For a cube of side 2 cm, the total surface area is: A) 28 cm²   B) 18 cm²   C) 4 cm²   D) 24 cm²
-60. For a cube of side 3 cm, the lateral surface area is: A) 36 cm²   B) 58 cm²   C) 38 cm²   D) 9 cm²
+59. For a cube of side 11 cm, the total surface area is: A) 242 cm²   B) 121 cm²   C) 484 cm²   D) 726 cm²
+60. For a cube of side 12 cm, the lateral surface area is: A) 576 cm²   B) 864 cm²   C) 144 cm²   D) 288 cm²
 61. Using π = 3.14, the volume of a cylinder with radius 1 cm and height 2 cm is approximately: A) 12.56 cm³   B) 6.28 cm³   C) 3.14 cm³   D) None of these
 62. Using π = 3.14, the volume of a cylinder with radius 2 cm and height 3 cm is approximately: A) 18.84 cm³   B) 12.56 cm³   C) 37.68 cm³   D) None of these
 63. Using π = 3.14, the volume of a cylinder with radius 3 cm and height 4 cm is approximately: A) 75.36 cm³   B) 37.68 cm³   C) 28.26 cm³   D) 113.04 cm³
