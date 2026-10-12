@@ -25,21 +25,21 @@
 18. A net force of 12 N acts on a 2 kg object. Its acceleration is: A) 6 m/s²   B) 7 m/s²   C) 5 m/s²   D) 14 m/s²
 19. A net force of 3 N acts on a 3 kg object. Its acceleration is: A) 2 m/s²   B) 0 m/s²   C) 6 m/s²   D) 1 m/s²
 20. A net force of 8 N acts on a 4 kg object. Its acceleration is: A) 3 m/s²   B) 1 m/s²   C) 2 m/s²   D) 12 m/s²
-21. A 2 kg object moves at 1 m/s. Its momentum is: A) 3 kg m/s   B) 2 kg m/s   C) None of these   D) None of these
+21. A 2 kg object moves at 1 m/s. Its momentum is: A) 3 kg m/s   B) 2 kg m/s   C) 1 kg m/s   D) 4 kg m/s
 22. A 3 kg object moves at 2 m/s. Its momentum is: A) 6 kg m/s   B) 8 kg m/s   C) 5 kg m/s   D) 1.5 kg m/s
 23. A 4 kg object moves at 3 m/s. Its momentum is: A) 15 kg m/s   B) 7 kg m/s   C) 1.3333333333333333 kg m/s   D) 12 kg m/s
 24. A 5 kg object moves at 4 m/s. Its momentum is: A) 24 kg m/s   B) 9 kg m/s   C) 20 kg m/s   D) 1.25 kg m/s
 25. A 6 kg object moves at 5 m/s. Its momentum is: A) 35 kg m/s   B) 30 kg m/s   C) 11 kg m/s   D) 1.2 kg m/s
 26. A 7 kg object moves at 6 m/s. Its momentum is: A) 42 kg m/s   B) 48 kg m/s   C) 13 kg m/s   D) 1.1666666666666667 kg m/s
 27. A 8 kg object moves at 7 m/s. Its momentum is: A) 63 kg m/s   B) 15 kg m/s   C) 1.1428571428571428 kg m/s   D) 56 kg m/s
-28. A 9 kg object moves at 1 m/s. Its momentum is: A) 10 kg m/s   B) None of these   C) 9 kg m/s   D) None of these
+28. A 9 kg object moves at 1 m/s. Its momentum is: A) 10 kg m/s   B) 8 kg m/s   C) 9 kg m/s   D) 12 kg m/s
 29. A 10 kg object moves at 2 m/s. Its momentum is: A) 22 kg m/s   B) 20 kg m/s   C) 12 kg m/s   D) 5 kg m/s
 30. A 2 kg object moves at 3 m/s. Its momentum is: A) 6 kg m/s   B) 9 kg m/s   C) 5 kg m/s   D) 0.6666666666666666 kg m/s
 31. A 3 kg object moves at 4 m/s. Its momentum is: A) 16 kg m/s   B) 7 kg m/s   C) 0.75 kg m/s   D) 12 kg m/s
 32. A 4 kg object moves at 5 m/s. Its momentum is: A) 25 kg m/s   B) 9 kg m/s   C) 20 kg m/s   D) 0.8 kg m/s
 33. A 5 kg object moves at 6 m/s. Its momentum is: A) 36 kg m/s   B) 30 kg m/s   C) 11 kg m/s   D) 0.8333333333333334 kg m/s
 34. A 6 kg object moves at 7 m/s. Its momentum is: A) 42 kg m/s   B) 49 kg m/s   C) 13 kg m/s   D) 0.8571428571428571 kg m/s
-35. A 7 kg object moves at 1 m/s. Its momentum is: A) 8 kg m/s   B) None of these   C) None of these   D) 7 kg m/s
+35. A 7 kg object moves at 1 m/s. Its momentum is: A) 8 kg m/s   B) 6 kg m/s   C) 9 kg m/s   D) 7 kg m/s
 36. A 8 kg object moves at 2 m/s. Its momentum is: A) 18 kg m/s   B) 10 kg m/s   C) 16 kg m/s   D) 4 kg m/s
 37. A 9 kg object moves at 3 m/s. Its momentum is: A) 30 kg m/s   B) 27 kg m/s   C) 12 kg m/s   D) 3 kg m/s
 38. A 10 kg object moves at 4 m/s. Its momentum is: A) 40 kg m/s   B) 44 kg m/s   C) 14 kg m/s   D) 2.5 kg m/s
@@ -65,26 +65,26 @@
 58. What net force is needed to accelerate a 7 kg object at 4 m/s²? A) 28 N   B) 29 N   C) 11 N   D) 30 N
 59. What net force is needed to accelerate a 2 kg object at 5 m/s²? A) 11 N   B) 7 N   C) 12 N   D) 10 N
 60. What net force is needed to accelerate a 3 kg object at 6 m/s²? A) 19 N   B) 9 N   C) 18 N   D) 20 N
-61. Newton's first law is also called the law of: A) acceleration   B) inertia   C) velocity   D) friction
-62. Newton's second law relates force to mass and: A) acceleration   B) inertia   C) velocity   D) friction
-63. Newton's third law states that every action has: A) inertia   B) acceleration   C) velocity   D) an equal and opposite reaction
-64. The SI unit of force is the: A) inertia   B) acceleration   C) newton   D) velocity
-65. The SI unit of momentum is: A) inertia   B) kg m/s   C) acceleration   D) velocity
-66. A force can change an object's: A) speed or direction   B) inertia   C) acceleration   D) velocity
-67. Balanced forces produce zero: A) inertia   B) acceleration   C) velocity   D) net force
-68. An unbalanced force can change an object's: A) inertia   B) acceleration   C) state of motion   D) velocity
-69. Inertia depends mainly on an object's: A) inertia   B) mass   C) acceleration   D) velocity
-70. A passenger lurches forward when a moving bus stops due to: A) inertia   B) acceleration   C) velocity   D) friction
-71. A rocket moves forward because gases are expelled backward; this illustrates: A) inertia   B) acceleration   C) velocity   D) Newton's third law
-72. When a swimmer pushes water backward, the water pushes the swimmer: A) inertia   B) acceleration   C) forward   D) velocity
-73. Action and reaction forces act on: A) inertia   B) different bodies   C) acceleration   D) velocity
-74. Momentum is the product of mass and: A) velocity   B) inertia   C) acceleration   D) friction
-75. For a fixed force, doubling mass makes acceleration: A) inertia   B) acceleration   C) velocity   D) half as large
-76. For a fixed mass, doubling net force doubles: A) inertia   B) velocity   C) acceleration   D) friction
-77. Friction generally acts opposite to: A) inertia   B) relative motion   C) acceleration   D) velocity
-78. The force that opposes sliding between surfaces is: A) friction   B) inertia   C) acceleration   D) velocity
-79. A seat belt helps protect passengers by applying force to change their: A) inertia   B) acceleration   C) velocity   D) motion
-80. If net external force is zero, total momentum of an isolated system is: A) inertia   B) acceleration   C) conserved   D) velocity
+61. Newton's first law is also called the law of: A) acceleration   B) inertia   C) momentum   D) friction
+62. Newton's second law relates force to mass and: A) acceleration   B) momentum   C) velocity   D) inertia
+63. Newton's third law states that every action has: A) zero force   B) zero acceleration   C) equal masses   D) an equal and opposite reaction
+64. The SI unit of force is the: A) joule   B) pascal   C) newton   D) watt
+65. The SI unit of momentum is: A) newton   B) kg m/s   C) kg m/s²   D) joule
+66. A force can change an object's: A) speed or direction   B) mass   C) chemical identity in every case   D) number of atoms in every case
+67. Balanced forces produce zero: A) mass   B) momentum   C) speed in every case   D) net force
+68. An unbalanced force can change an object's: A) mass   B) chemical identity   C) state of motion   D) number of atoms
+69. Inertia depends mainly on an object's: A) speed   B) mass   C) colour   D) temperature
+70. A passenger lurches forward when a moving bus stops due to: A) inertia   B) friction   C) gravity   D) buoyancy
+71. A rocket moves forward because gases are expelled backward; this illustrates: A) conservation of volume   B) friction   C) Newton's first law only   D) Newton's third law
+72. When a swimmer pushes water backward, the water pushes the swimmer: A) backward   B) upward only   C) forward   D) not at all
+73. Action and reaction forces act on: A) the same body only   B) different bodies   C) one body at rest only   D) no bodies
+74. Momentum is the product of mass and: A) velocity   B) acceleration   C) force   D) time
+75. For a fixed net force, doubling mass makes acceleration: A) double   B) unchanged   C) zero   D) half as large
+76. For a fixed mass, doubling net force doubles: A) mass   B) friction in every case   C) acceleration   D) inertia
+77. Friction generally acts opposite to: A) mass   B) relative motion between surfaces   C) gravity   D) normal force
+78. The force that opposes sliding between surfaces is: A) friction   B) momentum   C) velocity   D) inertia
+79. A seat belt helps protect passengers by bringing their body to rest during a sudden stop, changing its state of: A) mass   B) temperature   C) colour   D) motion
+80. If net external force is zero, total momentum of an isolated system is: A) destroyed   B) always increasing   C) conserved   D) automatically zero
 81. A 1 kg cart moves at 2 m/s on a smooth track. Its momentum before a collision is: A) 4 kg m/s   B) 2 kg m/s   C) 3 kg m/s   D) 0.5 kg m/s
 82. A 2 kg cart moves at 3 m/s on a smooth track. Its momentum before a collision is: A) 6 kg m/s   B) 9 kg m/s   C) 5 kg m/s   D) 0.6666666666666666 kg m/s
 83. A 3 kg cart moves at 4 m/s on a smooth track. Its momentum before a collision is: A) 16 kg m/s   B) 7 kg m/s   C) 0.75 kg m/s   D) 12 kg m/s
