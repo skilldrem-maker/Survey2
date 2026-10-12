@@ -55,16 +55,16 @@
 48. Frequency and time period are related by: A) vibrations   B) frequency   C) amplitude   D) f = 1/T
 49. A high-pitched sound has a higher: A) vibrations   B) amplitude   C) frequency   D) vacuum
 50. Loudness is related mainly to wave: A) vibrations   B) amplitude   C) frequency   D) vacuum
-51. The speed of sound is usually greatest in: A) solids   B) vibrations   C) frequency   D) amplitude
-52. The normal human hearing range is approximately: A) vibrations   B) frequency   C) amplitude   D) 20 Hz to 20,000 Hz
-53. Sound below 20 Hz is called: A) vibrations   B) frequency   C) infrasound   D) amplitude
-54. Sound above 20,000 Hz is called: A) vibrations   B) ultrasound   C) frequency   D) amplitude
-55. The persistence of sound due to repeated reflections is: A) reverberation   B) vibrations   C) frequency   D) amplitude
-56. A distinct reflected sound heard separately is an: A) vibrations   B) frequency   C) amplitude   D) echo
-57. Bats use ultrasound mainly for: A) vibrations   B) frequency   C) echolocation   D) amplitude
-58. SONAR uses reflected sound to determine: A) vibrations   B) distance underwater   C) frequency   D) amplitude
-59. A sound wave transfers: A) energy   B) vibrations   C) frequency   D) amplitude
-60. The loudness level is commonly expressed in: A) vibrations   B) frequency   C) amplitude   D) decibels
+51. The speed of sound is usually greatest in: A) solids   B) liquids   C) gases   D) vacuum
+52. The normal human hearing range is approximately: A) 2–200 Hz   B) 200–2,000 Hz   C) 20,000–200,000 Hz   D) 20 Hz to 20,000 Hz
+53. Sound below 20 Hz is called: A) ultrasound   B) audible sound   C) infrasound   D) echo
+54. Sound above 20,000 Hz is called: A) infrasound   B) ultrasound   C) audible sound   D) echo
+55. The persistence of sound due to repeated reflections is: A) reverberation   B) refraction   C) diffraction   D) absorption
+56. A distinct reflected sound heard separately is an: A) overtone   B) frequency   C) amplitude   D) echo
+57. Bats use ultrasound mainly for: A) photosynthesis   B) thermoregulation   C) echolocation   D) digestion
+58. SONAR uses reflected sound to determine: A) water colour   B) distance underwater   C) water temperature only   D) salinity only
+59. A sound wave transfers: A) energy   B) matter permanently from source to listener   C) no energy   D) only vacuum
+60. The loudness level is commonly expressed in: A) hertz   B) metres   C) joules   D) decibels
 61. A sound of frequency 50 Hz is: A) infrasound   B) ultrasound   C) within the usual human hearing range   D) inaudible to every animal
 62. A sound of frequency 100 Hz is: A) infrasound   B) within the usual human hearing range   C) ultrasound   D) inaudible to every animal
 63. A sound of frequency 250 Hz is: A) within the usual human hearing range   B) infrasound   C) ultrasound   D) inaudible to every animal
