@@ -74,7 +74,7 @@ One concept I need to practise: _____________________
 
 51. If \(p=\sqrt{3}+\sqrt{2}\), then \(p^2\) is: A) 5 B) \(5+2\sqrt6\) C) \(5-2\sqrt6\) D) \(\sqrt6\)
 52. Simplify \(\sqrt{192}\): A) \(8\sqrt3\) B) \(4\sqrt{12}\) C) \(16\sqrt3\) D) \(6\sqrt5\)
-53. Which number is irrational? A) \(\sqrt{121}\) B) \(\sqrt{0.81}\) C) \(\sqrt{45}\) D) \(\frac{22}{7}\)
+53. Select the irrational value: A) \(\sqrt{121}\) B) \(\sqrt{0.81}\) C) \(\sqrt{45}\) D) \(\frac{22}{7}\)
 54. If \(x=\frac{1}{\sqrt3}\), then \(3x^2+1\) equals: A) 1 B) 2 C) 3 D) 4
 55. \((\sqrt5+1)^2\) equals: A) \(6+2\sqrt5\) B) \(6+\sqrt5\) C) \(5+2\sqrt5\) D) 6
 56. Rationalise \(\frac{2}{\sqrt3+1}\): A) \(\sqrt3+1\) B) \(\sqrt3-1\) C) \(2\sqrt3-1\) D) \(\frac{\sqrt3-1}{2}\)
