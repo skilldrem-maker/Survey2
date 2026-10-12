@@ -17,12 +17,12 @@
 10. The point (5, 6) lies in which quadrant? A) I   B) II   C) III   D) IV
 11. The point (7, -2) lies in which quadrant? A) I   B) II   C) III   D) IV
 12. The point (-8, -5) lies in which quadrant? A) I   B) II   C) III   D) IV
-13. The point (6, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+13. The point (10, 3) lies in which quadrant? A) II   B) I   C) III   D) IV
 14. The point (-9, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
 15. The point (-7, -2) lies in which quadrant? A) I   B) II   C) IV   D) III
 16. The point (8, -3) lies in which quadrant? A) I   B) II   C) IV   D) III
 17. The point (6, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
-18. The point (-9, 4) lies in which quadrant? A) II   B) I   C) III   D) IV
+18. The point (-6, 9) lies in which quadrant? A) II   B) I   C) III   D) IV
 19. The point (5, -8) lies in which quadrant? A) I   B) II   C) III   D) IV
 20. The point (-7, -9) lies in which quadrant? A) I   B) II   C) III   D) IV
 21. Where is the point (0, 0) located? A) x-axis   B) Origin   C) y-axis   D) I
