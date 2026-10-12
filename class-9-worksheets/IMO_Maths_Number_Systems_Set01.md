@@ -36,7 +36,7 @@
 29. 0.125 as a fraction in lowest terms is: A) 1/4 B) 1/8 C) 1/5 D) 1/16
 30. If x = 2 + √3, then x + (2 − √3) = A) 2 B) 3 C) 4 D) 4√3
 31. √2 × √8 = A) 2 B) 4 C) √10 D) 16
-32. Which is not a rational number? A) −5 B) 0 C) √81 D) √13
+32. Which value cannot be expressed as a ratio of two integers? A) −5 B) 0 C) √81 D) √13
 33. (√5)⁴ = A) 5 B) 10 C) 25 D) 125
 34. The additive inverse of −7/4 is: A) −4/7 B) 7/4 C) 4/7 D) −7/4
 35. Which is equivalent to 3⁻¹? A) −3 B) 1/3 C) 3 D) −1/3
