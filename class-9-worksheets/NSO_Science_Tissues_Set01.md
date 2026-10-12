@@ -26,13 +26,13 @@
 20. Which tissue or structure connects bone to bone? A) xylem   B) phloem   C) ligament   D) parenchyma
 21. The basic unit of a tissue is a: A) xylem   B) cell   C) phloem   D) muscular tissue
 22. The main advantage of tissues is: A) division of labour   B) xylem   C) phloem   D) muscular tissue
-23. The heart wall contains: A) xylem   B) phloem   C) muscular tissue   D) cardiac muscle
-24. The stomach wall contains: A) xylem   B) phloem   C) smooth muscle   D) muscular tissue
+23. The heart wall contains: A) xylem   B) phloem   C) nervous tissue   D) cardiac muscle
+24. The stomach wall contains: A) xylem   B) phloem   C) smooth muscle   D) cardiac muscle
 25. The brain and spinal cord contain: A) xylem   B) nervous tissue   C) phloem   D) muscular tissue
 26. The root tip contains: A) apical meristem   B) xylem   C) phloem   D) muscular tissue
 27. The tissue that carries sugars in plants is: A) xylem   B) muscular tissue   C) nervous tissue   D) phloem
 28. The tissue that carries water in plants is: A) phloem   B) muscular tissue   C) xylem   D) nervous tissue
-29. The plant tissue with thick lignified walls is: A) xylem   B) sclerenchyma   C) phloem   D) muscular tissue
+29. Which dead supportive plant tissue has thick, lignified walls? A) parenchyma   B) sclerenchyma   C) phloem   D) epidermis
 30. The plant tissue with uneven thickening at corners is: A) collenchyma   B) xylem   C) phloem   D) muscular tissue
 31. Red blood cells transport: A) xylem   B) phloem   C) muscular tissue   D) oxygen
 32. Platelets help with: A) xylem   B) phloem   C) blood clotting   D) muscular tissue
