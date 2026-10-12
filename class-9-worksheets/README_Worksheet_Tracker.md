@@ -2,7 +2,9 @@
 
 Goal: original practice questions, answer keys, and quality checks for each lesson. These are practice worksheets, not official SOF questions.
 
-## Existing completed 100-MCQ worksheets
+**Manual audit report:** [Review all 29 worksheets and corrections](MANUAL_AUDIT_REPORT_2026-10-12.md)
+
+## Completed 100-MCQ worksheets
 - [IMO Mathematics — Number Systems](IMO_Maths_Number_Systems_Set01.md)
 - [IMO Mathematics — Coordinate Geometry](IMO_Maths_Coordinate_Geometry_Set01.md)
 - [IMO Mathematics — Linear Equations in Two Variables](IMO_Maths_Linear_Equations_Two_Variables_Set01.md)
@@ -85,4 +87,4 @@ Sources:
 - NCERT Class IX Mathematics exemplar, Number Systems: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/mathematics/ieep201.pdf
 - NCERT Class IX Science exemplar, Matter in Our Surroundings: https://ncert.nic.in/pdf/publication/exemplarproblem/classIX/science/ieep101.pdf
 
-Status note: all 29 tracked lessons now have a saved worksheet with 100 numbered questions and an answer key. Question counts and key-entry counts were checked against the saved files. A full manual review of every scientific fact, calculation, distractor, and answer-key alignment is still recommended before treating these as exam-final materials.
+Status note (12 October 2026): all 29 tracked lessons have a saved worksheet with 100 numbered questions and 100 answer-key entries each. Question counts, key counts, exact duplicate stems/options, calculations, definitions, and answer-key alignment were reviewed; issues found were corrected. This is a ChatGPT-assisted audit, not an independent teacher sign-off or full official-syllabus coverage audit. Cross-check with the latest SOF syllabus and NCERT before exam use.
