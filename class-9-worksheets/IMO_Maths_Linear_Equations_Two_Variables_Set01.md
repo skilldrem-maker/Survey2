@@ -13,7 +13,7 @@
 6. Which ordered pair is a solution of x + y = 3? A) (2, 2)   B) (1, 2)   C) (1, 4)   D) (-1, 1)
 7. Which ordered pair is a solution of x + y = 5? A) (2, 3)   B) (3, 3)   C) (2, 5)   D) (0, 2)
 8. Which ordered pair is a solution of x + y = 0? A) (4, -3)   B) (3, -1)   C) (1, -4)   D) (3, -3)
-9. Which ordered pair is a solution of x + y = 2? A) (5, -2)   B) (4, 0)   C) (4, -2)   D) (2, -3)
+9. Which ordered pair is a solution of x + y = 2? A) (5, -2)   B) (4, -2)   C) (4, 0)   D) (2, -3)
 10. For 3x + 5y = -14, which ordered pair is a solution? A) (-2, -1)   B) (-3, -1)   C) (-3, 0)   D) (-4, 0)
 11. For 4x + 6y = 4, which ordered pair is a solution? A) (-2, 2)   B) (-1, 2)   C) (-2, 3)   D) (-3, 3)
 12. For 2x + 5y = -22, which ordered pair is a solution? A) (0, -4)   B) (-1, -3)   C) (-2, -3)   D) (-1, -4)
