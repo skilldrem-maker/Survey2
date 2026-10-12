@@ -34,16 +34,16 @@
 28. Which number does not fit the pattern 64, 81, 100, 122? A) 64   B) 81   C) 122   D) 100
 29. Which number does not fit the pattern 81, 100, 121, 145? A) 81   B) 145   C) 100   D) 121
 30. Which number does not fit the pattern 100, 121, 144, 170? A) 170   B) 100   C) 121   D) 144
-31. Which number does not fit the pattern 1, 4, 9, 17? A) 1   B) 4   C) 9   D) 17
-32. Which number does not fit the pattern 4, 9, 16, 26? A) 4   B) 9   C) 26   D) 16
-33. Which number does not fit the pattern 9, 16, 25, 37? A) 9   B) 37   C) 16   D) 25
-34. Which number does not fit the pattern 16, 25, 36, 50? A) 50   B) 16   C) 25   D) 36
-35. Which number does not fit the pattern 25, 36, 49, 65? A) 25   B) 36   C) 49   D) 65
-36. Which number does not fit the pattern 36, 49, 64, 82? A) 36   B) 49   C) 82   D) 64
-37. Which number does not fit the pattern 49, 64, 81, 101? A) 49   B) 101   C) 64   D) 81
-38. Which number does not fit the pattern 64, 81, 100, 122? A) 122   B) 64   C) 81   D) 100
-39. Which number does not fit the pattern 81, 100, 121, 145? A) 81   B) 100   C) 121   D) 145
-40. Which number does not fit the pattern 100, 121, 144, 170? A) 100   B) 121   C) 170   D) 144
+31. Which number does not fit the pattern 1, 8, 27, 65? A) 1   B) 8   C) 27   D) 65
+32. Which number does not fit the pattern 8, 27, 64, 126? A) 8   B) 27   C) 126   D) 64
+33. Which number does not fit the pattern 27, 64, 125, 217? A) 27   B) 217   C) 64   D) 125
+34. Which number does not fit the pattern 1, 3, 6, 10, 16? A) 16   B) 1   C) 3   D) 6
+35. Which number does not fit the pattern 3, 6, 10, 15, 22? A) 3   B) 6   C) 10   D) 22
+36. Which number does not fit the pattern 2, 6, 12, 20, 31? A) 2   B) 6   C) 31   D) 20
+37. Which number does not fit the pattern 1, 4, 9, 16, 26? A) 1   B) 26   C) 9   D) 16
+38. Which number does not fit the pattern 2, 4, 8, 16, 33? A) 33   B) 4   C) 8   D) 16
+39. Which number does not fit the pattern 5, 10, 20, 40, 81? A) 5   B) 10   C) 20   D) 81
+40. Which number does not fit the pattern 3, 8, 15, 24, 36? A) 3   B) 8   C) 36   D) 24
 41. Find the next letter: A, B, C, ... A) C   B) D   C) E   D) None of these
 42. Find the next letter: B, D, F, ... A) H   B) F   C) I   D) J
 43. Find the next letter: C, F, I, ... A) I   B) M   C) O   D) L
